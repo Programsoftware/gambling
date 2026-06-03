@@ -1,0 +1,1489 @@
+{
+  "events": [
+    {
+      "competitions": [
+        {
+          "attendance": 0,
+          "broadcast": "ABC",
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "ABC"
+              ]
+            }
+          ],
+          "competitors": [
+            {
+              "curatedRank": {
+                "current": 99
+              },
+              "homeAway": "home",
+              "id": "7",
+              "leaders": [
+                {
+                  "abbreviation": "G",
+                  "displayName": "Goals",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "active": true,
+                        "displayName": "Seth Jarvis",
+                        "fullName": "Seth Jarvis",
+                        "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4697396.png",
+                        "id": "4697396",
+                        "jersey": "24",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nhl/player/_/id/4697396",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "position": {
+                          "abbreviation": "C"
+                        },
+                        "shortName": "S. Jarvis",
+                        "team": {
+                          "id": "7"
+                        }
+                      },
+                      "displayValue": "32",
+                      "team": {
+                        "id": "7"
+                      },
+                      "value": 32.0
+                    }
+                  ],
+                  "name": "goals",
+                  "shortDisplayName": "Goals"
+                },
+                {
+                  "abbreviation": "A",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "active": true,
+                        "displayName": "Sebastian Aho",
+                        "fullName": "Sebastian Aho",
+                        "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3904173.png",
+                        "id": "3904173",
+                        "jersey": "20",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nhl/player/_/id/3904173",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "position": {
+                          "abbreviation": "C"
+                        },
+                        "shortName": "S. Aho",
+                        "team": {
+                          "id": "7"
+                        }
+                      },
+                      "displayValue": "53",
+                      "team": {
+                        "id": "7"
+                      },
+                      "value": 53.0
+                    }
+                  ],
+                  "name": "assists",
+                  "shortDisplayName": "Assists"
+                },
+                {
+                  "abbreviation": "PTS",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "active": true,
+                        "displayName": "Sebastian Aho",
+                        "fullName": "Sebastian Aho",
+                        "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3904173.png",
+                        "id": "3904173",
+                        "jersey": "20",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nhl/player/_/id/3904173",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "position": {
+                          "abbreviation": "C"
+                        },
+                        "shortName": "S. Aho",
+                        "team": {
+                          "id": "7"
+                        }
+                      },
+                      "displayValue": "80",
+                      "statistics": [
+                        {
+                          "abbreviation": "SV",
+                          "description": "Total saves.",
+                          "displayName": "Saves",
+                          "displayValue": "0",
+                          "name": "saves",
+                          "shortDisplayName": "Saves",
+                          "value": 0.0
+                        },
+                        {
+                          "abbreviation": "SV%",
+                          "description": "Percentage of shots saved.",
+                          "displayName": "Save Percentage",
+                          "displayValue": ".000",
+                          "name": "savePct",
+                          "shortDisplayName": "Save Percentage",
+                          "value": 0.0
+                        },
+                        {
+                          "abbreviation": "+/-",
+                          "description": "Plus/Minus Rating",
+                          "displayName": "Plus/Minus Rating",
+                          "displayValue": "11",
+                          "name": "plusMinus",
+                          "shortDisplayName": "Plus/Minus",
+                          "value": 11.0
+                        },
+                        {
+                          "abbreviation": "G",
+                          "description": "Total goals scored.",
+                          "displayName": "Goals",
+                          "displayValue": "27",
+                          "name": "goals",
+                          "shortDisplayName": "Goals",
+                          "value": 27.0
+                        },
+                        {
+                          "abbreviation": "A",
+                          "description": "Total goal assists.",
+                          "displayName": "Assists",
+                          "displayValue": "53",
+                          "name": "assists",
+                          "shortDisplayName": "Assists",
+                          "value": 53.0
+                        },
+                        {
+                          "abbreviation": "PTS",
+                          "description": "Points",
+                          "displayName": "Points",
+                          "displayValue": "80",
+                          "name": "points",
+                          "shortDisplayName": "Points",
+                          "value": 80.0
+                        }
+                      ],
+                      "team": {
+                        "id": "7"
+                      },
+                      "value": 80.0
+                    }
+                  ],
+                  "name": "points",
+                  "shortDisplayName": "Points"
+                }
+              ],
+              "order": 0,
+              "probables": [
+                {
+                  "abbreviation": "SG",
+                  "athlete": {
+                    "displayName": "Frederik Andersen",
+                    "fullName": "Frederik Andersen",
+                    "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/2517899.png",
+                    "id": "2517899",
+                    "jersey": "31",
+                    "links": [
+                      {
+                        "href": "https://www.espn.com/nhl/player/_/id/2517899",
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ]
+                      }
+                    ],
+                    "position": "G",
+                    "shortName": "F. Andersen",
+                    "team": {
+                      "id": "7"
+                    }
+                  },
+                  "displayName": "Probable Starting Goalie",
+                  "name": "probableStartingGoalie",
+                  "playerId": 2517899,
+                  "record": "",
+                  "shortDisplayName": "Starter",
+                  "statistics": [],
+                  "status": {
+                    "abbreviation": "Confirmed",
+                    "id": "102",
+                    "name": "Confirmed",
+                    "type": "confirmed"
+                  }
+                }
+              ],
+              "records": [
+                {
+                  "abbreviation": "TOTAL",
+                  "name": "overall",
+                  "summary": "53-22-7",
+                  "type": "total"
+                },
+                {
+                  "abbreviation": "HOME",
+                  "name": "Home",
+                  "summary": "29-10-2",
+                  "type": "home"
+                },
+                {
+                  "abbreviation": "AWAY",
+                  "name": "Road",
+                  "summary": "24-12-5",
+                  "type": "road"
+                }
+              ],
+              "score": "0",
+              "statistics": [
+                {
+                  "abbreviation": "SV",
+                  "displayValue": "1727",
+                  "name": "saves",
+                  "rankDisplayValue": "32nd"
+                },
+                {
+                  "abbreviation": "SV%",
+                  "displayValue": ".886",
+                  "name": "savePct",
+                  "rankDisplayValue": "26th"
+                },
+                {
+                  "abbreviation": "+/-",
+                  "displayValue": "0",
+                  "name": "plusMinus"
+                },
+                {
+                  "abbreviation": "G",
+                  "displayValue": "291",
+                  "name": "goals",
+                  "rankDisplayValue": "2nd"
+                },
+                {
+                  "abbreviation": "YTDG",
+                  "displayValue": "0",
+                  "name": "ytdGoals"
+                },
+                {
+                  "abbreviation": "A",
+                  "displayValue": "477",
+                  "name": "assists",
+                  "rankDisplayValue": "7th"
+                },
+                {
+                  "abbreviation": "PTS",
+                  "displayValue": "768",
+                  "name": "points",
+                  "rankDisplayValue": "4th"
+                }
+              ],
+              "team": {
+                "abbreviation": "CAR",
+                "alternateColor": "000000",
+                "color": "e30426",
+                "displayName": "Carolina Hurricanes",
+                "id": "7",
+                "isActive": true,
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nhl/team/_/name/car/carolina-hurricanes",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://m.espn.com/nhl/clubhouse?teamId=7",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "mobile",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/nhl/team/roster/_/name/car/carolina-hurricanes",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "https://www.espn.com/nhl/team/stats/_/name/car/carolina-hurricanes",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "https://www.espn.com/nhl/team/schedule/_/name/car",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  }
+                ],
+                "location": "Carolina",
+                "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png",
+                "name": "Hurricanes",
+                "shortDisplayName": "Hurricanes",
+                "uid": "s:70~l:90~t:7",
+                "venue": {
+                  "id": "999"
+                }
+              },
+              "type": "team",
+              "uid": "s:70~l:90~t:7"
+            },
+            {
+              "curatedRank": {
+                "current": 99
+              },
+              "homeAway": "away",
+              "id": "37",
+              "leaders": [
+                {
+                  "abbreviation": "G",
+                  "displayName": "Goals",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "active": true,
+                        "displayName": "Pavel Dorofeyev",
+                        "fullName": "Pavel Dorofeyev",
+                        "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4587588.png",
+                        "id": "4587588",
+                        "jersey": "16",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nhl/player/_/id/4587588",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "position": {
+                          "abbreviation": "RW"
+                        },
+                        "shortName": "P. Dorofeyev",
+                        "team": {
+                          "id": "37"
+                        }
+                      },
+                      "displayValue": "37",
+                      "team": {
+                        "id": "37"
+                      },
+                      "value": 37.0
+                    }
+                  ],
+                  "name": "goals",
+                  "shortDisplayName": "Goals"
+                },
+                {
+                  "abbreviation": "A",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "active": true,
+                        "displayName": "Jack Eichel",
+                        "fullName": "Jack Eichel",
+                        "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3648002.png",
+                        "id": "3648002",
+                        "jersey": "9",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nhl/player/_/id/3648002",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "position": {
+                          "abbreviation": "C"
+                        },
+                        "shortName": "J. Eichel",
+                        "team": {
+                          "id": "37"
+                        }
+                      },
+                      "displayValue": "63",
+                      "team": {
+                        "id": "37"
+                      },
+                      "value": 63.0
+                    }
+                  ],
+                  "name": "assists",
+                  "shortDisplayName": "Assists"
+                },
+                {
+                  "abbreviation": "PTS",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "active": true,
+                        "displayName": "Jack Eichel",
+                        "fullName": "Jack Eichel",
+                        "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/3648002.png",
+                        "id": "3648002",
+                        "jersey": "9",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nhl/player/_/id/3648002",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "position": {
+                          "abbreviation": "C"
+                        },
+                        "shortName": "J. Eichel",
+                        "team": {
+                          "id": "37"
+                        }
+                      },
+                      "displayValue": "90",
+                      "statistics": [
+                        {
+                          "abbreviation": "SV",
+                          "description": "Total saves.",
+                          "displayName": "Saves",
+                          "displayValue": "0",
+                          "name": "saves",
+                          "shortDisplayName": "Saves",
+                          "value": 0.0
+                        },
+                        {
+                          "abbreviation": "SV%",
+                          "description": "Percentage of shots saved.",
+                          "displayName": "Save Percentage",
+                          "displayValue": ".000",
+                          "name": "savePct",
+                          "shortDisplayName": "Save Percentage",
+                          "value": 0.0
+                        },
+                        {
+                          "abbreviation": "+/-",
+                          "description": "Plus/Minus Rating",
+                          "displayName": "Plus/Minus Rating",
+                          "displayValue": "23",
+                          "name": "plusMinus",
+                          "shortDisplayName": "Plus/Minus",
+                          "value": 23.0
+                        },
+                        {
+                          "abbreviation": "G",
+                          "description": "Total goals scored.",
+                          "displayName": "Goals",
+                          "displayValue": "27",
+                          "name": "goals",
+                          "shortDisplayName": "Goals",
+                          "value": 27.0
+                        },
+                        {
+                          "abbreviation": "A",
+                          "description": "Total goal assists.",
+                          "displayName": "Assists",
+                          "displayValue": "63",
+                          "name": "assists",
+                          "shortDisplayName": "Assists",
+                          "value": 63.0
+                        },
+                        {
+                          "abbreviation": "PTS",
+                          "description": "Points",
+                          "displayName": "Points",
+                          "displayValue": "90",
+                          "name": "points",
+                          "shortDisplayName": "Points",
+                          "value": 90.0
+                        }
+                      ],
+                      "team": {
+                        "id": "37"
+                      },
+                      "value": 90.0
+                    }
+                  ],
+                  "name": "points",
+                  "shortDisplayName": "Points"
+                }
+              ],
+              "order": 1,
+              "probables": [
+                {
+                  "abbreviation": "SG",
+                  "athlete": {
+                    "displayName": "Carter Hart",
+                    "fullName": "Carter Hart",
+                    "headshot": "https://a.espncdn.com/i/headshots/nhl/players/full/4064582.png",
+                    "id": "4064582",
+                    "jersey": "79",
+                    "links": [
+                      {
+                        "href": "https://www.espn.com/nhl/player/_/id/4064582",
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ]
+                      }
+                    ],
+                    "position": "G",
+                    "shortName": "C. Hart",
+                    "team": {
+                      "id": "37"
+                    }
+                  },
+                  "displayName": "Probable Starting Goalie",
+                  "name": "probableStartingGoalie",
+                  "playerId": 4064582,
+                  "record": "",
+                  "shortDisplayName": "Starter",
+                  "statistics": [],
+                  "status": {
+                    "abbreviation": "Confirmed",
+                    "id": "102",
+                    "name": "Confirmed",
+                    "type": "confirmed"
+                  }
+                }
+              ],
+              "records": [
+                {
+                  "abbreviation": "TOTAL",
+                  "name": "overall",
+                  "summary": "39-26-17",
+                  "type": "total"
+                },
+                {
+                  "abbreviation": "HOME",
+                  "name": "Home",
+                  "summary": "20-12-9",
+                  "type": "home"
+                },
+                {
+                  "abbreviation": "AWAY",
+                  "name": "Road",
+                  "summary": "19-14-8",
+                  "type": "road"
+                }
+              ],
+              "score": "0",
+              "statistics": [
+                {
+                  "abbreviation": "SV",
+                  "displayValue": "1758",
+                  "name": "saves",
+                  "rankDisplayValue": "30th"
+                },
+                {
+                  "abbreviation": "SV%",
+                  "displayValue": ".884",
+                  "name": "savePct",
+                  "rankDisplayValue": "28th"
+                },
+                {
+                  "abbreviation": "+/-",
+                  "displayValue": "0",
+                  "name": "plusMinus"
+                },
+                {
+                  "abbreviation": "G",
+                  "displayValue": "264",
+                  "name": "goals",
+                  "rankDisplayValue": "14th"
+                },
+                {
+                  "abbreviation": "YTDG",
+                  "displayValue": "0",
+                  "name": "ytdGoals"
+                },
+                {
+                  "abbreviation": "A",
+                  "displayValue": "458",
+                  "name": "assists",
+                  "rankDisplayValue": "12th"
+                },
+                {
+                  "abbreviation": "PTS",
+                  "displayValue": "722",
+                  "name": "points",
+                  "rankDisplayValue": "12th"
+                }
+              ],
+              "team": {
+                "abbreviation": "VGK",
+                "alternateColor": "b4975a",
+                "color": "344043",
+                "displayName": "Vegas Golden Knights",
+                "id": "37",
+                "isActive": true,
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nhl/team/_/name/vgk/vegas-golden-knights",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://m.espn.com/nhl/clubhouse?teamId=37",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "clubhouse",
+                      "mobile",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  },
+                  {
+                    "href": "https://www.espn.com/nhl/team/roster/_/name/vgk/vegas-golden-knights",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Roster"
+                  },
+                  {
+                    "href": "https://www.espn.com/nhl/team/stats/_/name/vgk/vegas-golden-knights",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Statistics"
+                  },
+                  {
+                    "href": "https://www.espn.com/nhl/team/schedule/_/name/vgk",
+                    "isExternal": false,
+                    "isPremium": false,
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Schedule"
+                  }
+                ],
+                "location": "Vegas",
+                "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png",
+                "name": "Golden Knights",
+                "shortDisplayName": "Golden Knights",
+                "uid": "s:70~l:90~t:37",
+                "venue": {
+                  "id": "5060"
+                }
+              },
+              "type": "team",
+              "uid": "s:70~l:90~t:37"
+            }
+          ],
+          "date": "2026-06-03T00:00Z",
+          "format": {
+            "regulation": {
+              "periods": 3
+            }
+          },
+          "geoBroadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "darkLogo": "https://a.espncdn.com/guid/2acff74d-269f-36ac-96eb-9c66f8ba52ff/logos/default-dark.png",
+                "logo": "https://a.espncdn.com/guid/2acff74d-269f-36ac-96eb-9c66f8ba52ff/logos/default.png",
+                "shortName": "ABC"
+              },
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "highlights": [],
+          "id": "401874171",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "Stanley Cup Final - Game 1",
+              "type": "event"
+            }
+          ],
+          "odds": [
+            {
+              "awayTeamOdds": {
+                "favorite": false,
+                "favoriteAtOpen": false,
+                "team": {
+                  "abbreviation": "VGK",
+                  "displayName": "Vegas Golden Knights",
+                  "id": "37",
+                  "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/vgk.png",
+                  "name": "Golden Knights",
+                  "uid": "s:70~l:90~t:37"
+                },
+                "underdog": true
+              },
+              "details": "CAR -155",
+              "footer": {
+                "disclaimer": "GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Call 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD), 1-800-981-0023 (PR). 21+ and present in most states. (18+ DC/KY/NH/PR/WY). Void in ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino (KS). Pass-thru of per wager tax may apply in IL."
+              },
+              "header": {
+                "logo": {
+                  "dark": "https://a.espncdn.com/i/espnbet/dark/espn-bet-square-off.svg",
+                  "exclusivesLogoDark": "https://a.espncdn.com/i/espnbet/espn-bet-square-mint.svg",
+                  "exclusivesLogoLight": "https://a.espncdn.com/i/espnbet/espn-bet-square-mint.svg",
+                  "light": "https://a.espncdn.com/i/espnbet/espn-bet-square-off.svg"
+                },
+                "text": "Game Odds"
+              },
+              "homeTeamOdds": {
+                "favorite": true,
+                "favoriteAtOpen": true,
+                "team": {
+                  "abbreviation": "CAR",
+                  "displayName": "Carolina Hurricanes",
+                  "id": "7",
+                  "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png",
+                  "name": "Hurricanes",
+                  "uid": "s:70~l:90~t:7"
+                },
+                "underdog": false
+              },
+              "link": {
+                "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34213467",
+                "isExternal": true,
+                "isPremium": false,
+                "language": "en-US",
+                "rel": [
+                  "game",
+                  "desktop",
+                  "bets"
+                ],
+                "shortText": "Game",
+                "text": "See More Odds",
+                "tracking": {
+                  "campaign": "betting-integrations",
+                  "tags": {
+                    "betSide": "none",
+                    "betType": "straight",
+                    "gameId": 401874171,
+                    "league": "nhl",
+                    "sport": "hockey"
+                  }
+                }
+              },
+              "moneyline": {
+                "away": {
+                  "close": {
+                    "link": {
+                      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34213467%3Foutcomes%3D0ML84963912_3",
+                      "isExternal": true,
+                      "isPremium": false,
+                      "language": "en-US",
+                      "rel": [
+                        "away",
+                        "desktop",
+                        "bets",
+                        "draftkings"
+                      ],
+                      "shortText": "Away Bet",
+                      "text": "Away Bet",
+                      "tracking": {
+                        "campaign": "betting-integrations",
+                        "tags": {
+                          "betSide": "away",
+                          "betType": "straight",
+                          "gameId": 401874171,
+                          "league": "nhl",
+                          "sport": "hockey"
+                        }
+                      }
+                    },
+                    "odds": "+130"
+                  },
+                  "open": {
+                    "odds": "+130"
+                  }
+                },
+                "displayName": "Moneyline",
+                "home": {
+                  "close": {
+                    "link": {
+                      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34213467%3Foutcomes%3D0ML84963912_1",
+                      "isExternal": true,
+                      "isPremium": false,
+                      "language": "en-US",
+                      "rel": [
+                        "home",
+                        "desktop",
+                        "bets",
+                        "draftkings"
+                      ],
+                      "shortText": "Home Bet",
+                      "text": "Home Bet",
+                      "tracking": {
+                        "campaign": "betting-integrations",
+                        "tags": {
+                          "betSide": "home",
+                          "betType": "straight",
+                          "gameId": 401874171,
+                          "league": "nhl",
+                          "sport": "hockey"
+                        }
+                      }
+                    },
+                    "odds": "-155"
+                  },
+                  "open": {
+                    "odds": "-155"
+                  }
+                },
+                "shortDisplayName": "ML"
+              },
+              "overUnder": 5.5,
+              "pointSpread": {
+                "away": {
+                  "close": {
+                    "line": "+1.5",
+                    "link": {
+                      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34213467%3Foutcomes%3D0HC84963912P150_3",
+                      "isExternal": true,
+                      "isPremium": false,
+                      "language": "en-US",
+                      "rel": [
+                        "awaySpread",
+                        "desktop",
+                        "bets"
+                      ],
+                      "shortText": "Away Point Spread",
+                      "text": "Away Point Spread",
+                      "tracking": {
+                        "campaign": "betting-integrations",
+                        "tags": {
+                          "betDetails": "Spread:VGK+1.5",
+                          "betSide": "none",
+                          "betType": "straight",
+                          "gameId": 401874171,
+                          "league": "nhl",
+                          "sport": "hockey"
+                        }
+                      }
+                    },
+                    "odds": "-205"
+                  },
+                  "open": {
+                    "line": "+1.5",
+                    "odds": "-185"
+                  }
+                },
+                "displayName": "Spread",
+                "home": {
+                  "close": {
+                    "line": "-1.5",
+                    "link": {
+                      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34213467%3Foutcomes%3D0HC84963912N150_1",
+                      "isExternal": true,
+                      "isPremium": false,
+                      "language": "en-US",
+                      "rel": [
+                        "homeSpread",
+                        "desktop",
+                        "bets"
+                      ],
+                      "shortText": "Home Point Spread",
+                      "text": "Home Point Spread",
+                      "tracking": {
+                        "campaign": "betting-integrations",
+                        "tags": {
+                          "betDetails": "Spread:CAR-1.5",
+                          "betSide": "none",
+                          "betType": "straight",
+                          "gameId": 401874171,
+                          "league": "nhl",
+                          "sport": "hockey"
+                        }
+                      }
+                    },
+                    "odds": "+170"
+                  },
+                  "open": {
+                    "line": "-1.5",
+                    "odds": "+154"
+                  }
+                },
+                "shortDisplayName": "Spread"
+              },
+              "provider": {
+                "displayName": "DraftKings",
+                "id": "100",
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/betting/Draftkings_Light.svg",
+                    "rel": [
+                      "light"
+                    ]
+                  },
+                  {
+                    "href": "https://a.espncdn.com/i/betting/Draftkings_Dark.svg",
+                    "rel": [
+                      "dark"
+                    ]
+                  }
+                ],
+                "name": "DraftKings",
+                "priority": 1
+              },
+              "spread": -1.5,
+              "total": {
+                "displayName": "Total",
+                "over": {
+                  "close": {
+                    "line": "o5.5",
+                    "link": {
+                      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34213467%3Foutcomes%3D0OU84963912O550_1",
+                      "isExternal": true,
+                      "isPremium": false,
+                      "language": "en-US",
+                      "rel": [
+                        "over",
+                        "desktop",
+                        "bets"
+                      ],
+                      "shortText": "Over Odds",
+                      "text": "Over Odds",
+                      "tracking": {
+                        "campaign": "betting-integrations",
+                        "tags": {
+                          "betDetails": "Over:5.5",
+                          "betSide": "over",
+                          "betType": "straight",
+                          "gameId": 401874171,
+                          "league": "nhl",
+                          "sport": "hockey"
+                        }
+                      }
+                    },
+                    "odds": "-122"
+                  },
+                  "open": {
+                    "line": "o5.5",
+                    "odds": "-122"
+                  }
+                },
+                "shortDisplayName": "Total",
+                "under": {
+                  "close": {
+                    "line": "u5.5",
+                    "link": {
+                      "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34213467%3Foutcomes%3D0OU84963912U550_3",
+                      "isExternal": true,
+                      "isPremium": false,
+                      "language": "en-US",
+                      "rel": [
+                        "under",
+                        "desktop",
+                        "bets"
+                      ],
+                      "shortText": "Under Odds",
+                      "text": "Under Odds",
+                      "tracking": {
+                        "campaign": "betting-integrations",
+                        "tags": {
+                          "betDetails": "Under:5.5",
+                          "betSide": "under",
+                          "betType": "straight",
+                          "gameId": 401874171,
+                          "league": "nhl",
+                          "sport": "hockey"
+                        }
+                      }
+                    },
+                    "odds": "+102"
+                  },
+                  "open": {
+                    "line": "u5.5",
+                    "odds": "+102"
+                  }
+                }
+              }
+            }
+          ],
+          "playByPlayAvailable": false,
+          "recent": false,
+          "series": {
+            "competitors": [
+              {
+                "href": "http://sports.core.api.espn.pvt/v2/sports/hockey/leagues/nhl/seasons/2026/teams/7?lang=en&region=us",
+                "id": "7",
+                "ties": 0,
+                "uid": "s:70~l:90~t:7",
+                "wins": 0
+              },
+              {
+                "href": "http://sports.core.api.espn.pvt/v2/sports/hockey/leagues/nhl/seasons/2026/teams/37?lang=en&region=us",
+                "id": "37",
+                "ties": 0,
+                "uid": "s:70~l:90~t:37",
+                "wins": 0
+              }
+            ],
+            "completed": false,
+            "summary": "Series starts 6/2",
+            "title": "Playoff Series",
+            "totalCompetitions": 7,
+            "type": "playoff"
+          },
+          "startDate": "2026-06-03T00:00Z",
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0:00",
+            "period": 0,
+            "type": {
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Tue, June 2nd at 8:00 PM EDT",
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "shortDetail": "6/2 - 8:00 PM EDT",
+              "state": "pre"
+            }
+          },
+          "tickets": [
+            {
+              "links": [
+                {
+                  "href": "https://www.vividseats.com/carolina-hurricanes-tickets-lenovo-center-6-7-2026--sports-nhl-hockey/production/6639876?wsUser=717"
+                },
+                {
+                  "href": "https://www.vividseats.com/pnc-arena-tickets/venue/9819?wsUser=717"
+                }
+              ],
+              "numberAvailable": 142,
+              "summary": "Tickets as low as $689"
+            }
+          ],
+          "timeValid": true,
+          "type": {
+            "abbreviation": "FINAL",
+            "id": "17"
+          },
+          "uid": "s:70~l:90~e:401874171~c:401874171",
+          "venue": {
+            "address": {
+              "city": "Raleigh",
+              "country": "USA",
+              "state": "NC"
+            },
+            "fullName": "Lenovo Center",
+            "id": "999",
+            "indoor": true
+          }
+        }
+      ],
+      "date": "2026-06-03T00:00Z",
+      "id": "401874171",
+      "links": [
+        {
+          "href": "https://www.espn.com/nhl/game/_/gameId/401874171/golden-knights-hurricanes",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        }
+      ],
+      "name": "Vegas Golden Knights at Carolina Hurricanes",
+      "season": {
+        "slug": "post-season",
+        "type": 3,
+        "year": 2026
+      },
+      "shortName": "VGK @ CAR",
+      "status": {
+        "clock": 0.0,
+        "displayClock": "0:00",
+        "period": 0,
+        "type": {
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Tue, June 2nd at 8:00 PM EDT",
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "shortDetail": "6/2 - 8:00 PM EDT",
+          "state": "pre"
+        }
+      },
+      "uid": "s:70~l:90~e:401874171"
+    }
+  ],
+  "leagues": [
+    {
+      "abbreviation": "NHL",
+      "calendar": [
+        "2025-09-20T07:00Z",
+        "2025-09-21T07:00Z",
+        "2025-09-22T07:00Z",
+        "2025-09-23T07:00Z",
+        "2025-09-24T07:00Z",
+        "2025-09-25T07:00Z",
+        "2025-09-26T07:00Z",
+        "2025-09-27T07:00Z",
+        "2025-09-28T07:00Z",
+        "2025-09-29T07:00Z",
+        "2025-09-30T07:00Z",
+        "2025-10-01T07:00Z",
+        "2025-10-02T07:00Z",
+        "2025-10-03T07:00Z",
+        "2025-10-04T07:00Z",
+        "2025-10-07T07:00Z",
+        "2025-10-08T07:00Z",
+        "2025-10-09T07:00Z",
+        "2025-10-11T07:00Z",
+        "2025-10-12T07:00Z",
+        "2025-10-13T07:00Z",
+        "2025-10-14T07:00Z",
+        "2025-10-15T07:00Z",
+        "2025-10-16T07:00Z",
+        "2025-10-17T07:00Z",
+        "2025-10-18T07:00Z",
+        "2025-10-19T07:00Z",
+        "2025-10-20T07:00Z",
+        "2025-10-21T07:00Z",
+        "2025-10-22T07:00Z",
+        "2025-10-23T07:00Z",
+        "2025-10-24T07:00Z",
+        "2025-10-25T07:00Z",
+        "2025-10-26T07:00Z",
+        "2025-10-27T07:00Z",
+        "2025-10-28T07:00Z",
+        "2025-10-29T07:00Z",
+        "2025-10-30T07:00Z",
+        "2025-10-31T07:00Z",
+        "2025-11-01T07:00Z",
+        "2025-11-02T07:00Z",
+        "2025-11-03T08:00Z",
+        "2025-11-04T08:00Z",
+        "2025-11-05T08:00Z",
+        "2025-11-06T08:00Z",
+        "2025-11-07T08:00Z",
+        "2025-11-08T08:00Z",
+        "2025-11-09T08:00Z",
+        "2025-11-10T08:00Z",
+        "2025-11-11T08:00Z",
+        "2025-11-12T08:00Z",
+        "2025-11-13T08:00Z",
+        "2025-11-14T08:00Z",
+        "2025-11-15T08:00Z",
+        "2025-11-16T08:00Z",
+        "2025-11-17T08:00Z",
+        "2025-11-18T08:00Z",
+        "2025-11-19T08:00Z",
+        "2025-11-20T08:00Z",
+        "2025-11-21T08:00Z",
+        "2025-11-22T08:00Z",
+        "2025-11-23T08:00Z",
+        "2025-11-24T08:00Z",
+        "2025-11-25T08:00Z",
+        "2025-11-26T08:00Z",
+        "2025-11-28T08:00Z",
+        "2025-11-29T08:00Z",
+        "2025-11-30T08:00Z",
+        "2025-12-01T08:00Z",
+        "2025-12-02T08:00Z",
+        "2025-12-03T08:00Z",
+        "2025-12-04T08:00Z",
+        "2025-12-05T08:00Z",
+        "2025-12-06T08:00Z",
+        "2025-12-07T08:00Z",
+        "2025-12-08T08:00Z",
+        "2025-12-09T08:00Z",
+        "2025-12-10T08:00Z",
+        "2025-12-11T08:00Z",
+        "2025-12-12T08:00Z",
+        "2025-12-13T08:00Z",
+        "2025-12-14T08:00Z",
+        "2025-12-15T08:00Z",
+        "2025-12-16T08:00Z",
+        "2025-12-17T08:00Z",
+        "2025-12-18T08:00Z",
+        "2025-12-19T08:00Z",
+        "2025-12-20T08:00Z",
+        "2025-12-21T08:00Z",
+        "2025-12-22T08:00Z",
+        "2025-12-23T08:00Z",
+        "2025-12-27T08:00Z",
+        "2025-12-28T08:00Z",
+        "2025-12-29T08:00Z",
+        "2025-12-30T08:00Z",
+        "2025-12-31T08:00Z",
+        "2026-01-01T08:00Z",
+        "2026-01-02T08:00Z",
+        "2026-01-03T08:00Z",
+        "2026-01-04T08:00Z",
+        "2026-01-05T08:00Z",
+        "2026-01-06T08:00Z",
+        "2026-01-07T08:00Z",
+        "2026-01-08T08:00Z",
+        "2026-01-09T08:00Z",
+        "2026-01-10T08:00Z",
+        "2026-01-11T08:00Z",
+        "2026-01-12T08:00Z",
+        "2026-01-13T08:00Z",
+        "2026-01-14T08:00Z",
+        "2026-01-15T08:00Z",
+        "2026-01-16T08:00Z",
+        "2026-01-17T08:00Z",
+        "2026-01-18T08:00Z",
+        "2026-01-19T08:00Z",
+        "2026-01-20T08:00Z",
+        "2026-01-21T08:00Z",
+        "2026-01-22T08:00Z",
+        "2026-01-23T08:00Z",
+        "2026-01-24T08:00Z",
+        "2026-01-25T08:00Z",
+        "2026-01-26T08:00Z",
+        "2026-01-27T08:00Z",
+        "2026-01-28T08:00Z",
+        "2026-01-29T08:00Z",
+        "2026-01-30T08:00Z",
+        "2026-01-31T08:00Z",
+        "2026-02-01T08:00Z",
+        "2026-02-02T08:00Z",
+        "2026-02-03T08:00Z",
+        "2026-02-04T08:00Z",
+        "2026-02-05T08:00Z",
+        "2026-02-25T08:00Z",
+        "2026-02-26T08:00Z",
+        "2026-02-27T08:00Z",
+        "2026-02-28T08:00Z",
+        "2026-03-01T08:00Z",
+        "2026-03-02T08:00Z",
+        "2026-03-03T08:00Z",
+        "2026-03-04T08:00Z",
+        "2026-03-05T08:00Z",
+        "2026-03-06T08:00Z",
+        "2026-03-07T08:00Z",
+        "2026-03-08T08:00Z",
+        "2026-03-09T07:00Z",
+        "2026-03-10T07:00Z",
+        "2026-03-11T07:00Z",
+        "2026-03-12T07:00Z",
+        "2026-03-13T07:00Z",
+        "2026-03-14T07:00Z",
+        "2026-03-15T07:00Z",
+        "2026-03-16T07:00Z",
+        "2026-03-17T07:00Z",
+        "2026-03-18T07:00Z",
+        "2026-03-19T07:00Z",
+        "2026-03-20T07:00Z",
+        "2026-03-21T07:00Z",
+        "2026-03-22T07:00Z",
+        "2026-03-23T07:00Z",
+        "2026-03-24T07:00Z",
+        "2026-03-25T07:00Z",
+        "2026-03-26T07:00Z",
+        "2026-03-27T07:00Z",
+        "2026-03-28T07:00Z",
+        "2026-03-29T07:00Z",
+        "2026-03-30T07:00Z",
+        "2026-03-31T07:00Z",
+        "2026-04-01T07:00Z",
+        "2026-04-02T07:00Z",
+        "2026-04-03T07:00Z",
+        "2026-04-04T07:00Z",
+        "2026-04-05T07:00Z",
+        "2026-04-06T07:00Z",
+        "2026-04-07T07:00Z",
+        "2026-04-08T07:00Z",
+        "2026-04-09T07:00Z",
+        "2026-04-11T07:00Z",
+        "2026-04-12T07:00Z",
+        "2026-04-13T07:00Z",
+        "2026-04-14T07:00Z",
+        "2026-04-15T07:00Z",
+        "2026-04-16T07:00Z",
+        "2026-04-18T07:00Z",
+        "2026-04-19T07:00Z",
+        "2026-04-20T07:00Z",
+        "2026-04-21T07:00Z",
+        "2026-04-22T07:00Z",
+        "2026-04-23T07:00Z",
+        "2026-04-24T07:00Z",
+        "2026-04-25T07:00Z",
+        "2026-04-26T07:00Z",
+        "2026-04-27T07:00Z",
+        "2026-04-28T07:00Z",
+        "2026-04-29T07:00Z",
+        "2026-04-30T07:00Z",
+        "2026-05-01T07:00Z",
+        "2026-05-02T07:00Z",
+        "2026-05-03T07:00Z",
+        "2026-05-04T07:00Z",
+        "2026-05-05T07:00Z",
+        "2026-05-06T07:00Z",
+        "2026-05-07T07:00Z",
+        "2026-05-08T07:00Z",
+        "2026-05-09T07:00Z",
+        "2026-05-10T07:00Z",
+        "2026-05-11T07:00Z",
+        "2026-05-12T07:00Z",
+        "2026-05-13T07:00Z",
+        "2026-05-14T07:00Z",
+        "2026-05-16T07:00Z",
+        "2026-05-18T07:00Z",
+        "2026-05-20T07:00Z",
+        "2026-05-21T07:00Z",
+        "2026-05-22T07:00Z",
+        "2026-05-23T07:00Z",
+        "2026-05-24T07:00Z",
+        "2026-05-25T07:00Z",
+        "2026-05-26T07:00Z",
+        "2026-05-27T07:00Z",
+        "2026-05-29T07:00Z",
+        "2026-06-02T07:00Z",
+        "2026-06-04T07:00Z",
+        "2026-06-06T07:00Z",
+        "2026-06-09T07:00Z",
+        "2026-06-11T07:00Z",
+        "2026-06-14T07:00Z",
+        "2026-06-17T07:00Z"
+      ],
+      "calendarEndDate": "2026-07-01T06:59Z",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2025-09-20T07:00Z",
+      "calendarType": "day",
+      "id": "90",
+      "logos": [
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+          "lastUpdated": "2018-06-05T12:07Z",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "width": 500
+        },
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/i/teamlogos/leagues/500-dark/nhl.png",
+          "lastUpdated": "2021-08-10T20:37Z",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "width": 500
+        }
+      ],
+      "name": "National Hockey League",
+      "season": {
+        "displayName": "2025-26",
+        "endDate": "2026-07-01T06:59Z",
+        "startDate": "2025-09-20T07:00Z",
+        "type": {
+          "abbreviation": "post",
+          "id": "3",
+          "name": "Postseason",
+          "type": 3
+        },
+        "year": 2026
+      },
+      "slug": "nhl",
+      "uid": "s:70~l:90"
+    }
+  ],
+  "provider": {
+    "displayName": "DraftKings",
+    "id": "100",
+    "logos": [
+      {
+        "href": "https://a.espncdn.com/i/betting/Draftkings_Light.svg",
+        "rel": [
+          "light"
+        ]
+      },
+      {
+        "href": "https://a.espncdn.com/i/betting/Draftkings_Dark.svg",
+        "rel": [
+          "dark"
+        ]
+      }
+    ],
+    "name": "DraftKings",
+    "priority": 1
+  }
+}

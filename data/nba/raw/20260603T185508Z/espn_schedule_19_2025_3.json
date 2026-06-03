@@ -1,0 +1,5137 @@
+{
+  "events": [
+    {
+      "competitions": [
+        {
+          "attendance": 19156,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "ABC"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "2",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "61-21",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "39-13",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "103",
+                "value": 103.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "19",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Paolo Banchero",
+                        "id": "4432573",
+                        "lastName": "Banchero",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "P. Banchero"
+                      },
+                      "displayValue": "36",
+                      "value": 36.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Franz Wagner",
+                        "id": "4566434",
+                        "lastName": "Wagner",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "F. Wagner"
+                      },
+                      "displayValue": "5",
+                      "value": 5.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Wendell Carter Jr.",
+                        "id": "4277847",
+                        "lastName": "Carter Jr.",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "W. Carter Jr."
+                      },
+                      "displayValue": "13",
+                      "value": 13.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "41-41",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "31-21",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "86",
+                "value": 86.0
+              },
+              "team": {
+                "abbreviation": "ORL",
+                "displayName": "Orlando Magic",
+                "id": "19",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/orl/orlando-magic",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Orlando",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:37Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:35Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Magic"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2025-04-20T19:30Z",
+          "id": "401767822",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 1",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Boston",
+              "state": "MA"
+            },
+            "fullName": "TD Garden"
+          }
+        }
+      ],
+      "date": "2025-04-20T19:30Z",
+      "id": "401767822",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401767822/magic-celtics",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401767822&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/watchespn/index?gameId=401767822&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "desktop",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "watchespn://showEvent?gameId=401767822&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "app",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401767822",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Orlando Magic at Boston Celtics",
+      "season": {
+        "displayName": "2024-25",
+        "year": 2025
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "ORL @ BOS",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 19156,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "TNT"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "truTV"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "HBO Max"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "4",
+                "shortName": "Streaming"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "NBC Sports BO"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN FL"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "2",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "61-21",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "39-13",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "109",
+                "value": 109.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "19",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Paolo Banchero",
+                        "id": "4432573",
+                        "lastName": "Banchero",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "P. Banchero"
+                      },
+                      "displayValue": "32",
+                      "value": 32.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Paolo Banchero",
+                        "id": "4432573",
+                        "lastName": "Banchero",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "P. Banchero"
+                      },
+                      "displayValue": "7",
+                      "value": 7.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Paolo Banchero",
+                        "id": "4432573",
+                        "lastName": "Banchero",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "P. Banchero"
+                      },
+                      "displayValue": "9",
+                      "value": 9.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "41-41",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "31-21",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "100",
+                "value": 100.0
+              },
+              "team": {
+                "abbreviation": "ORL",
+                "displayName": "Orlando Magic",
+                "id": "19",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/orl/orlando-magic",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Orlando",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:37Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:35Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Magic"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2025-04-23T23:00Z",
+          "id": "401768029",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 2",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Boston",
+              "state": "MA"
+            },
+            "fullName": "TD Garden"
+          }
+        }
+      ],
+      "date": "2025-04-23T23:00Z",
+      "id": "401768029",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768029/magic-celtics",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401768029&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401768029",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Orlando Magic at Boston Celtics",
+      "season": {
+        "displayName": "2024-25",
+        "year": 2025
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "ORL @ BOS",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 18967,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "ESPN"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "3",
+                "type": "Away"
+              },
+              "media": {
+                "shortName": "NBC Sports BO"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN FL"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "19",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Franz Wagner",
+                        "id": "4566434",
+                        "lastName": "Wagner",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "F. Wagner"
+                      },
+                      "displayValue": "32",
+                      "value": 32.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Franz Wagner",
+                        "id": "4566434",
+                        "lastName": "Wagner",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "F. Wagner"
+                      },
+                      "displayValue": "8",
+                      "value": 8.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Wendell Carter Jr.",
+                        "id": "4277847",
+                        "lastName": "Carter Jr.",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "W. Carter Jr."
+                      },
+                      "displayValue": "12",
+                      "value": 12.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "41-41",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "31-21",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "95",
+                "value": 95.0
+              },
+              "team": {
+                "abbreviation": "ORL",
+                "displayName": "Orlando Magic",
+                "id": "19",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/orl/orlando-magic",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Orlando",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:37Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:35Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Magic"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "2",
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "61-21",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "39-13",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "93",
+                "value": 93.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2025-04-25T23:00Z",
+          "id": "401768030",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 3",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Orlando",
+              "state": "FL"
+            },
+            "fullName": "Kia Center"
+          }
+        }
+      ],
+      "date": "2025-04-25T23:00Z",
+      "id": "401768030",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768030/celtics-magic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401768030&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/watchespn/index?gameId=401768030&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "desktop",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "watchespn://showEvent?gameId=401768030&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "app",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401768030",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Boston Celtics at Orlando Magic",
+      "season": {
+        "displayName": "2024-25",
+        "year": 2025
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "BOS @ ORL",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 19073,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "TNT"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "HBO Max"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "4",
+                "shortName": "Streaming"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "3",
+                "type": "Away"
+              },
+              "media": {
+                "shortName": "NBC Sports BO"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN FL"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "19",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Paolo Banchero",
+                        "id": "4432573",
+                        "lastName": "Banchero",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "P. Banchero"
+                      },
+                      "displayValue": "31",
+                      "value": 31.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Franz Wagner",
+                        "id": "4566434",
+                        "lastName": "Wagner",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "F. Wagner"
+                      },
+                      "displayValue": "7",
+                      "value": 7.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Wendell Carter Jr.",
+                        "id": "4277847",
+                        "lastName": "Carter Jr.",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "W. Carter Jr."
+                      },
+                      "displayValue": "11",
+                      "value": 11.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "41-41",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "31-21",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "98",
+                "value": 98.0
+              },
+              "team": {
+                "abbreviation": "ORL",
+                "displayName": "Orlando Magic",
+                "id": "19",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/orl/orlando-magic",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Orlando",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:37Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:35Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Magic"
+              },
+              "type": "team",
+              "winner": false
+            },
+            {
+              "homeAway": "away",
+              "id": "2",
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "61-21",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "39-13",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "107",
+                "value": 107.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": true
+            }
+          ],
+          "date": "2025-04-27T23:00Z",
+          "id": "401768031",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 4",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Orlando",
+              "state": "FL"
+            },
+            "fullName": "Kia Center"
+          }
+        }
+      ],
+      "date": "2025-04-27T23:00Z",
+      "id": "401768031",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768031/celtics-magic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401768031&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401768031",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Boston Celtics at Orlando Magic",
+      "season": {
+        "displayName": "2024-25",
+        "year": 2025
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "BOS @ ORL",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 19156,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "NBA TV"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "NBC Sports BO"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "3",
+                "type": "Away"
+              },
+              "media": {
+                "shortName": "FanDuel SN FL"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "2",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "61-21",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "39-13",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "120",
+                "value": 120.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "19",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Franz Wagner",
+                        "id": "4566434",
+                        "lastName": "Wagner",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4566434/franz-wagner",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "F. Wagner"
+                      },
+                      "displayValue": "25",
+                      "value": 25.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Paolo Banchero",
+                        "id": "4432573",
+                        "lastName": "Banchero",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432573/paolo-banchero",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "P. Banchero"
+                      },
+                      "displayValue": "6",
+                      "value": 6.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Wendell Carter Jr.",
+                        "id": "4277847",
+                        "lastName": "Carter Jr.",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4277847/wendell-carter-jr",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "W. Carter Jr."
+                      },
+                      "displayValue": "10",
+                      "value": 10.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "41-41",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "31-21",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "89",
+                "value": 89.0
+              },
+              "team": {
+                "abbreviation": "ORL",
+                "displayName": "Orlando Magic",
+                "id": "19",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/orl/orlando-magic",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Orlando",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/orl.png",
+                    "lastUpdated": "2025-06-16T16:45Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:37Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/orl.png",
+                    "lastUpdated": "2025-06-18T15:35Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/74c23102-8c27-c8e6-ec1b-8a8fd4d42554/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Magic"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2025-04-30T00:30Z",
+          "id": "401768032",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 5",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Boston",
+              "state": "MA"
+            },
+            "fullName": "TD Garden"
+          }
+        }
+      ],
+      "date": "2025-04-30T00:30Z",
+      "id": "401768032",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768032/magic-celtics",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401768032&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401768032",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Orlando Magic at Boston Celtics",
+      "season": {
+        "displayName": "2024-25",
+        "year": 2025
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "ORL @ BOS",
+      "timeValid": true
+    }
+  ],
+  "requestedSeason": {
+    "displayName": "2024-25",
+    "name": "Postseason",
+    "type": 3,
+    "year": 2025
+  },
+  "season": {
+    "displayName": "2025-26",
+    "half": 1,
+    "name": "Postseason",
+    "type": 3,
+    "year": 2026
+  },
+  "status": "success",
+  "team": {
+    "abbreviation": "ORL",
+    "clubhouse": "https://www.espn.com/nba/team/_/name/orl/orlando-magic",
+    "color": "0150b5",
+    "displayName": "Orlando Magic",
+    "groups": {
+      "id": "9",
+      "isConference": false,
+      "parent": {
+        "id": "5"
+      }
+    },
+    "id": "19",
+    "location": "Orlando",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "name": "Magic",
+    "recordSummary": "45-37",
+    "seasonSummary": "2025-26",
+    "standingSummary": "2nd in Southeast Division"
+  },
+  "timestamp": "2026-06-03T18:55:34Z"
+}

@@ -1,0 +1,5063 @@
+{
+  "events": [
+    {
+      "competitions": [
+        {
+          "attendance": 19156,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "ABC"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "2",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "64-18",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "41-11",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "114",
+                "value": 114.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "14",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "24",
+                      "value": 24.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Jaime Jaquez Jr.",
+                        "id": "4432848",
+                        "lastName": "Jaquez Jr.",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "J. Jaquez Jr."
+                      },
+                      "displayValue": "4",
+                      "value": 4.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "6",
+                      "value": 6.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "46-36",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "32-20",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "94",
+                "value": 94.0
+              },
+              "team": {
+                "abbreviation": "MIA",
+                "displayName": "Miami Heat",
+                "id": "14",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/mia/miami-heat",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Miami",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/mia.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Heat"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2024-04-21T17:00Z",
+          "id": "401654760",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 1",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Boston",
+              "state": "MA"
+            },
+            "fullName": "TD Garden"
+          }
+        }
+      ],
+      "date": "2024-04-21T17:00Z",
+      "id": "401654760",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401654760/heat-celtics",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401654760&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/watchespn/index?gameId=401654760&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "desktop",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "watchespn://showEvent?gameId=401654760&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "app",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401654760",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Miami Heat at Boston Celtics",
+      "season": {
+        "displayName": "2023-24",
+        "year": 2024
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "MIA @ BOS",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 19156,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "TNT"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "NBC Sports BO"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN Sun"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "2",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "64-18",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "41-11",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "101",
+                "value": 101.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": false
+            },
+            {
+              "homeAway": "away",
+              "id": "14",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Tyler Herro",
+                        "id": "4395725",
+                        "lastName": "Herro",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "T. Herro"
+                      },
+                      "displayValue": "24",
+                      "value": 24.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Tyler Herro",
+                        "id": "4395725",
+                        "lastName": "Herro",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4395725/tyler-herro",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "T. Herro"
+                      },
+                      "displayValue": "14",
+                      "value": 14.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "10",
+                      "value": 10.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "46-36",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "32-20",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "111",
+                "value": 111.0
+              },
+              "team": {
+                "abbreviation": "MIA",
+                "displayName": "Miami Heat",
+                "id": "14",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/mia/miami-heat",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Miami",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/mia.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Heat"
+              },
+              "type": "team",
+              "winner": true
+            }
+          ],
+          "date": "2024-04-24T23:00Z",
+          "id": "401655100",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 2",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Boston",
+              "state": "MA"
+            },
+            "fullName": "TD Garden"
+          }
+        }
+      ],
+      "date": "2024-04-24T23:00Z",
+      "id": "401655100",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655100/heat-celtics",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401655100&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401655100",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Miami Heat at Boston Celtics",
+      "season": {
+        "displayName": "2023-24",
+        "year": 2024
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "MIA @ BOS",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 20092,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "TNT"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN Sun"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "NBC Sports BO"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "14",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "20",
+                      "value": 20.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Jaime Jaquez Jr.",
+                        "id": "4432848",
+                        "lastName": "Jaquez Jr.",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432848/jaime-jaquez-jr",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "J. Jaquez Jr."
+                      },
+                      "displayValue": "5",
+                      "value": 5.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "9",
+                      "value": 9.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "46-36",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "32-20",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "84",
+                "value": 84.0
+              },
+              "team": {
+                "abbreviation": "MIA",
+                "displayName": "Miami Heat",
+                "id": "14",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/mia/miami-heat",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Miami",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/mia.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Heat"
+              },
+              "type": "team",
+              "winner": false
+            },
+            {
+              "homeAway": "away",
+              "id": "2",
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "64-18",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "41-11",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "104",
+                "value": 104.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": true
+            }
+          ],
+          "date": "2024-04-27T22:00Z",
+          "id": "401655101",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 3",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Miami",
+              "state": "FL"
+            },
+            "fullName": "Kaseya Center"
+          }
+        }
+      ],
+      "date": "2024-04-27T22:00Z",
+      "id": "401655101",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655101/celtics-heat",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401655101&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401655101",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Boston Celtics at Miami Heat",
+      "season": {
+        "displayName": "2023-24",
+        "year": 2024
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "BOS @ MIA",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 19600,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "TNT"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN Sun"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "NBC Sports BO"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "14",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "25",
+                      "value": 25.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "5",
+                      "value": 5.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "17",
+                      "value": 17.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "46-36",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "32-20",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "88",
+                "value": 88.0
+              },
+              "team": {
+                "abbreviation": "MIA",
+                "displayName": "Miami Heat",
+                "id": "14",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/mia/miami-heat",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Miami",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/mia.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Heat"
+              },
+              "type": "team",
+              "winner": false
+            },
+            {
+              "homeAway": "away",
+              "id": "2",
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "64-18",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "41-11",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "102",
+                "value": 102.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": true
+            }
+          ],
+          "date": "2024-04-29T23:30Z",
+          "id": "401655102",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 4",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Miami",
+              "state": "FL"
+            },
+            "fullName": "Kaseya Center"
+          }
+        }
+      ],
+      "date": "2024-04-29T23:30Z",
+      "id": "401655102",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655102/celtics-heat",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401655102&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401655102",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Boston Celtics at Miami Heat",
+      "season": {
+        "displayName": "2023-24",
+        "year": 2024
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "BOS @ MIA",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 19156,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "TNT"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "NBC Sports BO"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN Sun"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "2",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "64-18",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "41-11",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "118",
+                "value": 118.0
+              },
+              "team": {
+                "abbreviation": "BOS",
+                "displayName": "Boston Celtics",
+                "id": "2",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Boston",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/bos.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/2ca761df-5f60-b2e9-22ed-e099c46d889b/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Celtics"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "14",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "23",
+                      "value": 23.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Bam Adebayo",
+                        "id": "4066261",
+                        "lastName": "Adebayo",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4066261/bam-adebayo",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Adebayo"
+                      },
+                      "displayValue": "6",
+                      "value": 6.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Nikola Jovic",
+                        "id": "4997528",
+                        "lastName": "Jovic",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4997528/nikola-jovic",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4997528/nikola-jovic",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4997528/nikola-jovic",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4997528/nikola-jovic",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4997528/nikola-jovic",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4997528/nikola-jovic",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4997528/nikola-jovic",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4997528/nikola-jovic",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "N. Jovic"
+                      },
+                      "displayValue": "7",
+                      "value": 7.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "46-36",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "32-20",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "84",
+                "value": 84.0
+              },
+              "team": {
+                "abbreviation": "MIA",
+                "displayName": "Miami Heat",
+                "id": "14",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/mia/miami-heat",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Miami",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/mia.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/mia.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/81e3212c-30ef-9b1b-5edb-453b13ff265a/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Heat"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2024-05-01T23:30Z",
+          "id": "401655103",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "East 1st Round - Game 5",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Boston",
+              "state": "MA"
+            },
+            "fullName": "TD Garden"
+          }
+        }
+      ],
+      "date": "2024-05-01T23:30Z",
+      "id": "401655103",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655103/heat-celtics",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401655103&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401655103",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Miami Heat at Boston Celtics",
+      "season": {
+        "displayName": "2023-24",
+        "year": 2024
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "MIA @ BOS",
+      "timeValid": true
+    }
+  ],
+  "requestedSeason": {
+    "displayName": "2023-24",
+    "name": "Postseason",
+    "type": 3,
+    "year": 2024
+  },
+  "season": {
+    "displayName": "2025-26",
+    "half": 1,
+    "name": "Postseason",
+    "type": 3,
+    "year": 2026
+  },
+  "status": "success",
+  "team": {
+    "abbreviation": "MIA",
+    "clubhouse": "https://www.espn.com/nba/team/_/name/mia/miami-heat",
+    "color": "98002e",
+    "displayName": "Miami Heat",
+    "groups": {
+      "id": "9",
+      "isConference": false,
+      "parent": {
+        "id": "5"
+      }
+    },
+    "id": "14",
+    "location": "Miami",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "name": "Heat",
+    "recordSummary": "43-39",
+    "seasonSummary": "2025-26",
+    "standingSummary": "4th in Southeast Division"
+  },
+  "timestamp": "2026-06-03T18:55:27Z"
+}

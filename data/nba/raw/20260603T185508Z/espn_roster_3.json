@@ -1,0 +1,4777 @@
+{
+  "athletes": [
+    {
+      "age": 23,
+      "alternateIds": {
+        "sdr": "4433268"
+      },
+      "birthPlace": {
+        "city": "Oklahoma City",
+        "country": "USA",
+        "state": "OK"
+      },
+      "college": {
+        "abbrev": "CREI",
+        "guid": "238147d2-790c-3b96-be48-48fa42b5f8c5",
+        "id": "156",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png",
+            "lastUpdated": "2023-03-17T13:35Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/156.png",
+            "lastUpdated": "2023-03-17T13:36Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Bluejays",
+        "name": "Creighton",
+        "shortName": "Creighton"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": true
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 0,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 0,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 0,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 1
+      },
+      "contracts": [
+        {
+          "salary": 0,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 0,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        }
+      ],
+      "dateOfBirth": "2003-05-02T07:00Z",
+      "displayHeight": "6' 5\"",
+      "displayName": "Trey Alexander",
+      "displayWeight": "185 lbs",
+      "experience": {
+        "years": 1
+      },
+      "firstName": "Trey",
+      "fullName": "Trey Alexander",
+      "guid": "b1fa775f-bc15-311b-95ab-29d08bf6793d",
+      "headshot": {
+        "alt": "Trey Alexander",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4433268.png"
+      },
+      "height": 77.0,
+      "id": "4433268",
+      "injuries": [],
+      "jersey": "23",
+      "lastName": "Alexander",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4433268/trey-alexander",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4433268/trey-alexander",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4433268/trey-alexander",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4433268/trey-alexander",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4433268/trey-alexander",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4433268/trey-alexander",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4433268/trey-alexander",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4433268/trey-alexander",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "G",
+        "displayName": "Guard",
+        "id": "3",
+        "leaf": false,
+        "name": "Guard"
+      },
+      "shortName": "T. Alexander",
+      "slug": "trey-alexander",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4433268",
+      "weight": 185.0
+    },
+    {
+      "age": 27,
+      "alternateIds": {
+        "sdr": "4397136"
+      },
+      "birthPlace": {
+        "city": "Largo",
+        "country": "USA",
+        "state": "MD"
+      },
+      "college": {
+        "abbrev": "VILL",
+        "guid": "ada19852-b0fa-3f60-a829-419831b024e1",
+        "id": "222",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+            "lastUpdated": "2022-12-09T15:57Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/222.png",
+            "lastUpdated": "2022-12-09T15:58Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Wildcats",
+        "name": "Villanova",
+        "shortName": "Villanova"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 6118644,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 6118644,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 6118644,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": true,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 2
+      },
+      "contracts": [
+        {
+          "salary": 6440678
+        },
+        {
+          "salary": 6118644,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 6440678,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 4556983,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        },
+        {
+          "salary": 2959080,
+          "season": {
+            "endDate": "2023-06-24T06:59Z",
+            "startDate": "2022-08-30T07:00Z",
+            "year": 2023
+          }
+        },
+        {
+          "salary": 2824320,
+          "season": {
+            "endDate": "2022-06-20T06:59Z",
+            "startDate": "2021-09-22T07:00Z",
+            "year": 2022
+          }
+        },
+        {
+          "salary": 2689920,
+          "season": {
+            "endDate": "2021-07-23T06:59Z",
+            "startDate": "2020-12-02T08:00Z",
+            "year": 2021
+          }
+        }
+      ],
+      "dateOfBirth": "1999-04-09T07:00Z",
+      "debutYear": 2020,
+      "displayHeight": "6' 8\"",
+      "displayName": "Saddiq Bey",
+      "displayWeight": "215 lbs",
+      "experience": {
+        "years": 5
+      },
+      "firstName": "Saddiq",
+      "fullName": "Saddiq Bey",
+      "guid": "9d4d1b0c-ee2f-00e6-3d2c-0d9b9d2f5d4b",
+      "headshot": {
+        "alt": "Saddiq Bey",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4397136.png"
+      },
+      "height": 80.0,
+      "id": "4397136",
+      "injuries": [],
+      "jersey": "41",
+      "lastName": "Bey",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4397136/saddiq-bey",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4397136/saddiq-bey",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4397136/saddiq-bey",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4397136/saddiq-bey",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4397136/saddiq-bey",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4397136/saddiq-bey",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4397136/saddiq-bey",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4397136/saddiq-bey",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "G",
+        "displayName": "Guard",
+        "id": "3",
+        "leaf": false,
+        "name": "Guard"
+      },
+      "shortName": "S. Bey",
+      "slug": "saddiq-bey",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4397136",
+      "weight": 215.0
+    },
+    {
+      "age": 25,
+      "alternateIds": {
+        "sdr": "4432180"
+      },
+      "birthPlace": {
+        "city": "Alexandria",
+        "country": "USA",
+        "state": "VA"
+      },
+      "college": {
+        "abbrev": "KU",
+        "guid": "9c2906d8-eeba-376c-ac54-d69042391412",
+        "id": "2305",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2305.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Jayhawks",
+        "name": "Kansas",
+        "shortName": "Kansas"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": true
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 0,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 0,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 0,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 1
+      },
+      "contracts": [
+        {
+          "salary": 0,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        }
+      ],
+      "dateOfBirth": "2000-11-25T08:00Z",
+      "displayHeight": "7' 1\"",
+      "displayName": "Hunter Dickinson",
+      "displayWeight": "255 lbs",
+      "experience": {
+        "years": 0
+      },
+      "firstName": "Hunter",
+      "fullName": "Hunter Dickinson",
+      "guid": "3879225b-2c42-317c-bb4f-6c494a4077ae",
+      "headshot": {
+        "alt": "Hunter Dickinson",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4432180.png"
+      },
+      "height": 85.0,
+      "id": "4432180",
+      "injuries": [],
+      "jersey": "4",
+      "lastName": "Dickinson",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4432180/hunter-dickinson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4432180/hunter-dickinson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4432180/hunter-dickinson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4432180/hunter-dickinson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4432180/hunter-dickinson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4432180/hunter-dickinson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4432180/hunter-dickinson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432180/hunter-dickinson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "C",
+        "displayName": "Center",
+        "id": "9",
+        "leaf": false,
+        "name": "Center"
+      },
+      "shortName": "H. Dickinson",
+      "slug": "hunter-dickinson",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4432180",
+      "weight": 255.0
+    },
+    {
+      "age": 19,
+      "alternateIds": {
+        "sdr": "5144091"
+      },
+      "birthPlace": {
+        "city": "Joliet",
+        "country": "USA",
+        "state": "IL"
+      },
+      "college": {
+        "abbrev": "OU",
+        "guid": "5c89e0cf-7ac7-3621-a83e-48a835ee34d1",
+        "id": "201",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+            "lastUpdated": "2025-12-19T23:48Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/201.png",
+            "lastUpdated": "2025-12-19T23:47Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Sooners",
+        "name": "Oklahoma",
+        "shortName": "Oklahoma"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 7520040,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 7520040,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 7520040,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": true,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 4
+      },
+      "contracts": [
+        {
+          "salary": 7896240
+        },
+        {
+          "salary": 7520040,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        }
+      ],
+      "dateOfBirth": "2006-10-14T07:00Z",
+      "displayHeight": "6' 3\"",
+      "displayName": "Jeremiah Fears",
+      "displayWeight": "190 lbs",
+      "experience": {
+        "years": 0
+      },
+      "firstName": "Jeremiah",
+      "fullName": "Jeremiah Fears",
+      "guid": "a34d3e64-4f77-38de-8d04-34456599255d",
+      "headshot": {
+        "alt": "Jeremiah Fears",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/5144091.png"
+      },
+      "height": 75.0,
+      "id": "5144091",
+      "injuries": [],
+      "jersey": "0",
+      "lastName": "Fears",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/5144091/jeremiah-fears",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/5144091/jeremiah-fears",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/5144091/jeremiah-fears",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/5144091/jeremiah-fears",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/5144091/jeremiah-fears",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/5144091/jeremiah-fears",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/5144091/jeremiah-fears",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/5144091/jeremiah-fears",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "G",
+        "displayName": "Guard",
+        "id": "3",
+        "leaf": false,
+        "name": "Guard"
+      },
+      "shortName": "J. Fears",
+      "slug": "jeremiah-fears",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:5144091",
+      "weight": 190.0
+    },
+    {
+      "age": 24,
+      "alternateIds": {
+        "sdr": "4683750"
+      },
+      "birthPlace": {
+        "city": "Gaithersburg",
+        "country": "USA",
+        "state": "MD"
+      },
+      "college": {
+        "abbrev": "CONN",
+        "guid": "e844192f-025a-30dd-8a57-005489a33d07",
+        "id": "41",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+            "lastUpdated": "2025-12-24T20:19Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/41.png",
+            "lastUpdated": "2025-12-24T20:18Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Huskies",
+        "name": "UConn",
+        "shortName": "UConn"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 4741320,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 4741320,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 4741320,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 2
+      },
+      "contracts": [
+        {
+          "salary": 7021895
+        },
+        {
+          "salary": 4741320,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 4525680,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 4310160,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        }
+      ],
+      "dateOfBirth": "2002-04-29T07:00Z",
+      "displayHeight": "6' 5\"",
+      "displayName": "Jordan Hawkins",
+      "displayWeight": "190 lbs",
+      "experience": {
+        "years": 2
+      },
+      "firstName": "Jordan",
+      "fullName": "Jordan Hawkins",
+      "guid": "1dbd1267-8773-3a16-8827-d24950410a5a",
+      "headshot": {
+        "alt": "Jordan Hawkins",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4683750.png"
+      },
+      "height": 77.0,
+      "id": "4683750",
+      "injuries": [],
+      "jersey": "24",
+      "lastName": "Hawkins",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4683750/jordan-hawkins",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4683750/jordan-hawkins",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4683750/jordan-hawkins",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4683750/jordan-hawkins",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4683750/jordan-hawkins",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4683750/jordan-hawkins",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4683750/jordan-hawkins",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4683750/jordan-hawkins",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "G",
+        "displayName": "Guard",
+        "id": "3",
+        "leaf": false,
+        "name": "Guard"
+      },
+      "shortName": "J. Hawkins",
+      "slug": "jordan-hawkins",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4683750",
+      "weight": 190.0
+    },
+    {
+      "age": 27,
+      "alternateIds": {
+        "sdr": "4277813"
+      },
+      "birthPlace": {
+        "city": "Greensboro",
+        "country": "USA",
+        "state": "AL"
+      },
+      "college": {
+        "abbrev": "ALA",
+        "guid": "284484f2-b714-35bc-9162-4dc652590b02",
+        "id": "333",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+            "lastUpdated": "2025-12-19T23:48Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png",
+            "lastUpdated": "2025-12-19T23:47Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Crimson Tide",
+        "name": "Alabama",
+        "shortName": "Alabama"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 13937574,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 13937574,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 13937574,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 5
+      },
+      "contracts": [
+        {
+          "salary": 14898786
+        },
+        {
+          "salary": 13937574,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 12976362,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 12015150,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        },
+        {
+          "salary": 1785000,
+          "season": {
+            "endDate": "2023-06-24T06:59Z",
+            "startDate": "2022-08-30T07:00Z",
+            "year": 2023
+          }
+        },
+        {
+          "salary": 1700000,
+          "season": {
+            "endDate": "2022-06-20T06:59Z",
+            "startDate": "2021-09-22T07:00Z",
+            "year": 2022
+          }
+        }
+      ],
+      "dateOfBirth": "1998-10-06T07:00Z",
+      "displayHeight": "6' 7\"",
+      "displayName": "Herbert Jones",
+      "displayWeight": "206 lbs",
+      "experience": {
+        "years": 4
+      },
+      "firstName": "Herbert",
+      "fullName": "Herbert Jones",
+      "guid": "5ac233a0-cc93-d549-7dc8-fe769e4ce1d4",
+      "hand": {
+        "abbreviation": "R",
+        "displayValue": "Right",
+        "type": "RIGHT"
+      },
+      "headshot": {
+        "alt": "Herbert Jones",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4277813.png"
+      },
+      "height": 79.0,
+      "id": "4277813",
+      "injuries": [],
+      "jersey": "2",
+      "lastName": "Jones",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4277813/herbert-jones",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4277813/herbert-jones",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4277813/herbert-jones",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4277813/herbert-jones",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4277813/herbert-jones",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4277813/herbert-jones",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4277813/herbert-jones",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4277813/herbert-jones",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "F",
+        "displayName": "Forward",
+        "id": "7",
+        "leaf": false,
+        "name": "Forward"
+      },
+      "shortName": "H. Jones",
+      "slug": "herbert-jones",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4277813",
+      "weight": 206.0
+    },
+    {
+      "age": 37,
+      "alternateIds": {
+        "sdr": "2282666"
+      },
+      "birthPlace": {
+        "city": "Houston",
+        "country": "USA",
+        "state": "TX"
+      },
+      "college": {
+        "abbrev": "TA&M",
+        "guid": "fab49ca5-ec9f-3e99-8936-6f532466cf1a",
+        "id": "245",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+            "lastUpdated": "2025-12-19T23:48Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/245.png",
+            "lastUpdated": "2025-12-19T23:47Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Aggies",
+        "name": "Texas A&M",
+        "shortName": "Texas A&M"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 2269880,
+        "minimumSalaryException": true,
+        "optionType": 0,
+        "outgoingTradeValue": 2269880,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 2269880,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 1
+      },
+      "contracts": [
+        {
+          "salary": 2269880,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 2087519,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 2019706,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        },
+        {
+          "salary": 1836090,
+          "season": {
+            "endDate": "2023-06-24T06:59Z",
+            "startDate": "2022-08-30T07:00Z",
+            "year": 2023
+          }
+        },
+        {
+          "salary": 374126,
+          "season": {
+            "endDate": "2022-06-20T06:59Z",
+            "startDate": "2021-09-22T07:00Z",
+            "year": 2022
+          }
+        },
+        {
+          "salary": 10375678,
+          "season": {
+            "endDate": "2021-07-23T06:59Z",
+            "startDate": "2020-12-02T08:00Z",
+            "year": 2021
+          }
+        },
+        {
+          "salary": 9881598,
+          "season": {
+            "endDate": "2020-10-22T06:59Z",
+            "startDate": "2019-09-28T07:00Z",
+            "year": 2020
+          }
+        },
+        {
+          "salary": 22897200,
+          "season": {
+            "endDate": "2019-06-24T06:59Z",
+            "startDate": "2018-09-13T07:00Z",
+            "year": 2019
+          }
+        },
+        {
+          "salary": 22642350,
+          "season": {
+            "endDate": "2018-07-01T06:59Z",
+            "startDate": "2017-09-30T07:00Z",
+            "year": 2018
+          }
+        },
+        {
+          "salary": 21165675,
+          "season": {
+            "endDate": "2017-07-01T06:59Z",
+            "startDate": "2016-10-01T07:00Z",
+            "year": 2017
+          }
+        },
+        {
+          "salary": 19689000,
+          "season": {
+            "endDate": "2016-07-01T06:59Z",
+            "startDate": "2015-10-01T07:00Z",
+            "year": 2016
+          }
+        },
+        {
+          "salary": 11440123,
+          "season": {
+            "endDate": "2015-07-01T06:59Z",
+            "startDate": "2014-10-03T07:00Z",
+            "year": 2015
+          }
+        },
+        {
+          "salary": 10986550,
+          "season": {
+            "endDate": "2014-07-01T06:59Z",
+            "startDate": "2013-10-04T07:00Z",
+            "year": 2014
+          }
+        },
+        {
+          "salary": 10986550,
+          "season": {
+            "endDate": "2013-07-12T06:59Z",
+            "startDate": "2012-09-20T07:00Z",
+            "year": 2013
+          }
+        },
+        {
+          "salary": 10079404,
+          "season": {
+            "endDate": "2012-06-27T06:59Z",
+            "startDate": "2011-12-09T08:00Z",
+            "year": 2012
+          }
+        },
+        {
+          "salary": 854389,
+          "season": {
+            "endDate": "2011-06-22T06:59Z",
+            "startDate": "2010-10-03T07:00Z",
+            "year": 2011
+          }
+        },
+        {
+          "salary": 736420,
+          "season": {
+            "endDate": "2010-06-23T06:59Z",
+            "startDate": "2009-10-01T07:00Z",
+            "year": 2010
+          }
+        },
+        {
+          "salary": 550000,
+          "season": {
+            "endDate": "2009-06-23T06:59Z",
+            "startDate": "2008-10-05T07:00Z",
+            "year": 2009
+          }
+        }
+      ],
+      "dateOfBirth": "1988-07-21T07:00Z",
+      "debutYear": 2008,
+      "displayHeight": "6' 11\"",
+      "displayName": "DeAndre Jordan",
+      "displayWeight": "265 lbs",
+      "experience": {
+        "years": 17
+      },
+      "firstName": "DeAndre",
+      "fullName": "DeAndre Jordan",
+      "guid": "9c8e25a2-9e68-3ba8-59c8-946b508a059e",
+      "headshot": {
+        "alt": "DeAndre Jordan",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/3442.png"
+      },
+      "height": 83.0,
+      "id": "3442",
+      "injuries": [],
+      "jersey": "6",
+      "lastName": "Jordan",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/3442/deandre-jordan",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/3442/deandre-jordan",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/3442/deandre-jordan",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/3442/deandre-jordan",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/3442/deandre-jordan",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/3442/deandre-jordan",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/3442/deandre-jordan",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/3442/deandre-jordan",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "C",
+        "displayName": "Center",
+        "id": "9",
+        "leaf": false,
+        "name": "Center"
+      },
+      "shortName": "D. Jordan",
+      "slug": "deandre-jordan",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:3442",
+      "weight": 265.0
+    },
+    {
+      "age": 30,
+      "alternateIds": {
+        "sdr": "3155535"
+      },
+      "birthPlace": {
+        "city": "Milwaukee",
+        "country": "USA",
+        "state": "WI"
+      },
+      "college": {
+        "abbrev": "UCLA",
+        "guid": "5da8e04c-d85c-376d-b336-9342e0bfdd7c",
+        "id": "26",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/26.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Bruins",
+        "name": "UCLA",
+        "shortName": "UCLA"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 8000000,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 8000000,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 8000000,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": true,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 2
+      },
+      "contracts": [
+        {
+          "salary": 8000000
+        },
+        {
+          "salary": 8000000,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 8000000,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 7500000,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        },
+        {
+          "salary": 8000000,
+          "season": {
+            "endDate": "2023-06-24T06:59Z",
+            "startDate": "2022-08-30T07:00Z",
+            "year": 2023
+          }
+        },
+        {
+          "salary": 5178572,
+          "season": {
+            "endDate": "2022-06-20T06:59Z",
+            "startDate": "2021-09-22T07:00Z",
+            "year": 2022
+          }
+        },
+        {
+          "salary": 4464226,
+          "season": {
+            "endDate": "2021-07-23T06:59Z",
+            "startDate": "2020-12-02T08:00Z",
+            "year": 2021
+          }
+        },
+        {
+          "salary": 4464226,
+          "season": {
+            "endDate": "2020-10-22T06:59Z",
+            "startDate": "2019-09-28T07:00Z",
+            "year": 2020
+          }
+        },
+        {
+          "salary": 1512601,
+          "season": {
+            "endDate": "2019-06-24T06:59Z",
+            "startDate": "2018-09-13T07:00Z",
+            "year": 2019
+          }
+        },
+        {
+          "salary": 1471382,
+          "season": {
+            "endDate": "2018-07-01T06:59Z",
+            "startDate": "2017-09-30T07:00Z",
+            "year": 2018
+          }
+        },
+        {
+          "salary": 1182840,
+          "season": {
+            "endDate": "2017-07-01T06:59Z",
+            "startDate": "2016-10-01T07:00Z",
+            "year": 2017
+          }
+        },
+        {
+          "salary": 1131960,
+          "season": {
+            "endDate": "2016-07-01T06:59Z",
+            "startDate": "2015-10-01T07:00Z",
+            "year": 2016
+          }
+        }
+      ],
+      "dateOfBirth": "1996-02-06T08:00Z",
+      "debutYear": 2015,
+      "displayHeight": "6' 9\"",
+      "displayName": "Kevon Looney",
+      "displayWeight": "222 lbs",
+      "experience": {
+        "years": 10
+      },
+      "firstName": "Kevon",
+      "fullName": "Kevon Looney",
+      "guid": "10a8e77b-8773-24c6-9966-f0c4618caad6",
+      "headshot": {
+        "alt": "Kevon Looney",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/3155535.png"
+      },
+      "height": 81.0,
+      "id": "3155535",
+      "injuries": [],
+      "jersey": "55",
+      "lastName": "Looney",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/3155535/kevon-looney",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/3155535/kevon-looney",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/3155535/kevon-looney",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/3155535/kevon-looney",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/3155535/kevon-looney",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/3155535/kevon-looney",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/3155535/kevon-looney",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/3155535/kevon-looney",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "F",
+        "displayName": "Forward",
+        "id": "7",
+        "leaf": false,
+        "name": "Forward"
+      },
+      "shortName": "K. Looney",
+      "slug": "kevon-looney",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:3155535",
+      "weight": 222.0
+    },
+    {
+      "age": 25,
+      "alternateIds": {
+        "sdr": "4997538"
+      },
+      "birthPlace": {},
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 1955377,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 1955377,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 1955377,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 2
+      },
+      "contracts": [
+        {
+          "salary": 2296271
+        },
+        {
+          "salary": 1955377,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 1407153,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        }
+      ],
+      "dateOfBirth": "2001-03-30T08:00Z",
+      "displayHeight": "6' 10\"",
+      "displayName": "Karlo Matkovic",
+      "displayWeight": "231 lbs",
+      "experience": {
+        "years": 1
+      },
+      "firstName": "Karlo",
+      "fullName": "Karlo Matkovic",
+      "guid": "ebd74be7-84b1-3325-b07d-15f3d571c620",
+      "headshot": {
+        "alt": "Karlo Matkovic",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4997538.png"
+      },
+      "height": 82.0,
+      "id": "4997538",
+      "injuries": [
+        {
+          "date": "2026-04-12T01:01Z",
+          "status": "Out"
+        }
+      ],
+      "jersey": "17",
+      "lastName": "Matkovic",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4997538/karlo-matkovic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4997538/karlo-matkovic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4997538/karlo-matkovic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4997538/karlo-matkovic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4997538/karlo-matkovic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4997538/karlo-matkovic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4997538/karlo-matkovic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4997538/karlo-matkovic",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "F",
+        "displayName": "Forward",
+        "id": "7",
+        "leaf": false,
+        "name": "Forward"
+      },
+      "shortName": "K. Matkovic",
+      "slug": "karlo-matkovic",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4997538",
+      "weight": 231.0
+    },
+    {
+      "age": 23,
+      "alternateIds": {
+        "sdr": "4576086"
+      },
+      "birthPlace": {
+        "city": "Pendleton",
+        "country": "USA",
+        "state": "SC"
+      },
+      "college": {
+        "abbrev": "NEB",
+        "guid": "46a53a50-296d-3cbb-adb5-dab3df443011",
+        "id": "158",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/158.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Cornhuskers",
+        "name": "Nebraska",
+        "shortName": "Nebraska"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": true
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 724598,
+        "minimumSalaryException": true,
+        "optionType": 0,
+        "outgoingTradeValue": 724598,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 724598,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 3
+      },
+      "contracts": [
+        {
+          "salary": 2584539
+        },
+        {
+          "salary": 724598,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 2019699,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 1719865,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        },
+        {
+          "salary": 1075000,
+          "season": {
+            "endDate": "2023-06-24T06:59Z",
+            "startDate": "2022-08-30T07:00Z",
+            "year": 2023
+          }
+        }
+      ],
+      "dateOfBirth": "2002-11-08T08:00Z",
+      "displayHeight": "6' 6\"",
+      "displayName": "Bryce McGowens",
+      "displayWeight": "190 lbs",
+      "experience": {
+        "years": 3
+      },
+      "firstName": "Bryce",
+      "fullName": "Bryce McGowens",
+      "guid": "3fa77b26-2db9-354b-ac7d-bc0896673128",
+      "headshot": {
+        "alt": "Bryce McGowens",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4576086.png"
+      },
+      "height": 78.0,
+      "id": "4576086",
+      "injuries": [
+        {
+          "date": "2026-04-12T01:03Z",
+          "status": "Out"
+        }
+      ],
+      "jersey": "11",
+      "lastName": "McGowens",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4576086/bryce-mcgowens",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4576086/bryce-mcgowens",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4576086/bryce-mcgowens",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4576086/bryce-mcgowens",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4576086/bryce-mcgowens",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4576086/bryce-mcgowens",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4576086/bryce-mcgowens",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "G",
+        "displayName": "Guard",
+        "id": "3",
+        "leaf": false,
+        "name": "Guard"
+      },
+      "shortName": "B. McGowens",
+      "slug": "bryce-mcgowens",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4576086",
+      "weight": 190.0
+    },
+    {
+      "age": 22,
+      "alternateIds": {
+        "sdr": "5061589"
+      },
+      "birthPlace": {
+        "city": "Yaounde",
+        "country": "Cameroon"
+      },
+      "college": {
+        "abbrev": "BAY",
+        "guid": "8f0deb82-f6b1-34ef-b835-d95f4f6689ec",
+        "id": "239",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/239.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Bears",
+        "name": "Baylor",
+        "shortName": "Baylor"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 3353040,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 3353040,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 3353040,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 3
+      },
+      "contracts": [
+        {
+          "salary": 3512760
+        },
+        {
+          "salary": 3353040,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 3202560,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        }
+      ],
+      "dateOfBirth": "2004-05-14T07:00Z",
+      "displayHeight": "6' 11\"",
+      "displayName": "Yves Missi",
+      "displayWeight": "235 lbs",
+      "experience": {
+        "years": 1
+      },
+      "firstName": "Yves",
+      "fullName": "Yves Missi",
+      "guid": "7fc094e9-59a0-3026-bbd8-6208f3ae1826",
+      "headshot": {
+        "alt": "Yves Missi",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/5061589.png"
+      },
+      "height": 83.0,
+      "id": "5061589",
+      "injuries": [
+        {
+          "date": "2026-04-12T01:03Z",
+          "status": "Out"
+        }
+      ],
+      "jersey": "21",
+      "lastName": "Missi",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/5061589/yves-missi",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/5061589/yves-missi",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/5061589/yves-missi",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/5061589/yves-missi",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/5061589/yves-missi",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/5061589/yves-missi",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/5061589/yves-missi",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/5061589/yves-missi",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "C",
+        "displayName": "Center",
+        "id": "9",
+        "leaf": false,
+        "name": "Center"
+      },
+      "shortName": "Y. Missi",
+      "slug": "yves-missi",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:5061589",
+      "weight": 235.0
+    },
+    {
+      "age": 25,
+      "alternateIds": {
+        "sdr": "4397688"
+      },
+      "birthPlace": {
+        "city": "Durham",
+        "country": "USA",
+        "state": "NC"
+      },
+      "college": {
+        "abbrev": "UVA",
+        "guid": "50802e46-c116-39a6-a930-42ac9881bfe7",
+        "id": "258",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+            "lastUpdated": "2025-12-19T22:33Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/258.png",
+            "lastUpdated": "2025-12-19T22:35Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Cavaliers",
+        "name": "Virginia",
+        "shortName": "Virginia"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 25000000,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 25000000,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 25000000,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 4
+      },
+      "contracts": [
+        {
+          "salary": 27000000
+        },
+        {
+          "salary": 25000000,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 5159855,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 3359280,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        },
+        {
+          "salary": 3206640,
+          "season": {
+            "endDate": "2023-06-24T06:59Z",
+            "startDate": "2022-08-30T07:00Z",
+            "year": 2023
+          }
+        },
+        {
+          "salary": 3053760,
+          "season": {
+            "endDate": "2022-06-20T06:59Z",
+            "startDate": "2021-09-22T07:00Z",
+            "year": 2022
+          }
+        }
+      ],
+      "dateOfBirth": "2000-06-18T07:00Z",
+      "displayHeight": "6' 8\"",
+      "displayName": "Trey Murphy III",
+      "displayWeight": "206 lbs",
+      "experience": {
+        "years": 4
+      },
+      "firstName": "Trey",
+      "fullName": "Trey Murphy III",
+      "guid": "eb0f1a26-b5a8-691b-2445-20df987f493c",
+      "headshot": {
+        "alt": "Trey Murphy III",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4397688.png"
+      },
+      "height": 80.0,
+      "id": "4397688",
+      "injuries": [
+        {
+          "date": "2026-04-12T01:10Z",
+          "status": "Out"
+        }
+      ],
+      "jersey": "25",
+      "lastName": "Murphy III",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4397688/trey-murphy-iii",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4397688/trey-murphy-iii",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4397688/trey-murphy-iii",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4397688/trey-murphy-iii",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4397688/trey-murphy-iii",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4397688/trey-murphy-iii",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "F",
+        "displayName": "Forward",
+        "id": "7",
+        "leaf": false,
+        "name": "Forward"
+      },
+      "shortName": "T. Murphy III",
+      "slug": "trey-murphy-iii",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4397688",
+      "weight": 206.0
+    },
+    {
+      "age": 29,
+      "alternateIds": {
+        "sdr": "3907497"
+      },
+      "birthPlace": {
+        "city": "Seattle",
+        "country": "USA",
+        "state": "WA"
+      },
+      "college": {
+        "abbrev": "WASH",
+        "guid": "4de4cba9-6b03-38bf-9d40-78ee1fefc0ec",
+        "id": "264",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/264.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Huskies",
+        "name": "Washington",
+        "shortName": "Washington"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 30801103,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 30801103,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 30801103,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 3
+      },
+      "contracts": [
+        {
+          "salary": 32785071
+        },
+        {
+          "salary": 30801103,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 29535801,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 18214000,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        },
+        {
+          "salary": 16571120,
+          "season": {
+            "endDate": "2023-06-24T06:59Z",
+            "startDate": "2022-08-30T07:00Z",
+            "year": 2023
+          }
+        },
+        {
+          "salary": 15428880,
+          "season": {
+            "endDate": "2022-06-20T06:59Z",
+            "startDate": "2021-09-22T07:00Z",
+            "year": 2022
+          }
+        },
+        {
+          "salary": 14286000,
+          "season": {
+            "endDate": "2021-07-23T06:59Z",
+            "startDate": "2020-12-02T08:00Z",
+            "year": 2021
+          }
+        },
+        {
+          "salary": 2321735,
+          "season": {
+            "endDate": "2020-10-22T06:59Z",
+            "startDate": "2019-09-28T07:00Z",
+            "year": 2020
+          }
+        },
+        {
+          "salary": 1544951,
+          "season": {
+            "endDate": "2019-06-24T06:59Z",
+            "startDate": "2018-09-13T07:00Z",
+            "year": 2019
+          }
+        },
+        {
+          "salary": 1312611,
+          "season": {
+            "endDate": "2018-07-01T06:59Z",
+            "startDate": "2017-09-30T07:00Z",
+            "year": 2018
+          }
+        },
+        {
+          "salary": 1180080,
+          "season": {
+            "endDate": "2017-07-01T06:59Z",
+            "startDate": "2016-10-01T07:00Z",
+            "year": 2017
+          }
+        }
+      ],
+      "dateOfBirth": "1996-09-19T07:00Z",
+      "debutYear": 2016,
+      "displayHeight": "6' 4\"",
+      "displayName": "Dejounte Murray",
+      "displayWeight": "180 lbs",
+      "experience": {
+        "years": 9
+      },
+      "firstName": "Dejounte",
+      "fullName": "Dejounte Murray",
+      "guid": "069547d0-66e5-79d2-06ac-195011e77472",
+      "headshot": {
+        "alt": "Dejounte Murray",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/3907497.png"
+      },
+      "height": 76.0,
+      "id": "3907497",
+      "injuries": [
+        {
+          "date": "2026-04-12T01:05Z",
+          "status": "Out"
+        }
+      ],
+      "jersey": "5",
+      "lastName": "Murray",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/3907497/dejounte-murray",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/3907497/dejounte-murray",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/3907497/dejounte-murray",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/3907497/dejounte-murray",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/3907497/dejounte-murray",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/3907497/dejounte-murray",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/3907497/dejounte-murray",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/3907497/dejounte-murray",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "G",
+        "displayName": "Guard",
+        "id": "3",
+        "leaf": false,
+        "name": "Guard"
+      },
+      "shortName": "D. Murray",
+      "slug": "dejounte-murray",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:3907497",
+      "weight": 180.0
+    },
+    {
+      "age": 25,
+      "alternateIds": {
+        "sdr": "4432068"
+      },
+      "birthPlace": {
+        "city": "Gainesville",
+        "country": "USA",
+        "state": "VA"
+      },
+      "college": {
+        "abbrev": "PROV",
+        "guid": "f6601207-e5e1-350a-a725-d5c5e09f2159",
+        "id": "2507",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png",
+            "lastUpdated": "2023-03-15T19:32Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2507.png",
+            "lastUpdated": "2023-03-17T15:50Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Friars",
+        "name": "Providence",
+        "shortName": "Providence"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": true
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 0,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 0,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 0,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 1
+      },
+      "contracts": [
+        {
+          "salary": 0,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        }
+      ],
+      "dateOfBirth": "2000-10-14T07:00Z",
+      "displayHeight": "6' 9\"",
+      "displayName": "Josh Oduro",
+      "displayWeight": "240 lbs",
+      "experience": {
+        "years": 0
+      },
+      "firstName": "Josh",
+      "fullName": "Josh Oduro",
+      "guid": "4d8a9093-f5c2-3998-90ca-66f81e18de97",
+      "height": 81.0,
+      "id": "4432068",
+      "injuries": [],
+      "jersey": "13",
+      "lastName": "Oduro",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4432068/josh-oduro",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4432068/josh-oduro",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4432068/josh-oduro",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4432068/josh-oduro",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4432068/josh-oduro",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4432068/josh-oduro",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4432068/josh-oduro",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432068/josh-oduro",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "C",
+        "displayName": "Center",
+        "id": "9",
+        "leaf": false,
+        "name": "Center"
+      },
+      "shortName": "J. Oduro",
+      "slug": "josh-oduro",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4432068",
+      "weight": 240.0
+    },
+    {
+      "age": 24,
+      "alternateIds": {
+        "sdr": "4432185"
+      },
+      "birthPlace": {
+        "city": "Cibolo",
+        "country": "USA",
+        "state": "TX"
+      },
+      "college": {
+        "abbrev": "GTWN",
+        "guid": "debad436-4143-38b1-a5d7-f52a0eb7bf52",
+        "id": "46",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
+            "lastUpdated": "2022-12-09T15:57Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/46.png",
+            "lastUpdated": "2022-12-09T15:58Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Hoyas",
+        "name": "Georgetown",
+        "shortName": "Georgetown"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 1272970,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 1272970,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 1272970,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 4
+      },
+      "contracts": [
+        {
+          "salary": 2150917
+        },
+        {
+          "salary": 1272970,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        }
+      ],
+      "dateOfBirth": "2001-07-16T07:00Z",
+      "displayHeight": "6' 7\"",
+      "displayName": "Micah Peavy",
+      "displayWeight": "220 lbs",
+      "experience": {
+        "years": 0
+      },
+      "firstName": "Micah",
+      "fullName": "Micah Peavy",
+      "guid": "4938069b-8155-3d70-9ae0-cce852235861",
+      "headshot": {
+        "alt": "Micah Peavy",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4432185.png"
+      },
+      "height": 79.0,
+      "id": "4432185",
+      "injuries": [],
+      "jersey": "14",
+      "lastName": "Peavy",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4432185/micah-peavy",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4432185/micah-peavy",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4432185/micah-peavy",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4432185/micah-peavy",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4432185/micah-peavy",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4432185/micah-peavy",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4432185/micah-peavy",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4432185/micah-peavy",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "G",
+        "displayName": "Guard",
+        "id": "3",
+        "leaf": false,
+        "name": "Guard"
+      },
+      "shortName": "M. Peavy",
+      "slug": "micah-peavy",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4432185",
+      "weight": 220.0
+    },
+    {
+      "age": 26,
+      "alternateIds": {
+        "sdr": "4277956"
+      },
+      "birthPlace": {
+        "city": "Milwaukee",
+        "country": "USA",
+        "state": "WI"
+      },
+      "college": {
+        "abbrev": "MICH",
+        "guid": "5c4e2c41-bfad-3161-87a1-3825f0ed3a72",
+        "id": "130",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+            "lastUpdated": "2026-01-08T23:30Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/130.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Wolverines",
+        "name": "Michigan",
+        "shortName": "Michigan"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 31848215,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 31848215,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 31848215,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": true,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 2
+      },
+      "contracts": [
+        {
+          "salary": 34044642
+        },
+        {
+          "salary": 31848215,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 29651786,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 27955357,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        },
+        {
+          "salary": 3901399,
+          "season": {
+            "endDate": "2023-06-24T06:59Z",
+            "startDate": "2022-08-30T07:00Z",
+            "year": 2023
+          }
+        },
+        {
+          "salary": 2161440,
+          "season": {
+            "endDate": "2022-06-20T06:59Z",
+            "startDate": "2021-09-22T07:00Z",
+            "year": 2022
+          }
+        },
+        {
+          "salary": 2063280,
+          "season": {
+            "endDate": "2021-07-23T06:59Z",
+            "startDate": "2020-12-02T08:00Z",
+            "year": 2021
+          }
+        },
+        {
+          "salary": 1964760,
+          "season": {
+            "endDate": "2020-10-22T06:59Z",
+            "startDate": "2019-09-28T07:00Z",
+            "year": 2020
+          }
+        }
+      ],
+      "dateOfBirth": "1999-06-19T07:00Z",
+      "debutYear": 2019,
+      "displayHeight": "6' 4\"",
+      "displayName": "Jordan Poole",
+      "displayWeight": "194 lbs",
+      "experience": {
+        "years": 6
+      },
+      "firstName": "Jordan",
+      "fullName": "Jordan Poole",
+      "guid": "4b0492b5-a52f-267f-e840-98ef6d2e2bdf",
+      "hand": {
+        "abbreviation": "B",
+        "displayValue": "Both",
+        "type": "BOTH"
+      },
+      "headshot": {
+        "alt": "Jordan Poole",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4277956.png"
+      },
+      "height": 76.0,
+      "id": "4277956",
+      "injuries": [],
+      "jersey": "3",
+      "lastName": "Poole",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4277956/jordan-poole",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4277956/jordan-poole",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4277956/jordan-poole",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4277956/jordan-poole",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4277956/jordan-poole",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4277956/jordan-poole",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4277956/jordan-poole",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4277956/jordan-poole",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "G",
+        "displayName": "Guard",
+        "id": "3",
+        "leaf": false,
+        "name": "Guard"
+      },
+      "shortName": "J. Poole",
+      "slug": "jordan-poole",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4277956",
+      "weight": 194.0
+    },
+    {
+      "age": 21,
+      "alternateIds": {
+        "sdr": "4869780"
+      },
+      "birthPlace": {
+        "city": "Baltimore",
+        "country": "USA",
+        "state": "MD"
+      },
+      "college": {
+        "abbrev": "MD",
+        "guid": "c5c06820-0c0a-31d7-80c2-10826db8fd7e",
+        "id": "120",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/120.png",
+            "lastUpdated": "2025-12-23T01:44Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Terrapins",
+        "name": "Maryland",
+        "shortName": "Maryland"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 5157960,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 5157960,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 5157960,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": true,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 4
+      },
+      "contracts": [
+        {
+          "salary": 5416080
+        },
+        {
+          "salary": 5157960,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        }
+      ],
+      "dateOfBirth": "2004-12-27T08:00Z",
+      "displayHeight": "6' 9\"",
+      "displayName": "Derik Queen",
+      "displayWeight": "250 lbs",
+      "experience": {
+        "years": 0
+      },
+      "firstName": "Derik",
+      "fullName": "Derik Queen",
+      "guid": "0e7f21a8-df8c-3ace-8cf6-c7ff07c756fa",
+      "headshot": {
+        "alt": "Derik Queen",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4869780.png"
+      },
+      "height": 81.0,
+      "id": "4869780",
+      "injuries": [],
+      "jersey": "22",
+      "lastName": "Queen",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4869780/derik-queen",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4869780/derik-queen",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4869780/derik-queen",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4869780/derik-queen",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4869780/derik-queen",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4869780/derik-queen",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4869780/derik-queen",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4869780/derik-queen",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "C",
+        "displayName": "Center",
+        "id": "9",
+        "leaf": false,
+        "name": "Center"
+      },
+      "shortName": "D. Queen",
+      "slug": "derik-queen",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4869780",
+      "weight": 250.0
+    },
+    {
+      "age": 25,
+      "alternateIds": {
+        "sdr": "4395628"
+      },
+      "birthPlace": {
+        "city": "Salisbury",
+        "country": "USA",
+        "state": "NC"
+      },
+      "college": {
+        "abbrev": "DUKE",
+        "guid": "961248a4-28a8-365b-bb8c-fa7341c5ced0",
+        "id": "150",
+        "logos": [
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "lastUpdated": "2025-12-19T22:33Z",
+            "rel": [
+              "full",
+              "default"
+            ],
+            "width": 500
+          },
+          {
+            "alt": "",
+            "height": 500,
+            "href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png",
+            "lastUpdated": "2026-01-05T20:04Z",
+            "rel": [
+              "full",
+              "dark"
+            ],
+            "width": 500
+          }
+        ],
+        "mascot": "Blue Devils",
+        "name": "Duke",
+        "shortName": "Duke"
+      },
+      "contract": {
+        "active": true,
+        "baseYearCompensation": {
+          "active": false
+        },
+        "birdStatus": 0,
+        "incomingTradeValue": 39446090,
+        "minimumSalaryException": false,
+        "optionType": 0,
+        "outgoingTradeValue": 39446090,
+        "poisonPillProvision": {
+          "active": false
+        },
+        "salary": 39446090,
+        "salaryRemaining": 0,
+        "season": {
+          "endDate": "2026-06-27T06:59Z",
+          "startDate": "2025-10-01T07:00Z",
+          "year": 2026
+        },
+        "tradeKicker": {
+          "active": false,
+          "percentage": 0.0,
+          "tradeValue": 0,
+          "value": 0
+        },
+        "tradeRestriction": false,
+        "unsignedForeignPick": false,
+        "yearsRemaining": 3
+      },
+      "contracts": [
+        {
+          "salary": 42166510
+        },
+        {
+          "salary": 39446090,
+          "season": {
+            "endDate": "2026-06-27T06:59Z",
+            "startDate": "2025-10-01T07:00Z",
+            "year": 2026
+          }
+        },
+        {
+          "salary": 36725670,
+          "season": {
+            "endDate": "2025-06-27T06:59Z",
+            "startDate": "2024-09-24T07:00Z",
+            "year": 2025
+          }
+        },
+        {
+          "salary": 34005250,
+          "season": {
+            "endDate": "2024-06-21T06:59Z",
+            "startDate": "2023-10-05T07:00Z",
+            "year": 2024
+          }
+        },
+        {
+          "salary": 13534817,
+          "season": {
+            "endDate": "2023-06-24T06:59Z",
+            "startDate": "2022-08-30T07:00Z",
+            "year": 2023
+          }
+        },
+        {
+          "salary": 10733400,
+          "season": {
+            "endDate": "2022-06-20T06:59Z",
+            "startDate": "2021-09-22T07:00Z",
+            "year": 2022
+          }
+        },
+        {
+          "salary": 10245480,
+          "season": {
+            "endDate": "2021-07-23T06:59Z",
+            "startDate": "2020-12-02T08:00Z",
+            "year": 2021
+          }
+        },
+        {
+          "salary": 9757440,
+          "season": {
+            "endDate": "2020-10-22T06:59Z",
+            "startDate": "2019-09-28T07:00Z",
+            "year": 2020
+          }
+        }
+      ],
+      "dateOfBirth": "2000-07-06T07:00Z",
+      "debutYear": 2019,
+      "displayHeight": "6' 6\"",
+      "displayName": "Zion Williamson",
+      "displayWeight": "284 lbs",
+      "experience": {
+        "years": 6
+      },
+      "firstName": "Zion",
+      "fullName": "Zion Williamson",
+      "guid": "34e5ec5d-10b3-ba59-2ba1-3a3be9a1be22",
+      "hand": {
+        "abbreviation": "L",
+        "displayValue": "Left",
+        "type": "LEFT"
+      },
+      "headshot": {
+        "alt": "Zion Williamson",
+        "href": "https://a.espncdn.com/i/headshots/nba/players/full/4395628.png"
+      },
+      "height": 78.0,
+      "id": "4395628",
+      "injuries": [
+        {
+          "date": "2026-04-12T00:56Z",
+          "status": "Out"
+        }
+      ],
+      "jersey": "1",
+      "lastName": "Williamson",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4395628/zion-williamson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "playercard",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Player Card",
+          "text": "Player Card"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/stats/_/id/4395628/zion-williamson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Stats",
+          "text": "Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/splits/_/id/4395628/zion-williamson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "splits",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Splits",
+          "text": "Splits"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/gamelog/_/id/4395628/zion-williamson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamelog",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Game Log",
+          "text": "Game Log"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/news/_/id/4395628/zion-williamson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "news",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "News",
+          "text": "News"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/bio/_/id/4395628/zion-williamson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "bio",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Bio",
+          "text": "Bio"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/_/id/4395628/zion-williamson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "overview",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Overview",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.espn.com/nba/player/advancedstats/_/id/4395628/zion-williamson",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "advancedstats",
+            "desktop",
+            "athlete"
+          ],
+          "shortText": "Advanced Stats",
+          "text": "Advanced Stats"
+        }
+      ],
+      "position": {
+        "abbreviation": "F",
+        "displayName": "Forward",
+        "id": "7",
+        "leaf": false,
+        "name": "Forward"
+      },
+      "shortName": "Z. Williamson",
+      "slug": "zion-williamson",
+      "status": {
+        "abbreviation": "Active",
+        "id": "1",
+        "name": "Active",
+        "type": "active"
+      },
+      "teams": [
+        {
+          "$ref": "http://sports.core.api.espn.pvt/v2/sports/basketball/leagues/nba/seasons/2026/teams/3?lang=en&region=us"
+        }
+      ],
+      "uid": "s:40~l:46~a:4395628",
+      "weight": 284.0
+    }
+  ],
+  "coach": [
+    {
+      "experience": 3,
+      "firstName": "Jamahl",
+      "id": "2529241",
+      "lastName": "Mosley"
+    }
+  ],
+  "season": {
+    "displayName": "2025-26",
+    "name": "Postseason",
+    "type": 3,
+    "year": 2026
+  },
+  "status": "success",
+  "team": {
+    "abbreviation": "NO",
+    "clubhouse": "https://www.espn.com/nba/team/_/name/no/new-orleans-pelicans",
+    "color": "0a2240",
+    "displayName": "New Orleans Pelicans",
+    "id": "3",
+    "location": "New Orleans",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "name": "Pelicans",
+    "recordSummary": "26-56",
+    "seasonSummary": "2025-26",
+    "standingSummary": "3rd in Southwest Division"
+  },
+  "timestamp": "2026-06-03T18:55:24Z"
+}

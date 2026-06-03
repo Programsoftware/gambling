@@ -1,0 +1,4063 @@
+{
+  "events": [
+    {
+      "competitions": [
+        {
+          "attendance": 18203,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "TNT"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN OK"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN NOLA"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "25",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "57-25",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "36-16",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "94",
+                "value": 94.0
+              },
+              "team": {
+                "abbreviation": "OKC",
+                "displayName": "Oklahoma City Thunder",
+                "id": "25",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Oklahoma City",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Thunder"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "3",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Trey Murphy III",
+                        "id": "4397688",
+                        "lastName": "Murphy III",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4397688/trey-murphy-iii",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4397688/trey-murphy-iii",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4397688/trey-murphy-iii",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4397688/trey-murphy-iii",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4397688/trey-murphy-iii",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4397688/trey-murphy-iii",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4397688/trey-murphy-iii",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "T. Murphy III"
+                      },
+                      "displayValue": "21",
+                      "value": 21.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "CJ McCollum",
+                        "id": "2490149",
+                        "lastName": "McCollum",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "C. McCollum"
+                      },
+                      "displayValue": "6",
+                      "value": 6.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Jonas Valanciunas",
+                        "id": "6477",
+                        "lastName": "Valanciunas",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "J. Valanciunas"
+                      },
+                      "displayValue": "20",
+                      "value": 20.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "49-33",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "30-22",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "92",
+                "value": 92.0
+              },
+              "team": {
+                "abbreviation": "NO",
+                "displayName": "New Orleans Pelicans",
+                "id": "3",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/no/new-orleans-pelicans",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "New Orleans",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/no.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/no.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Pelicans"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2024-04-22T01:30Z",
+          "id": "401654762",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "West 1st Round - Game 1",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Oklahoma City",
+              "state": "OK"
+            },
+            "fullName": "Paycom Center"
+          }
+        }
+      ],
+      "date": "2024-04-22T01:30Z",
+      "id": "401654762",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401654762/pelicans-thunder",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401654762&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401654762",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "New Orleans Pelicans at Oklahoma City Thunder",
+      "season": {
+        "displayName": "2023-24",
+        "year": 2024
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "NO @ OKC",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 18203,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "TNT"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN OK"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN NOLA"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "25",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "57-25",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "36-16",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "124",
+                "value": 124.0
+              },
+              "team": {
+                "abbreviation": "OKC",
+                "displayName": "Oklahoma City Thunder",
+                "id": "25",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Oklahoma City",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Thunder"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "3",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Jonas Valanciunas",
+                        "id": "6477",
+                        "lastName": "Valanciunas",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "J. Valanciunas"
+                      },
+                      "displayValue": "19",
+                      "value": 19.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "CJ McCollum",
+                        "id": "2490149",
+                        "lastName": "McCollum",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "C. McCollum"
+                      },
+                      "displayValue": "4",
+                      "value": 4.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Jonas Valanciunas",
+                        "id": "6477",
+                        "lastName": "Valanciunas",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "J. Valanciunas"
+                      },
+                      "displayValue": "7",
+                      "value": 7.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "49-33",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "30-22",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "92",
+                "value": 92.0
+              },
+              "team": {
+                "abbreviation": "NO",
+                "displayName": "New Orleans Pelicans",
+                "id": "3",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/no/new-orleans-pelicans",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "New Orleans",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/no.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/no.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Pelicans"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2024-04-25T01:30Z",
+          "id": "401655076",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "West 1st Round - Game 2",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Oklahoma City",
+              "state": "OK"
+            },
+            "fullName": "Paycom Center"
+          }
+        }
+      ],
+      "date": "2024-04-25T01:30Z",
+      "id": "401655076",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655076/pelicans-thunder",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401655076&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401655076",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "New Orleans Pelicans at Oklahoma City Thunder",
+      "season": {
+        "displayName": "2023-24",
+        "year": 2024
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "NO @ OKC",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 18659,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "TNT"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN NOLA"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN OK"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "3",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Brandon Ingram",
+                        "id": "3913176",
+                        "lastName": "Ingram",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Ingram"
+                      },
+                      "displayValue": "19",
+                      "value": 19.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "CJ McCollum",
+                        "id": "2490149",
+                        "lastName": "McCollum",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "C. McCollum"
+                      },
+                      "displayValue": "7",
+                      "value": 7.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Larry Nance Jr.",
+                        "id": "2580365",
+                        "lastName": "Nance Jr.",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2580365/larry-nance-jr",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/2580365/larry-nance-jr",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/2580365/larry-nance-jr",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/2580365/larry-nance-jr",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/2580365/larry-nance-jr",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/2580365/larry-nance-jr",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2580365/larry-nance-jr",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/2580365/larry-nance-jr",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "L. Nance Jr."
+                      },
+                      "displayValue": "13",
+                      "value": 13.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "49-33",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "30-22",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "85",
+                "value": 85.0
+              },
+              "team": {
+                "abbreviation": "NO",
+                "displayName": "New Orleans Pelicans",
+                "id": "3",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/no/new-orleans-pelicans",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "New Orleans",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/no.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/no.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Pelicans"
+              },
+              "type": "team",
+              "winner": false
+            },
+            {
+              "homeAway": "away",
+              "id": "25",
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "57-25",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "36-16",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "106",
+                "value": 106.0
+              },
+              "team": {
+                "abbreviation": "OKC",
+                "displayName": "Oklahoma City Thunder",
+                "id": "25",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Oklahoma City",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Thunder"
+              },
+              "type": "team",
+              "winner": true
+            }
+          ],
+          "date": "2024-04-27T19:30Z",
+          "id": "401655077",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "West 1st Round - Game 3",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "New Orleans",
+              "state": "LA"
+            },
+            "fullName": "Smoothie King Center"
+          }
+        }
+      ],
+      "date": "2024-04-27T19:30Z",
+      "id": "401655077",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655077/thunder-pelicans",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401655077&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401655077",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Oklahoma City Thunder at New Orleans Pelicans",
+      "season": {
+        "displayName": "2023-24",
+        "year": 2024
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "OKC @ NO",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 18487,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "NBA TV"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN NOLA"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "2",
+                "type": "Home"
+              },
+              "media": {
+                "shortName": "FanDuel SN OK"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "3",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "CJ McCollum",
+                        "id": "2490149",
+                        "lastName": "McCollum",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/2490149/cj-mccollum",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "C. McCollum"
+                      },
+                      "displayValue": "20",
+                      "value": 20.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Brandon Ingram",
+                        "id": "3913176",
+                        "lastName": "Ingram",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/3913176/brandon-ingram",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "B. Ingram"
+                      },
+                      "displayValue": "6",
+                      "value": 6.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Jonas Valanciunas",
+                        "id": "6477",
+                        "lastName": "Valanciunas",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/6477/jonas-valanciunas",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "J. Valanciunas"
+                      },
+                      "displayValue": "13",
+                      "value": 13.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "49-33",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "30-22",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "89",
+                "value": 89.0
+              },
+              "team": {
+                "abbreviation": "NO",
+                "displayName": "New Orleans Pelicans",
+                "id": "3",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/no/new-orleans-pelicans",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "New Orleans",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/no.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/no.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/9461f397-7882-94c0-c18c-e89bdc9e570e/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Pelicans"
+              },
+              "type": "team",
+              "winner": false
+            },
+            {
+              "homeAway": "away",
+              "id": "25",
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "57-25",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "36-16",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "97",
+                "value": 97.0
+              },
+              "team": {
+                "abbreviation": "OKC",
+                "displayName": "Oklahoma City Thunder",
+                "id": "25",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Oklahoma City",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Thunder"
+              },
+              "type": "team",
+              "winner": true
+            }
+          ],
+          "date": "2024-04-30T00:30Z",
+          "id": "401655078",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "West 1st Round - Game 4",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "New Orleans",
+              "state": "LA"
+            },
+            "fullName": "Smoothie King Center"
+          }
+        }
+      ],
+      "date": "2024-04-30T00:30Z",
+      "id": "401655078",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655078/thunder-pelicans",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401655078&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401655078",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Oklahoma City Thunder at New Orleans Pelicans",
+      "season": {
+        "displayName": "2023-24",
+        "year": 2024
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "OKC @ NO",
+      "timeValid": true
+    }
+  ],
+  "requestedSeason": {
+    "displayName": "2023-24",
+    "name": "Postseason",
+    "type": 3,
+    "year": 2024
+  },
+  "season": {
+    "displayName": "2025-26",
+    "half": 1,
+    "name": "Postseason",
+    "type": 3,
+    "year": 2026
+  },
+  "status": "success",
+  "team": {
+    "abbreviation": "NO",
+    "clubhouse": "https://www.espn.com/nba/team/_/name/no/new-orleans-pelicans",
+    "color": "0a2240",
+    "displayName": "New Orleans Pelicans",
+    "groups": {
+      "id": "10",
+      "isConference": false,
+      "parent": {
+        "id": "6"
+      }
+    },
+    "id": "3",
+    "location": "New Orleans",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "name": "Pelicans",
+    "recordSummary": "26-56",
+    "seasonSummary": "2025-26",
+    "standingSummary": "3rd in Southwest Division"
+  },
+  "timestamp": "2026-06-03T18:55:31Z"
+}

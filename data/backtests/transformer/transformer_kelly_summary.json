@@ -1,0 +1,344 @@
+{
+  "starting_bankroll": 1000,
+  "ending_bankroll": 1671.8069643167241,
+  "profit": 671.8069643167239,
+  "roi_on_starting_bankroll": 0.6718069643167239,
+  "bets_placed": 87,
+  "games_evaluated": 100,
+  "win_rate": 0.5172413793103449,
+  "total_staked": 8424.593124204428,
+  "roi_on_staked": 0.07974355015277555,
+  "kelly_multiplier": 1.0,
+  "max_bet_fraction": 0.1,
+  "max_drawdown": 0.6033404019111518,
+  "model_type": "feature_token_transformer_encoder",
+  "historical_odds_rows": 4478,
+  "feature_rows": 4478,
+  "prediction_rows": 100,
+  "seasons": [
+    20222023,
+    20232024,
+    20242025,
+    20252026
+  ],
+  "fit_mode": "expanding",
+  "market_blend": 0.0,
+  "min_train": 1000,
+  "epochs": 120,
+  "d_model": 96,
+  "n_heads": 8,
+  "n_layers": 4,
+  "dropout": 0.2,
+  "created_at": "2026-06-02T23:44:50",
+  "training_diagnostics": [
+    {
+      "best_epoch": 10,
+      "best_validation_loss": 0.6142192482948303,
+      "train_rows": 4368,
+      "target_date": "2026-04-11",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 1,
+      "best_validation_loss": 0.6138917803764343,
+      "train_rows": 4380,
+      "target_date": "2026-04-12",
+      "target_games": 5
+    },
+    {
+      "best_epoch": 2,
+      "best_validation_loss": 0.613747775554657,
+      "train_rows": 4385,
+      "target_date": "2026-04-13",
+      "target_games": 10
+    },
+    {
+      "best_epoch": 13,
+      "best_validation_loss": 0.6130788922309875,
+      "train_rows": 4395,
+      "target_date": "2026-04-14",
+      "target_games": 8
+    },
+    {
+      "best_epoch": 27,
+      "best_validation_loss": 0.6115192174911499,
+      "train_rows": 4403,
+      "target_date": "2026-04-15",
+      "target_games": 6
+    },
+    {
+      "best_epoch": 35,
+      "best_validation_loss": 0.6087181568145752,
+      "train_rows": 4409,
+      "target_date": "2026-04-16",
+      "target_games": 4
+    },
+    {
+      "best_epoch": 4,
+      "best_validation_loss": 0.6149056553840637,
+      "train_rows": 4413,
+      "target_date": "2026-04-18",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 1,
+      "best_validation_loss": 0.6140610575675964,
+      "train_rows": 4415,
+      "target_date": "2026-04-19",
+      "target_games": 4
+    },
+    {
+      "best_epoch": 36,
+      "best_validation_loss": 0.6059461236000061,
+      "train_rows": 4419,
+      "target_date": "2026-04-20",
+      "target_games": 4
+    },
+    {
+      "best_epoch": 16,
+      "best_validation_loss": 0.6100386381149292,
+      "train_rows": 4423,
+      "target_date": "2026-04-21",
+      "target_games": 4
+    },
+    {
+      "best_epoch": 40,
+      "best_validation_loss": 0.6063016057014465,
+      "train_rows": 4427,
+      "target_date": "2026-04-22",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 27,
+      "best_validation_loss": 0.6060839891433716,
+      "train_rows": 4429,
+      "target_date": "2026-04-23",
+      "target_games": 3
+    },
+    {
+      "best_epoch": 1,
+      "best_validation_loss": 0.6144505739212036,
+      "train_rows": 4432,
+      "target_date": "2026-04-24",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 26,
+      "best_validation_loss": 0.6063782572746277,
+      "train_rows": 4434,
+      "target_date": "2026-04-25",
+      "target_games": 3
+    },
+    {
+      "best_epoch": 19,
+      "best_validation_loss": 0.609021008014679,
+      "train_rows": 4437,
+      "target_date": "2026-04-26",
+      "target_games": 3
+    },
+    {
+      "best_epoch": 8,
+      "best_validation_loss": 0.6151973605155945,
+      "train_rows": 4440,
+      "target_date": "2026-04-27",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 52,
+      "best_validation_loss": 0.6026677489280701,
+      "train_rows": 4442,
+      "target_date": "2026-04-28",
+      "target_games": 3
+    },
+    {
+      "best_epoch": 35,
+      "best_validation_loss": 0.6074514985084534,
+      "train_rows": 4445,
+      "target_date": "2026-04-29",
+      "target_games": 3
+    },
+    {
+      "best_epoch": 35,
+      "best_validation_loss": 0.6066726446151733,
+      "train_rows": 4448,
+      "target_date": "2026-04-30",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 15,
+      "best_validation_loss": 0.6096490621566772,
+      "train_rows": 4449,
+      "target_date": "2026-05-01",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 2,
+      "best_validation_loss": 0.6118183135986328,
+      "train_rows": 4451,
+      "target_date": "2026-05-02",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 33,
+      "best_validation_loss": 0.6062802672386169,
+      "train_rows": 4452,
+      "target_date": "2026-05-03",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 1,
+      "best_validation_loss": 0.6132124066352844,
+      "train_rows": 4454,
+      "target_date": "2026-05-04",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 33,
+      "best_validation_loss": 0.6035260558128357,
+      "train_rows": 4456,
+      "target_date": "2026-05-05",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 20,
+      "best_validation_loss": 0.6039352416992188,
+      "train_rows": 4457,
+      "target_date": "2026-05-06",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 5,
+      "best_validation_loss": 0.6165197491645813,
+      "train_rows": 4459,
+      "target_date": "2026-05-07",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 4,
+      "best_validation_loss": 0.6147994995117188,
+      "train_rows": 4460,
+      "target_date": "2026-05-09",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 3,
+      "best_validation_loss": 0.6125738024711609,
+      "train_rows": 4462,
+      "target_date": "2026-05-10",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 27,
+      "best_validation_loss": 0.6048153042793274,
+      "train_rows": 4463,
+      "target_date": "2026-05-11",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 29,
+      "best_validation_loss": 0.6058277487754822,
+      "train_rows": 4464,
+      "target_date": "2026-05-12",
+      "target_games": 2
+    },
+    {
+      "best_epoch": 30,
+      "best_validation_loss": 0.6043131351470947,
+      "train_rows": 4466,
+      "target_date": "2026-05-13",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 43,
+      "best_validation_loss": 0.6029205918312073,
+      "train_rows": 4467,
+      "target_date": "2026-05-14",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 10,
+      "best_validation_loss": 0.6109832525253296,
+      "train_rows": 4468,
+      "target_date": "2026-05-16",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 43,
+      "best_validation_loss": 0.6047654151916504,
+      "train_rows": 4469,
+      "target_date": "2026-05-20",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 4,
+      "best_validation_loss": 0.6136780381202698,
+      "train_rows": 4470,
+      "target_date": "2026-05-21",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 3,
+      "best_validation_loss": 0.6134818196296692,
+      "train_rows": 4471,
+      "target_date": "2026-05-22",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 20,
+      "best_validation_loss": 0.6040196418762207,
+      "train_rows": 4472,
+      "target_date": "2026-05-23",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 27,
+      "best_validation_loss": 0.6049250960350037,
+      "train_rows": 4473,
+      "target_date": "2026-05-24",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 18,
+      "best_validation_loss": 0.6044114232063293,
+      "train_rows": 4474,
+      "target_date": "2026-05-25",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 8,
+      "best_validation_loss": 0.6117004156112671,
+      "train_rows": 4475,
+      "target_date": "2026-05-26",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 39,
+      "best_validation_loss": 0.6043001413345337,
+      "train_rows": 4476,
+      "target_date": "2026-05-27",
+      "target_games": 1
+    },
+    {
+      "best_epoch": 25,
+      "best_validation_loss": 0.6042645573616028,
+      "train_rows": 4477,
+      "target_date": "2026-05-29",
+      "target_games": 1
+    }
+  ],
+  "bootstrap": {
+    "trials": 1000,
+    "sampled_games_per_trial": 87,
+    "mean_final_bankroll": 2424.3232017124874,
+    "median_final_bankroll": 1564.4824207196689,
+    "p05_final_bankroll": 359.04052362534884,
+    "p95_final_bankroll": 7207.704336355404,
+    "probability_profit": 0.695
+  },
+  "notes": [
+    "Each numeric matchup feature is treated as a transformer token.",
+    "Feature values are standardized using only training rows before each target date.",
+    "The walk-forward split excludes target-date games from training.",
+    "Kelly betting uses the same simulator as the non-transformer baseline."
+  ]
+}

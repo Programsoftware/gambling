@@ -1,0 +1,496 @@
+{
+  "gameWeek": [
+    {
+      "date": "2026-06-02",
+      "datePromo": [],
+      "dayAbbrev": "TUE",
+      "games": [
+        {
+          "awayTeam": {
+            "abbrev": "VGK",
+            "awaySplitSquad": false,
+            "commonName": {
+              "default": "Golden Knights"
+            },
+            "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg",
+            "id": 54,
+            "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+            "odds": [
+              {
+                "providerId": 7,
+                "value": "+130"
+              },
+              {
+                "providerId": 9,
+                "value": "+130"
+              },
+              {
+                "providerId": 3,
+                "value": "2.30"
+              },
+              {
+                "providerId": 6,
+                "value": "2.23"
+              },
+              {
+                "providerId": 8,
+                "value": "+130"
+              },
+              {
+                "providerId": 10,
+                "value": "3.10"
+              }
+            ],
+            "placeName": {
+              "default": "Vegas"
+            },
+            "placeNameWithPreposition": {
+              "default": "Vegas",
+              "fr": "de Vegas"
+            },
+            "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/VGK/20252026/VGK-radio.m3u8"
+          },
+          "easternUTCOffset": "-04:00",
+          "gameCenterLink": "/gamecenter/vgk-vs-car/2026/06/02/2025030411",
+          "gameScheduleState": "OK",
+          "gameState": "FUT",
+          "gameType": 3,
+          "homeTeam": {
+            "abbrev": "CAR",
+            "commonName": {
+              "default": "Hurricanes"
+            },
+            "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+            "homeSplitSquad": false,
+            "id": 12,
+            "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+            "odds": [
+              {
+                "providerId": 7,
+                "value": "-156"
+              },
+              {
+                "providerId": 9,
+                "value": "-155"
+              },
+              {
+                "providerId": 3,
+                "value": "1.64"
+              },
+              {
+                "providerId": 6,
+                "value": "1.63"
+              },
+              {
+                "providerId": 8,
+                "value": "-155"
+              },
+              {
+                "providerId": 10,
+                "value": "2.10"
+              }
+            ],
+            "placeName": {
+              "default": "Carolina",
+              "fr": "Caroline"
+            },
+            "placeNameWithPreposition": {
+              "default": "Carolina",
+              "fr": "de la Caroline"
+            },
+            "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CAR/20252026/CAR-radio.m3u8"
+          },
+          "id": 2025030411,
+          "neutralSite": false,
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "season": 20252026,
+          "seriesStatus": {
+            "bottomSeedTeamAbbrev": "VGK",
+            "bottomSeedWins": 0,
+            "gameNumberOfSeries": 1,
+            "neededToWin": 4,
+            "round": 4,
+            "seriesAbbrev": "SCF",
+            "seriesLetter": "O",
+            "seriesTitle": "Stanley Cup Final",
+            "topSeedTeamAbbrev": "CAR",
+            "topSeedWins": 0
+          },
+          "seriesUrl": "/schedule/playoff-series/2026/series-o/hurricanes-vs-goldenknights",
+          "startTimeUTC": "2026-06-03T00:00:00Z",
+          "ticketsLink": "https://www.ticketmaster.com/event/2D00646AAEB0F01C?brand=nhl&wt.mc_id=NHL_LEAGUE_CAR_SCHED_PG_PLAYOFFS_RD4_GM1&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CAR&utm_content=SCHED_PG_PLAYOFFS_RD4_GM1",
+          "ticketsLinkFr": "https://www.ticketmaster.com/event/2D00646AAEB0F01C?brand=nhl&wt.mc_id=NHL_LEAGUE_CAR_SCHED_PG_PLAYOFFS_RD4_GM1&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CAR&utm_content=SCHED_PG_PLAYOFFS_RD4_GM1",
+          "tvBroadcasts": [
+            {
+              "countryCode": "US",
+              "id": 384,
+              "market": "N",
+              "network": "ABC",
+              "sequenceNumber": 1
+            },
+            {
+              "countryCode": "CA",
+              "id": 4,
+              "market": "N",
+              "network": "CBC",
+              "sequenceNumber": 101
+            },
+            {
+              "countryCode": "CA",
+              "id": 282,
+              "market": "N",
+              "network": "SN",
+              "sequenceNumber": 107
+            },
+            {
+              "countryCode": "CA",
+              "id": 281,
+              "market": "N",
+              "network": "TVAS",
+              "sequenceNumber": 120
+            }
+          ],
+          "venue": {
+            "default": "Lenovo Center"
+          },
+          "venueTimezone": "US/Eastern",
+          "venueUTCOffset": "-04:00"
+        }
+      ],
+      "numberOfGames": 1
+    },
+    {
+      "date": "2026-06-03",
+      "datePromo": [],
+      "dayAbbrev": "WED",
+      "games": [],
+      "numberOfGames": 0
+    },
+    {
+      "date": "2026-06-04",
+      "datePromo": [],
+      "dayAbbrev": "THU",
+      "games": [
+        {
+          "awayTeam": {
+            "abbrev": "VGK",
+            "awaySplitSquad": false,
+            "commonName": {
+              "default": "Golden Knights"
+            },
+            "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg",
+            "id": 54,
+            "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+            "placeName": {
+              "default": "Vegas"
+            },
+            "placeNameWithPreposition": {
+              "default": "Vegas",
+              "fr": "de Vegas"
+            },
+            "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/VGK/20252026/VGK-radio.m3u8"
+          },
+          "easternUTCOffset": "-04:00",
+          "gameCenterLink": "/gamecenter/vgk-vs-car/2026/06/04/2025030412",
+          "gameScheduleState": "OK",
+          "gameState": "FUT",
+          "gameType": 3,
+          "homeTeam": {
+            "abbrev": "CAR",
+            "commonName": {
+              "default": "Hurricanes"
+            },
+            "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+            "homeSplitSquad": false,
+            "id": 12,
+            "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+            "placeName": {
+              "default": "Carolina",
+              "fr": "Caroline"
+            },
+            "placeNameWithPreposition": {
+              "default": "Carolina",
+              "fr": "de la Caroline"
+            },
+            "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CAR/20252026/CAR-radio.m3u8"
+          },
+          "id": 2025030412,
+          "neutralSite": false,
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "season": 20252026,
+          "seriesStatus": {
+            "bottomSeedTeamAbbrev": "VGK",
+            "bottomSeedWins": 0,
+            "gameNumberOfSeries": 2,
+            "neededToWin": 4,
+            "round": 4,
+            "seriesAbbrev": "SCF",
+            "seriesLetter": "O",
+            "seriesTitle": "Stanley Cup Final",
+            "topSeedTeamAbbrev": "CAR",
+            "topSeedWins": 0
+          },
+          "seriesUrl": "/schedule/playoff-series/2026/series-o/hurricanes-vs-goldenknights",
+          "startTimeUTC": "2026-06-05T00:00:00Z",
+          "ticketsLink": "https://www.ticketmaster.com/event/2D00646AAEB5F02A?brand=nhl&wt.mc_id=NHL_LEAGUE_CAR_SCHED_PG_PLAYOFFS_RD4_GM2&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CAR&utm_content=SCHED_PG_PLAYOFFS_RD4_GM2",
+          "ticketsLinkFr": "https://www.ticketmaster.com/event/2D00646AAEB5F02A?brand=nhl&wt.mc_id=NHL_LEAGUE_CAR_SCHED_PG_PLAYOFFS_RD4_GM2&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_LEAGUE_CAR&utm_content=SCHED_PG_PLAYOFFS_RD4_GM2",
+          "tvBroadcasts": [
+            {
+              "countryCode": "US",
+              "id": 384,
+              "market": "N",
+              "network": "ABC",
+              "sequenceNumber": 1
+            },
+            {
+              "countryCode": "CA",
+              "id": 4,
+              "market": "N",
+              "network": "CBC",
+              "sequenceNumber": 101
+            },
+            {
+              "countryCode": "CA",
+              "id": 282,
+              "market": "N",
+              "network": "SN",
+              "sequenceNumber": 107
+            },
+            {
+              "countryCode": "CA",
+              "id": 281,
+              "market": "N",
+              "network": "TVAS",
+              "sequenceNumber": 120
+            }
+          ],
+          "venue": {
+            "default": "Lenovo Center"
+          },
+          "venueTimezone": "US/Eastern",
+          "venueUTCOffset": "-04:00"
+        }
+      ],
+      "numberOfGames": 1
+    },
+    {
+      "date": "2026-06-05",
+      "datePromo": [],
+      "dayAbbrev": "FRI",
+      "games": [],
+      "numberOfGames": 0
+    },
+    {
+      "date": "2026-06-06",
+      "datePromo": [],
+      "dayAbbrev": "SAT",
+      "games": [
+        {
+          "awayTeam": {
+            "abbrev": "CAR",
+            "awaySplitSquad": false,
+            "commonName": {
+              "default": "Hurricanes"
+            },
+            "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+            "id": 12,
+            "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+            "placeName": {
+              "default": "Carolina",
+              "fr": "Caroline"
+            },
+            "placeNameWithPreposition": {
+              "default": "Carolina",
+              "fr": "de la Caroline"
+            },
+            "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CAR/20252026/CAR-radio.m3u8"
+          },
+          "easternUTCOffset": "-04:00",
+          "gameCenterLink": "/gamecenter/car-vs-vgk/2026/06/06/2025030413",
+          "gameScheduleState": "OK",
+          "gameState": "FUT",
+          "gameType": 3,
+          "homeTeam": {
+            "abbrev": "VGK",
+            "commonName": {
+              "default": "Golden Knights"
+            },
+            "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg",
+            "homeSplitSquad": false,
+            "id": 54,
+            "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+            "placeName": {
+              "default": "Vegas"
+            },
+            "placeNameWithPreposition": {
+              "default": "Vegas",
+              "fr": "de Vegas"
+            },
+            "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/VGK/20252026/VGK-radio.m3u8"
+          },
+          "id": 2025030413,
+          "neutralSite": false,
+          "periodDescriptor": {
+            "maxRegulationPeriods": 3,
+            "number": 1,
+            "periodType": "REG"
+          },
+          "season": 20252026,
+          "seriesStatus": {
+            "bottomSeedTeamAbbrev": "VGK",
+            "bottomSeedWins": 0,
+            "gameNumberOfSeries": 3,
+            "neededToWin": 4,
+            "round": 4,
+            "seriesAbbrev": "SCF",
+            "seriesLetter": "O",
+            "seriesTitle": "Stanley Cup Final",
+            "topSeedTeamAbbrev": "CAR",
+            "topSeedWins": 0
+          },
+          "seriesUrl": "/schedule/playoff-series/2026/series-o/goldenknights-vs-hurricanes",
+          "startTimeUTC": "2026-06-07T00:00:00Z",
+          "ticketsLink": "https://www.nhl.com/goldenknights/tickets/",
+          "ticketsLinkFr": "https://www.nhl.com/goldenknights/tickets/",
+          "tvBroadcasts": [
+            {
+              "countryCode": "US",
+              "id": 384,
+              "market": "N",
+              "network": "ABC",
+              "sequenceNumber": 1
+            },
+            {
+              "countryCode": "CA",
+              "id": 4,
+              "market": "N",
+              "network": "CBC",
+              "sequenceNumber": 101
+            },
+            {
+              "countryCode": "CA",
+              "id": 282,
+              "market": "N",
+              "network": "SN",
+              "sequenceNumber": 107
+            },
+            {
+              "countryCode": "CA",
+              "id": 281,
+              "market": "N",
+              "network": "TVAS",
+              "sequenceNumber": 120
+            }
+          ],
+          "venue": {
+            "default": "T-Mobile Arena"
+          },
+          "venueTimezone": "US/Pacific",
+          "venueUTCOffset": "-07:00"
+        }
+      ],
+      "numberOfGames": 1
+    },
+    {
+      "date": "2026-06-07",
+      "datePromo": [],
+      "dayAbbrev": "SUN",
+      "games": [],
+      "numberOfGames": 0
+    },
+    {
+      "date": "2026-06-08",
+      "datePromo": [],
+      "dayAbbrev": "MON",
+      "games": [],
+      "numberOfGames": 0
+    }
+  ],
+  "nextStartDate": "2026-06-09",
+  "numberOfGames": 3,
+  "oddsPartners": [
+    {
+      "accentColor": "#3AAA35",
+      "bgColor": "#14805E",
+      "country": "SE",
+      "imageUrl": "https://assets.nhle.com/betting_partner/unibet.svg",
+      "name": "Unibet",
+      "partnerId": 2,
+      "siteUrl": "https://www.unibet.se/betting/sports/filter/ice_hockey/nhl/all/matches",
+      "textColor": "#FFFFFF"
+    },
+    {
+      "accentColor": "#FFFFFF",
+      "bgColor": "#2497F2",
+      "country": "CZ",
+      "imageUrl": "https://assets.nhle.com/betting_partner/tipsport.svg",
+      "name": "Tipsport",
+      "partnerId": 3,
+      "siteUrl": "https://www.tipsport.cz/PartnerRedirectAction.do?pid=16961&sid=20360&bid=34954&tid=11268",
+      "textColor": "#FFFFFF"
+    },
+    {
+      "accentColor": "#FFFFFF",
+      "bgColor": "#0025F5",
+      "country": "FI",
+      "imageUrl": "https://assets.nhle.com/betting_partner/veikkaus.svg",
+      "name": "Veikkaus",
+      "partnerId": 6,
+      "siteUrl": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=3-2-1_NHL",
+      "textColor": "#FFFFFF"
+    },
+    {
+      "accentColor": "#FFFFFF",
+      "bgColor": "#0078ff",
+      "country": "CA",
+      "imageUrl": "https://assets.nhle.com/betting_partner/fanduel.svg",
+      "name": "FanDuel",
+      "partnerId": 7,
+      "siteUrl": "https://fanduel.com",
+      "textColor": "#FFFFFF"
+    },
+    {
+      "accentColor": "#E6E6E6",
+      "bgColor": "#000000",
+      "country": "DE",
+      "imageUrl": "https://assets.nhle.com/betting_partner/sportsradar.svg",
+      "name": "Sportradar",
+      "partnerId": 8,
+      "siteUrl": "https://sportradar.com",
+      "textColor": "#FFFFFF"
+    },
+    {
+      "accentColor": "#FFFFFF",
+      "bgColor": "#000000",
+      "country": "US",
+      "imageUrl": "https://assets.nhle.com/betting_partner/draftkings.svg",
+      "name": "DraftKings",
+      "partnerId": 9,
+      "siteUrl": "https://dksb.sng.link/As9kz/3i4d?_dl=https%3A%2F%2Fsportsbook.draftkings.com%2Fgateway%3Fs%3D333653091&pcid=427326&psn=1320&pcn=NHL&pscn=OddsWidget&pcrn=NoOffer&pscid=SP&wpcid=427326&wpsrc=1320&wpcn=NHL&wpscn=OddsWidget&wpcrn=NoOffer&wpscid=SP&_forward_params=1",
+      "textColor": "#FFFFFF"
+    },
+    {
+      "accentColor": "#ffffff",
+      "bgColor": "#f30d31",
+      "country": "SK",
+      "imageUrl": "https://assets.nhle.com/betting_partner/doxxbet.svg",
+      "name": "Doxxbet",
+      "partnerId": 10,
+      "siteUrl": "https://www.doxxbet.sk/sk/sportove-tipovanie-online/kurzy/ladovy-hokej/usa/nhl/?msID=21&mbID=27",
+      "textColor": "#202020"
+    }
+  ],
+  "playoffEndDate": "2026-06-15",
+  "preSeasonStartDate": "2025-09-20",
+  "previousStartDate": "2026-05-26",
+  "regularSeasonEndDate": "2026-04-17",
+  "regularSeasonStartDate": "2025-10-07"
+}

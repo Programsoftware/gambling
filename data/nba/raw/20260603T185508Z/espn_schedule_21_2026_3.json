@@ -1,0 +1,4019 @@
+{
+  "events": [
+    {
+      "competitions": [
+        {
+          "attendance": 18203,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "ABC"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "25",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "64-18",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "41-11",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "119",
+                "value": 119.0
+              },
+              "team": {
+                "abbreviation": "OKC",
+                "displayName": "Oklahoma City Thunder",
+                "id": "25",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Oklahoma City",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Thunder"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "21",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Devin Booker",
+                        "id": "3136193",
+                        "lastName": "Booker",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3136193/devin-booker",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/3136193/devin-booker",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/3136193/devin-booker",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/3136193/devin-booker",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/3136193/devin-booker",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/3136193/devin-booker",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3136193/devin-booker",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/3136193/devin-booker",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "D. Booker"
+                      },
+                      "displayValue": "23",
+                      "value": 23.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Royce O'Neale",
+                        "id": "2583632",
+                        "lastName": "O'Neale",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "R. O'Neale"
+                      },
+                      "displayValue": "3",
+                      "value": 3.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Oso Ighodaro",
+                        "id": "4601023",
+                        "lastName": "Ighodaro",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "O. Ighodaro"
+                      },
+                      "displayValue": "9",
+                      "value": 9.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "45-37",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "29-23",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "84",
+                "value": 84.0
+              },
+              "team": {
+                "abbreviation": "PHX",
+                "displayName": "Phoenix Suns",
+                "id": "21",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/phx/phoenix-suns",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Phoenix",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/phx.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/phx.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Suns"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2026-04-19T19:30Z",
+          "id": "401869192",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "West 1st Round - Game 1",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Oklahoma City",
+              "state": "OK"
+            },
+            "fullName": "Paycom Center"
+          }
+        }
+      ],
+      "date": "2026-04-19T19:30Z",
+      "id": "401869192",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869192/suns-thunder",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401869192&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/watchespn/index?gameId=401869192&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "desktop",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "watchespn://showEvent?gameId=401869192&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "app",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401869192",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Phoenix Suns at Oklahoma City Thunder",
+      "season": {
+        "displayName": "2025-26",
+        "year": 2026
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "PHX @ OKC",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 18203,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "ESPN"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "25",
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "64-18",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "41-11",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "120",
+                "value": 120.0
+              },
+              "team": {
+                "abbreviation": "OKC",
+                "displayName": "Oklahoma City Thunder",
+                "id": "25",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Oklahoma City",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Thunder"
+              },
+              "type": "team",
+              "winner": true
+            },
+            {
+              "homeAway": "away",
+              "id": "21",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Dillon Brooks",
+                        "id": "3155526",
+                        "lastName": "Brooks",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "D. Brooks"
+                      },
+                      "displayValue": "30",
+                      "value": 30.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Collin Gillespie",
+                        "id": "4278585",
+                        "lastName": "Gillespie",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "C. Gillespie"
+                      },
+                      "displayValue": "6",
+                      "value": 6.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Royce O'Neale",
+                        "id": "2583632",
+                        "lastName": "O'Neale",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/2583632/royce-oneale",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "R. O'Neale"
+                      },
+                      "displayValue": "9",
+                      "value": 9.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "45-37",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "29-23",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "107",
+                "value": 107.0
+              },
+              "team": {
+                "abbreviation": "PHX",
+                "displayName": "Phoenix Suns",
+                "id": "21",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/phx/phoenix-suns",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Phoenix",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/phx.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/phx.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Suns"
+              },
+              "type": "team",
+              "winner": false
+            }
+          ],
+          "date": "2026-04-23T01:30Z",
+          "id": "401869368",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "West 1st Round - Game 2",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Oklahoma City",
+              "state": "OK"
+            },
+            "fullName": "Paycom Center"
+          }
+        }
+      ],
+      "date": "2026-04-23T01:30Z",
+      "id": "401869368",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869368/suns-thunder",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401869368&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/watchespn/index?gameId=401869368&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "desktop",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "watchespn://showEvent?gameId=401869368&sourceLang=en",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "watchespn",
+            "app",
+            "event"
+          ],
+          "shortText": "WatchESPN",
+          "text": "WatchESPN"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401869368",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Phoenix Suns at Oklahoma City Thunder",
+      "season": {
+        "displayName": "2025-26",
+        "year": 2026
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "PHX @ OKC",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 17071,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "NBC"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "Peacock"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "4",
+                "shortName": "Streaming"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "21",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Dillon Brooks",
+                        "id": "3155526",
+                        "lastName": "Brooks",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/3155526/dillon-brooks",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "D. Brooks"
+                      },
+                      "displayValue": "33",
+                      "value": 33.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Devin Booker",
+                        "id": "3136193",
+                        "lastName": "Booker",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3136193/devin-booker",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/3136193/devin-booker",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/3136193/devin-booker",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/3136193/devin-booker",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/3136193/devin-booker",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/3136193/devin-booker",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3136193/devin-booker",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/3136193/devin-booker",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "D. Booker"
+                      },
+                      "displayValue": "7",
+                      "value": 7.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Collin Gillespie",
+                        "id": "4278585",
+                        "lastName": "Gillespie",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4278585/collin-gillespie",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "C. Gillespie"
+                      },
+                      "displayValue": "10",
+                      "value": 10.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "45-37",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "29-23",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "109",
+                "value": 109.0
+              },
+              "team": {
+                "abbreviation": "PHX",
+                "displayName": "Phoenix Suns",
+                "id": "21",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/phx/phoenix-suns",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Phoenix",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/phx.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/phx.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Suns"
+              },
+              "type": "team",
+              "winner": false
+            },
+            {
+              "homeAway": "away",
+              "id": "25",
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "64-18",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "41-11",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "121",
+                "value": 121.0
+              },
+              "team": {
+                "abbreviation": "OKC",
+                "displayName": "Oklahoma City Thunder",
+                "id": "25",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Oklahoma City",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Thunder"
+              },
+              "type": "team",
+              "winner": true
+            }
+          ],
+          "date": "2026-04-25T19:30Z",
+          "id": "401869370",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "West 1st Round - Game 3",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Phoenix",
+              "state": "AZ"
+            },
+            "fullName": "Mortgage Matchup Center"
+          }
+        }
+      ],
+      "date": "2026-04-25T19:30Z",
+      "id": "401869370",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869370/thunder-suns",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401869370&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401869370",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Oklahoma City Thunder at Phoenix Suns",
+      "season": {
+        "displayName": "2025-26",
+        "year": 2026
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "OKC @ PHX",
+      "timeValid": true
+    },
+    {
+      "competitions": [
+        {
+          "attendance": 17071,
+          "boxscoreAvailable": true,
+          "broadcasts": [
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "NBCSN"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              }
+            },
+            {
+              "lang": "en",
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "Peacock"
+              },
+              "partnered": false,
+              "region": "us",
+              "type": {
+                "id": "4",
+                "shortName": "Streaming"
+              }
+            }
+          ],
+          "competitors": [
+            {
+              "homeAway": "home",
+              "id": "21",
+              "leaders": [
+                {
+                  "abbreviation": "Pts",
+                  "displayName": "Points",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Devin Booker",
+                        "id": "3136193",
+                        "lastName": "Booker",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3136193/devin-booker",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/3136193/devin-booker",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/3136193/devin-booker",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/3136193/devin-booker",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/3136193/devin-booker",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/3136193/devin-booker",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3136193/devin-booker",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/3136193/devin-booker",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "D. Booker"
+                      },
+                      "displayValue": "24",
+                      "value": 24.0
+                    }
+                  ],
+                  "name": "points"
+                },
+                {
+                  "abbreviation": "Ast",
+                  "displayName": "Assists",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Devin Booker",
+                        "id": "3136193",
+                        "lastName": "Booker",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3136193/devin-booker",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/3136193/devin-booker",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/3136193/devin-booker",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/3136193/devin-booker",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/3136193/devin-booker",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/3136193/devin-booker",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/3136193/devin-booker",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/3136193/devin-booker",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "D. Booker"
+                      },
+                      "displayValue": "6",
+                      "value": 6.0
+                    }
+                  ],
+                  "name": "assists"
+                },
+                {
+                  "abbreviation": "Reb",
+                  "displayName": "Rebounds",
+                  "leaders": [
+                    {
+                      "athlete": {
+                        "displayName": "Oso Ighodaro",
+                        "id": "4601023",
+                        "lastName": "Ighodaro",
+                        "links": [
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/stats/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "stats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/splits/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "splits",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/gamelog/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "gamelog",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/news/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "news",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/bio/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "bio",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "overview",
+                              "desktop",
+                              "athlete"
+                            ]
+                          },
+                          {
+                            "href": "https://www.espn.com/nba/player/advancedstats/_/id/4601023/oso-ighodaro",
+                            "rel": [
+                              "advancedstats",
+                              "desktop",
+                              "athlete"
+                            ]
+                          }
+                        ],
+                        "shortName": "O. Ighodaro"
+                      },
+                      "displayValue": "8",
+                      "value": 8.0
+                    }
+                  ],
+                  "name": "rebounds"
+                }
+              ],
+              "order": 0,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "45-37",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "29-23",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "122",
+                "value": 122.0
+              },
+              "team": {
+                "abbreviation": "PHX",
+                "displayName": "Phoenix Suns",
+                "id": "21",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/phx/phoenix-suns",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Phoenix",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/phx.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/phx.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/c6eade89-5971-0e84-8ccb-cd91482b2b50/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Suns"
+              },
+              "type": "team",
+              "winner": false
+            },
+            {
+              "homeAway": "away",
+              "id": "25",
+              "order": 1,
+              "record": [
+                {
+                  "abbreviation": "Total",
+                  "description": "Overall Record",
+                  "displayName": "Overall",
+                  "displayValue": "64-18",
+                  "id": "0",
+                  "shortDisplayName": "OVER",
+                  "type": "total"
+                },
+                {
+                  "description": "Conference Record",
+                  "displayName": "CONF",
+                  "displayValue": "41-11",
+                  "id": "61",
+                  "shortDisplayName": "CONF",
+                  "type": "vsconf"
+                }
+              ],
+              "score": {
+                "displayValue": "131",
+                "value": 131.0
+              },
+              "team": {
+                "abbreviation": "OKC",
+                "displayName": "Oklahoma City Thunder",
+                "id": "25",
+                "links": [
+                  {
+                    "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "text": "Clubhouse"
+                  }
+                ],
+                "location": "Oklahoma City",
+                "logos": [
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+                    "lastUpdated": "2024-06-25T21:17Z",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/okc.png",
+                    "lastUpdated": "2024-06-25T21:13Z",
+                    "rel": [
+                      "full",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:18Z",
+                    "rel": [
+                      "full",
+                      "scoreboard"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 500,
+                    "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/okc.png",
+                    "lastUpdated": "2024-06-25T21:14Z",
+                    "rel": [
+                      "full",
+                      "scoreboard",
+                      "dark"
+                    ],
+                    "width": 500
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/primary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "primary_logo_white"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_white_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_white_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_black_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_black_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_primary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_primary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_on_secondary_color.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_on_secondary_color"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_black.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_black"
+                    ],
+                    "width": 4096
+                  },
+                  {
+                    "alt": "",
+                    "height": 4096,
+                    "href": "https://a.espncdn.com/guid/bd458c44-2d33-47eb-cebc-35d3d4ac595c/logos/secondary_logo_white.png",
+                    "lastUpdated": "2026-02-13T03:00Z",
+                    "rel": [
+                      "full",
+                      "secondary_logo_white"
+                    ],
+                    "width": 4096
+                  }
+                ],
+                "shortDisplayName": "Thunder"
+              },
+              "type": "team",
+              "winner": true
+            }
+          ],
+          "date": "2026-04-28T01:30Z",
+          "id": "401869373",
+          "neutralSite": false,
+          "notes": [
+            {
+              "headline": "West 1st Round - Game 4",
+              "type": "event"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0.0",
+            "period": 4,
+            "type": {
+              "completed": true,
+              "description": "Final",
+              "detail": "Final",
+              "id": "3",
+              "name": "STATUS_FINAL",
+              "shortDetail": "Final",
+              "state": "post"
+            }
+          },
+          "ticketsAvailable": false,
+          "timeValid": true,
+          "type": {
+            "abbreviation": "RD16",
+            "id": "14",
+            "slug": "round-of-16",
+            "text": "Round of 16",
+            "type": "round-of-16"
+          },
+          "venue": {
+            "address": {
+              "city": "Phoenix",
+              "state": "AZ"
+            },
+            "fullName": "Mortgage Matchup Center"
+          }
+        }
+      ],
+      "date": "2026-04-28T01:30Z",
+      "id": "401869373",
+      "links": [
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869373/thunder-suns",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Summary",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "now",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Now",
+          "text": "Now"
+        },
+        {
+          "href": "https://www.espn.com/nba/matchup?gameId=401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "teamstats",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Team Stats",
+          "text": "Team Stats"
+        },
+        {
+          "href": "https://www.espn.com/nba/boxscore/_/gameId/401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "boxscore",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Box Score",
+          "text": "Box Score"
+        },
+        {
+          "href": "https://www.espn.com/nba/game/_/gameId/401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "http://m.espn.com/nba/gamecast?gameId=401869373&action=summary",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "gamecast",
+            "sportscenter",
+            "app",
+            "event"
+          ],
+          "shortText": "Gamecast",
+          "text": "Gamecast"
+        },
+        {
+          "href": "https://www.espn.com/nba/recap?gameId=401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "recap",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Recap",
+          "text": "Recap"
+        },
+        {
+          "href": "https://www.espn.com/nba/playbyplay/_/gameId/401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "pbp",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Play-by-Play",
+          "text": "Play-by-Play"
+        },
+        {
+          "href": "https://www.espn.com/nba/video?gameId=401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "videos",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Videos",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.espn.com/nba/odds/_/gameId/401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "desktop",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        },
+        {
+          "href": "https://m.espn.com/nba/odds/_/gameId/401869373",
+          "isExternal": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "odds",
+            "mobile",
+            "event"
+          ],
+          "shortText": "Odds",
+          "text": "Odds"
+        }
+      ],
+      "name": "Oklahoma City Thunder at Phoenix Suns",
+      "season": {
+        "displayName": "2025-26",
+        "year": 2026
+      },
+      "seasonType": {
+        "abbreviation": "post",
+        "id": "3",
+        "name": "Postseason",
+        "type": 3
+      },
+      "shortName": "OKC @ PHX",
+      "timeValid": true
+    }
+  ],
+  "requestedSeason": {
+    "displayName": "2025-26",
+    "name": "Postseason",
+    "type": 3,
+    "year": 2026
+  },
+  "season": {
+    "displayName": "2025-26",
+    "half": 1,
+    "name": "Postseason",
+    "type": 3,
+    "year": 2026
+  },
+  "status": "success",
+  "team": {
+    "abbreviation": "PHX",
+    "clubhouse": "https://www.espn.com/nba/team/_/name/phx/phoenix-suns",
+    "color": "29127a",
+    "displayName": "Phoenix Suns",
+    "groups": {
+      "id": "4",
+      "isConference": false,
+      "parent": {
+        "id": "6"
+      }
+    },
+    "id": "21",
+    "location": "Phoenix",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "name": "Suns",
+    "recordSummary": "45-37",
+    "seasonSummary": "2025-26",
+    "standingSummary": "2nd in Pacific Division"
+  },
+  "timestamp": "2026-06-03T18:49:17Z"
+}

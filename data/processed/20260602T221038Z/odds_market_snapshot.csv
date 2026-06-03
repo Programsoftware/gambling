@@ -1,0 +1,17 @@
+source,provider_id,provider_name,market,team,home_away,raw_price,price_type,american_odds,decimal_odds,implied_probability,details,total,over_odds,under_odds,spread,favorite,underdog
+nhl_schedule,7,,moneyline,VGK,away,+130,american,130,2.3,0.43478260869565216,,,,,,,
+nhl_schedule,9,,moneyline,VGK,away,+130,american,130,2.3,0.43478260869565216,,,,,,,
+nhl_schedule,3,,moneyline,VGK,away,2.30,decimal,130,2.3,0.4347826086956522,,,,,,,
+nhl_schedule,6,,moneyline,VGK,away,2.23,decimal,123,2.23,0.4484304932735426,,,,,,,
+nhl_schedule,8,,moneyline,VGK,away,+130,american,130,2.3,0.43478260869565216,,,,,,,
+nhl_schedule,10,,moneyline,VGK,away,3.10,decimal,210,3.1,0.3225806451612903,,,,,,,
+nhl_schedule,7,,moneyline,CAR,home,-156,american,-156,1.641025641025641,0.609375,,,,,,,
+nhl_schedule,9,,moneyline,CAR,home,-155,american,-155,1.6451612903225805,0.6078431372549019,,,,,,,
+nhl_schedule,3,,moneyline,CAR,home,1.64,decimal,-156,1.64,0.6097560975609756,,,,,,,
+nhl_schedule,6,,moneyline,CAR,home,1.63,decimal,-159,1.63,0.6134969325153374,,,,,,,
+nhl_schedule,8,,moneyline,CAR,home,-155,american,-155,1.6451612903225805,0.6078431372549019,,,,,,,
+nhl_schedule,10,,moneyline,CAR,home,2.10,decimal,110,2.1,0.47619047619047616,,,,,,,
+espn_core_odds,100,DraftKings,moneyline,VGK,away,130,decimal,12900,130.0,0.007692307692307693,CAR -155,5.5,-122.0,102.0,-1.5,False,True
+espn_core_odds,100,DraftKings,puckline_spread_odds,VGK,away,-205.0,american,-205,1.4878048780487805,0.6721311475409836,CAR -155,5.5,-122.0,102.0,-1.5,False,True
+espn_core_odds,100,DraftKings,moneyline,CAR,home,-155,american,-155,1.6451612903225805,0.6078431372549019,CAR -155,5.5,-122.0,102.0,-1.5,True,False
+espn_core_odds,100,DraftKings,puckline_spread_odds,CAR,home,170.0,decimal,16900,170.0,0.0058823529411764705,CAR -155,5.5,-122.0,102.0,-1.5,True,False

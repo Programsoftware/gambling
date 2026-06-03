@@ -1,0 +1,95 @@
+{
+  "awayTeam": {
+    "abbrev": "CAR",
+    "commonName": {
+      "default": "Hurricanes"
+    },
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+    "id": 12,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+    "placeName": {
+      "default": "Carolina",
+      "fr": "Caroline"
+    },
+    "placeNameWithPreposition": {
+      "default": "Carolina",
+      "fr": "de la Caroline"
+    },
+    "score": 0
+  },
+  "clock": {
+    "inIntermission": false,
+    "running": false,
+    "secondsRemaining": 1200,
+    "timeRemaining": "20:00"
+  },
+  "displayPeriod": 1,
+  "easternUTCOffset": "-04:00",
+  "gameDate": "2026-06-14",
+  "gameScheduleState": "OK",
+  "gameState": "FUT",
+  "gameType": 3,
+  "homeTeam": {
+    "abbrev": "VGK",
+    "commonName": {
+      "default": "Golden Knights"
+    },
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg",
+    "id": 54,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+    "placeName": {
+      "default": "Vegas"
+    },
+    "placeNameWithPreposition": {
+      "default": "Vegas",
+      "fr": "de Vegas"
+    },
+    "score": 0
+  },
+  "id": 2025030416,
+  "limitedScoring": false,
+  "otInUse": true,
+  "plays": [],
+  "regPeriods": 3,
+  "rosterSpots": [],
+  "season": 20252026,
+  "shootoutInUse": false,
+  "startTimeUTC": "2026-06-15T00:00:00Z",
+  "tvBroadcasts": [
+    {
+      "countryCode": "US",
+      "id": 384,
+      "market": "N",
+      "network": "ABC",
+      "sequenceNumber": 1
+    },
+    {
+      "countryCode": "CA",
+      "id": 4,
+      "market": "N",
+      "network": "CBC",
+      "sequenceNumber": 101
+    },
+    {
+      "countryCode": "CA",
+      "id": 282,
+      "market": "N",
+      "network": "SN",
+      "sequenceNumber": 107
+    },
+    {
+      "countryCode": "CA",
+      "id": 281,
+      "market": "N",
+      "network": "TVAS",
+      "sequenceNumber": 120
+    }
+  ],
+  "venue": {
+    "default": "T-Mobile Arena"
+  },
+  "venueLocation": {
+    "default": "Paradise"
+  },
+  "venueUTCOffset": "-07:00"
+}

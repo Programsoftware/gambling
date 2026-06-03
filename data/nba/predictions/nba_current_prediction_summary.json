@@ -1,0 +1,70 @@
+{
+  "created_at": "2026-06-03T19:52:12+00:00",
+  "checkpoint_created_at": "2026-06-03T19:51:38+00:00",
+  "checkpoint_retrained_this_run": false,
+  "home_team": "San Antonio Spurs",
+  "away_team": "New York Knicks",
+  "model_home_win_prob": 0.5518057346343994,
+  "model_away_win_prob": 0.4481942653656006,
+  "feature_count": 359,
+  "training_diagnostics": {
+    "best_epoch": 6,
+    "best_validation_loss": 0.6116586923599243,
+    "train_rows": 3156,
+    "validation_rows": 746,
+    "positive_rate": 0.5456273555755615,
+    "weighted_train_mean": 0.39608487486839294,
+    "history_tail": [
+      {
+        "epoch": 1,
+        "train_loss": 0.6310022984232221,
+        "validation_loss": 0.6259476542472839
+      },
+      {
+        "epoch": 2,
+        "train_loss": 0.6302735720361982,
+        "validation_loss": 0.6234501600265503
+      },
+      {
+        "epoch": 3,
+        "train_loss": 0.627528292792184,
+        "validation_loss": 0.62077397108078
+      },
+      {
+        "epoch": 4,
+        "train_loss": 0.6225281357765198,
+        "validation_loss": 0.6185160279273987
+      },
+      {
+        "epoch": 5,
+        "train_loss": 0.622792763369424,
+        "validation_loss": 0.6124393939971924
+      },
+      {
+        "epoch": 6,
+        "train_loss": 0.6183219126292637,
+        "validation_loss": 0.6116586923599243
+      },
+      {
+        "epoch": 7,
+        "train_loss": 0.61725366967065,
+        "validation_loss": 0.6118770837783813
+      },
+      {
+        "epoch": 8,
+        "train_loss": 0.6161940864154271,
+        "validation_loss": 0.6135280132293701
+      },
+      {
+        "epoch": 9,
+        "train_loss": 0.621169558593205,
+        "validation_loss": 0.6123322248458862
+      },
+      {
+        "epoch": 10,
+        "train_loss": 0.6197260873658317,
+        "validation_loss": 0.614836573600769
+      }
+    ]
+  }
+}

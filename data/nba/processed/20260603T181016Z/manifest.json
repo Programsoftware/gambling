@@ -1,0 +1,2209 @@
+{
+  "artifacts": [
+    {
+      "columns": [
+        "event_id",
+        "event_name",
+        "short_name",
+        "game_datetime",
+        "game_date",
+        "season_year",
+        "season_type",
+        "status_state",
+        "status_detail",
+        "venue",
+        "neutral_site",
+        "home_team_id",
+        "home_team",
+        "home_abbrev",
+        "home_record",
+        "away_team_id",
+        "away_team",
+        "away_abbrev",
+        "away_record"
+      ],
+      "latest_path": "data\\nba\\latest\\current_scoreboard_games.csv",
+      "name": "current_scoreboard_games",
+      "rows": 1,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\current_scoreboard_games.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "event_name",
+        "short_name",
+        "game_datetime",
+        "game_date",
+        "season_year",
+        "season_type",
+        "status_state",
+        "status_detail",
+        "venue",
+        "neutral_site",
+        "home_team_id",
+        "home_team",
+        "home_abbrev",
+        "home_record",
+        "away_team_id",
+        "away_team",
+        "away_abbrev",
+        "away_record"
+      ],
+      "latest_path": "data\\nba\\latest\\current_game.csv",
+      "name": "current_game",
+      "rows": 1,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\current_game.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "provider",
+        "details",
+        "spread",
+        "over_under",
+        "over_odds",
+        "under_odds",
+        "home_team_id",
+        "away_team_id",
+        "home_moneyline",
+        "away_moneyline",
+        "home_spread_odds",
+        "away_spread_odds",
+        "home_raw_implied_prob",
+        "away_raw_implied_prob",
+        "home_no_vig_prob"
+      ],
+      "latest_path": "data\\nba\\latest\\odds_market_snapshot.csv",
+      "name": "odds_market_snapshot",
+      "rows": 1,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\odds_market_snapshot.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "home_team_id",
+        "away_team_id",
+        "home_projection_pct",
+        "away_projection_pct",
+        "home_loss_pct",
+        "away_loss_pct"
+      ],
+      "latest_path": "data\\nba\\latest\\espn_predictor.csv",
+      "name": "espn_predictor",
+      "rows": 1,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\espn_predictor.csv"
+    },
+    {
+      "columns": [
+        "team_id",
+        "team",
+        "team_abbrev",
+        "athlete_id",
+        "player",
+        "status",
+        "date",
+        "type",
+        "details",
+        "description"
+      ],
+      "latest_path": "data\\nba\\latest\\injuries.csv",
+      "name": "injuries",
+      "rows": 2,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\injuries.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "type",
+        "title",
+        "description",
+        "summary",
+        "series_score",
+        "total_competitions",
+        "completed"
+      ],
+      "latest_path": "data\\nba\\latest\\season_series.csv",
+      "name": "season_series",
+      "rows": 2,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\season_series.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "game_datetime",
+        "game_date",
+        "name",
+        "short_name",
+        "season_type",
+        "season_type_name",
+        "round_type",
+        "status_state",
+        "status_detail",
+        "completed",
+        "neutral_site",
+        "venue",
+        "home_team_id",
+        "home_team",
+        "home_abbrev",
+        "home_score",
+        "away_team_id",
+        "away_team",
+        "away_abbrev",
+        "away_score",
+        "home_win",
+        "home_margin"
+      ],
+      "latest_path": "data\\nba\\latest\\season_series_events.csv",
+      "name": "season_series_events",
+      "rows": 9,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\season_series_events.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "game_datetime",
+        "game_date",
+        "name",
+        "short_name",
+        "season_type",
+        "season_type_name",
+        "round_type",
+        "status_state",
+        "status_detail",
+        "completed",
+        "neutral_site",
+        "venue",
+        "home_team_id",
+        "home_team",
+        "home_abbrev",
+        "home_score",
+        "away_team_id",
+        "away_team",
+        "away_abbrev",
+        "away_score",
+        "home_win",
+        "home_margin",
+        "context_team_id",
+        "context_team"
+      ],
+      "latest_path": "data\\nba\\latest\\last_five_from_summary.csv",
+      "name": "last_five_from_summary",
+      "rows": 10,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\last_five_from_summary.csv"
+    },
+    {
+      "columns": [
+        "team_id",
+        "team",
+        "team_abbrev",
+        "category",
+        "athlete_id",
+        "player",
+        "value",
+        "display_value"
+      ],
+      "latest_path": "data\\nba\\latest\\leaders.csv",
+      "name": "leaders",
+      "rows": 6,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\leaders.csv"
+    },
+    {
+      "columns": [
+        "team_id",
+        "team",
+        "team_abbrev",
+        "records"
+      ],
+      "latest_path": "data\\nba\\latest\\against_the_spread.csv",
+      "name": "against_the_spread",
+      "rows": 2,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\against_the_spread.csv"
+    },
+    {
+      "columns": [
+        "team_id",
+        "team",
+        "team_abbrev",
+        "athlete_id",
+        "player",
+        "position",
+        "jersey",
+        "age",
+        "height_inches",
+        "weight_lbs",
+        "experience_years",
+        "status",
+        "headshot"
+      ],
+      "latest_path": "data\\nba\\latest\\rosters.csv",
+      "name": "rosters",
+      "rows": 36,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\rosters.csv"
+    },
+    {
+      "columns": [
+        "team_id",
+        "category",
+        "stat_name",
+        "display_name",
+        "abbrev",
+        "value",
+        "display_value",
+        "per_game_value",
+        "rank",
+        "rank_display_value"
+      ],
+      "latest_path": "data\\nba\\latest\\espn_team_statistics.csv",
+      "name": "espn_team_statistics",
+      "rows": 92,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\espn_team_statistics.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "game_datetime",
+        "game_date",
+        "name",
+        "short_name",
+        "season_type",
+        "season_type_name",
+        "round_type",
+        "status_state",
+        "status_detail",
+        "completed",
+        "neutral_site",
+        "venue",
+        "home_team_id",
+        "home_team",
+        "home_abbrev",
+        "home_score",
+        "away_team_id",
+        "away_team",
+        "away_abbrev",
+        "away_score",
+        "home_win",
+        "home_margin",
+        "schedule_context_team_id"
+      ],
+      "latest_path": "data\\nba\\latest\\team_schedule_games.csv",
+      "name": "team_schedule_games",
+      "rows": 202,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\team_schedule_games.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "game_date",
+        "game_datetime",
+        "season_type",
+        "team_id",
+        "team",
+        "team_abbrev",
+        "home_away",
+        "opponent_team_id",
+        "opponent",
+        "points_for",
+        "points_against",
+        "won",
+        "margin",
+        "field_goals_made_field_goals_attempted_made",
+        "field_goals_made_field_goals_attempted_attempted",
+        "field_goal_pct",
+        "three_point_field_goals_made_three_point_field_goals_attempted_made",
+        "three_point_field_goals_made_three_point_field_goals_attempted_attempted",
+        "three_point_field_goal_pct",
+        "free_throws_made_free_throws_attempted_made",
+        "free_throws_made_free_throws_attempted_attempted",
+        "free_throw_pct",
+        "total_rebounds",
+        "offensive_rebounds",
+        "defensive_rebounds",
+        "assists",
+        "steals",
+        "blocks",
+        "turnovers",
+        "team_turnovers",
+        "total_turnovers",
+        "technical_fouls",
+        "total_technical_fouls",
+        "flagrant_fouls",
+        "turnover_points",
+        "fast_break_points",
+        "points_in_paint",
+        "fouls",
+        "largest_lead",
+        "lead_changes",
+        "lead_percentage",
+        "estimated_possessions",
+        "off_rating_est",
+        "efg_pct_est",
+        "three_pa_rate",
+        "ft_rate",
+        "turnover_rate",
+        "oreb_rate_proxy"
+      ],
+      "latest_path": "data\\nba\\latest\\team_boxscores.csv",
+      "name": "team_boxscores",
+      "rows": 390,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\team_boxscores.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "game_date",
+        "game_datetime",
+        "season_type",
+        "team_id",
+        "team",
+        "team_abbrev",
+        "home_away",
+        "opponent_team_id",
+        "opponent",
+        "team_points",
+        "opponent_points",
+        "won",
+        "athlete_id",
+        "player",
+        "position",
+        "starter",
+        "active",
+        "did_not_play",
+        "reason",
+        "minutes",
+        "points",
+        "field_goals_made_field_goals_attempted_made",
+        "field_goals_made_field_goals_attempted_attempted",
+        "three_point_field_goals_made_three_point_field_goals_attempted_made",
+        "three_point_field_goals_made_three_point_field_goals_attempted_attempted",
+        "free_throws_made_free_throws_attempted_made",
+        "free_throws_made_free_throws_attempted_attempted",
+        "rebounds",
+        "assists",
+        "turnovers",
+        "steals",
+        "blocks",
+        "offensive_rebounds",
+        "defensive_rebounds",
+        "fouls",
+        "plus_minus",
+        "plus_minus_made",
+        "plus_minus_attempted",
+        "points_per36",
+        "rebounds_per36",
+        "assists_per36",
+        "turnovers_per36",
+        "steals_per36",
+        "blocks_per36",
+        "usage_proxy"
+      ],
+      "latest_path": "data\\nba\\latest\\player_game_logs.csv",
+      "name": "player_game_logs",
+      "rows": 5306,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\player_game_logs.csv"
+    },
+    {
+      "columns": [
+        "team_id",
+        "team",
+        "team_abbrev",
+        "athlete_id",
+        "player",
+        "position",
+        "jersey",
+        "age",
+        "height_inches",
+        "weight_lbs",
+        "experience_years",
+        "status",
+        "headshot",
+        "injury_status",
+        "available_flag",
+        "last3_games_logged",
+        "last3_starts",
+        "last3_avg_minutes",
+        "last3_avg_points",
+        "last3_avg_rebounds",
+        "last3_avg_assists",
+        "last3_avg_turnovers",
+        "last3_avg_steals",
+        "last3_avg_blocks",
+        "last3_avg_plus_minus",
+        "last3_avg_usage_proxy",
+        "last3_avg_points_per36",
+        "last3_avg_rebounds_per36",
+        "last3_avg_assists_per36",
+        "last5_games_logged",
+        "last5_starts",
+        "last5_avg_minutes",
+        "last5_avg_points",
+        "last5_avg_rebounds",
+        "last5_avg_assists",
+        "last5_avg_turnovers",
+        "last5_avg_steals",
+        "last5_avg_blocks",
+        "last5_avg_plus_minus",
+        "last5_avg_usage_proxy",
+        "last5_avg_points_per36",
+        "last5_avg_rebounds_per36",
+        "last5_avg_assists_per36",
+        "last10_games_logged",
+        "last10_starts",
+        "last10_avg_minutes",
+        "last10_avg_points",
+        "last10_avg_rebounds",
+        "last10_avg_assists",
+        "last10_avg_turnovers",
+        "last10_avg_steals",
+        "last10_avg_blocks",
+        "last10_avg_plus_minus",
+        "last10_avg_usage_proxy",
+        "last10_avg_points_per36",
+        "last10_avg_rebounds_per36",
+        "last10_avg_assists_per36",
+        "season_games_logged",
+        "season_starts",
+        "season_avg_minutes",
+        "season_avg_points",
+        "season_avg_rebounds",
+        "season_avg_assists",
+        "season_avg_turnovers",
+        "season_avg_steals",
+        "season_avg_blocks",
+        "season_avg_plus_minus",
+        "season_avg_usage_proxy",
+        "season_avg_points_per36",
+        "season_avg_rebounds_per36",
+        "season_avg_assists_per36"
+      ],
+      "latest_path": "data\\nba\\latest\\player_recent_summaries.csv",
+      "name": "player_recent_summaries",
+      "rows": 36,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\player_recent_summaries.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "game_datetime",
+        "game_date",
+        "name",
+        "short_name",
+        "season_type",
+        "season_type_name",
+        "round_type",
+        "status_state",
+        "status_detail",
+        "completed",
+        "neutral_site",
+        "venue",
+        "home_team_id",
+        "home_team",
+        "home_abbrev",
+        "home_score",
+        "away_team_id",
+        "away_team",
+        "away_abbrev",
+        "away_score",
+        "home_win",
+        "home_margin",
+        "schedule_context_team_id"
+      ],
+      "latest_path": "data\\nba\\latest\\head_to_head_games.csv",
+      "name": "head_to_head_games",
+      "rows": 10,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\head_to_head_games.csv"
+    },
+    {
+      "columns": [
+        "event_id",
+        "event_name",
+        "short_name",
+        "game_datetime",
+        "game_date",
+        "season_year",
+        "season_type",
+        "status_state",
+        "status_detail",
+        "venue",
+        "neutral_site",
+        "home_team_id",
+        "home_team",
+        "home_abbrev",
+        "home_record",
+        "away_team_id",
+        "away_team",
+        "away_abbrev",
+        "away_record",
+        "market_provider",
+        "market_details",
+        "market_spread",
+        "market_over_under",
+        "market_over_odds",
+        "market_under_odds",
+        "market_home_moneyline",
+        "market_away_moneyline",
+        "market_home_spread_odds",
+        "market_away_spread_odds",
+        "market_home_raw_implied_prob",
+        "market_away_raw_implied_prob",
+        "market_home_no_vig_prob",
+        "espn_predictor_home_projection_pct",
+        "espn_predictor_away_projection_pct",
+        "espn_predictor_home_loss_pct",
+        "espn_predictor_away_loss_pct",
+        "home_regular_games",
+        "home_regular_win_pct",
+        "home_regular_rest_days",
+        "home_regular_avg_points_for",
+        "home_regular_avg_points_against",
+        "home_regular_avg_margin",
+        "home_regular_avg_estimated_possessions",
+        "home_regular_avg_off_rating_est",
+        "home_regular_avg_efg_pct_est",
+        "home_regular_avg_three_pa_rate",
+        "home_regular_avg_ft_rate",
+        "home_regular_avg_turnover_rate",
+        "home_regular_avg_offensive_rebounds",
+        "home_regular_avg_defensive_rebounds",
+        "home_regular_avg_total_rebounds",
+        "home_regular_avg_assists",
+        "home_regular_avg_steals",
+        "home_regular_avg_blocks",
+        "home_regular_avg_turnovers",
+        "home_regular_avg_fouls",
+        "away_regular_games",
+        "away_regular_win_pct",
+        "away_regular_rest_days",
+        "away_regular_avg_points_for",
+        "away_regular_avg_points_against",
+        "away_regular_avg_margin",
+        "away_regular_avg_estimated_possessions",
+        "away_regular_avg_off_rating_est",
+        "away_regular_avg_efg_pct_est",
+        "away_regular_avg_three_pa_rate",
+        "away_regular_avg_ft_rate",
+        "away_regular_avg_turnover_rate",
+        "away_regular_avg_offensive_rebounds",
+        "away_regular_avg_defensive_rebounds",
+        "away_regular_avg_total_rebounds",
+        "away_regular_avg_assists",
+        "away_regular_avg_steals",
+        "away_regular_avg_blocks",
+        "away_regular_avg_turnovers",
+        "away_regular_avg_fouls",
+        "edge_regular_games",
+        "edge_regular_win_pct",
+        "edge_regular_rest_days",
+        "edge_regular_avg_points_for",
+        "edge_regular_avg_points_against",
+        "edge_regular_avg_margin",
+        "edge_regular_avg_estimated_possessions",
+        "edge_regular_avg_off_rating_est",
+        "edge_regular_avg_efg_pct_est",
+        "edge_regular_avg_three_pa_rate",
+        "edge_regular_avg_ft_rate",
+        "edge_regular_avg_turnover_rate",
+        "edge_regular_avg_offensive_rebounds",
+        "edge_regular_avg_defensive_rebounds",
+        "edge_regular_avg_total_rebounds",
+        "edge_regular_avg_assists",
+        "edge_regular_avg_steals",
+        "edge_regular_avg_blocks",
+        "edge_regular_avg_turnovers",
+        "edge_regular_avg_fouls",
+        "home_playoffs_games",
+        "home_playoffs_win_pct",
+        "home_playoffs_rest_days",
+        "home_playoffs_avg_points_for",
+        "home_playoffs_avg_points_against",
+        "home_playoffs_avg_margin",
+        "home_playoffs_avg_estimated_possessions",
+        "home_playoffs_avg_off_rating_est",
+        "home_playoffs_avg_efg_pct_est",
+        "home_playoffs_avg_three_pa_rate",
+        "home_playoffs_avg_ft_rate",
+        "home_playoffs_avg_turnover_rate",
+        "home_playoffs_avg_offensive_rebounds",
+        "home_playoffs_avg_defensive_rebounds",
+        "home_playoffs_avg_total_rebounds",
+        "home_playoffs_avg_assists",
+        "home_playoffs_avg_steals",
+        "home_playoffs_avg_blocks",
+        "home_playoffs_avg_turnovers",
+        "home_playoffs_avg_fouls",
+        "away_playoffs_games",
+        "away_playoffs_win_pct",
+        "away_playoffs_rest_days",
+        "away_playoffs_avg_points_for",
+        "away_playoffs_avg_points_against",
+        "away_playoffs_avg_margin",
+        "away_playoffs_avg_estimated_possessions",
+        "away_playoffs_avg_off_rating_est",
+        "away_playoffs_avg_efg_pct_est",
+        "away_playoffs_avg_three_pa_rate",
+        "away_playoffs_avg_ft_rate",
+        "away_playoffs_avg_turnover_rate",
+        "away_playoffs_avg_offensive_rebounds",
+        "away_playoffs_avg_defensive_rebounds",
+        "away_playoffs_avg_total_rebounds",
+        "away_playoffs_avg_assists",
+        "away_playoffs_avg_steals",
+        "away_playoffs_avg_blocks",
+        "away_playoffs_avg_turnovers",
+        "away_playoffs_avg_fouls",
+        "edge_playoffs_games",
+        "edge_playoffs_win_pct",
+        "edge_playoffs_rest_days",
+        "edge_playoffs_avg_points_for",
+        "edge_playoffs_avg_points_against",
+        "edge_playoffs_avg_margin",
+        "edge_playoffs_avg_estimated_possessions",
+        "edge_playoffs_avg_off_rating_est",
+        "edge_playoffs_avg_efg_pct_est",
+        "edge_playoffs_avg_three_pa_rate",
+        "edge_playoffs_avg_ft_rate",
+        "edge_playoffs_avg_turnover_rate",
+        "edge_playoffs_avg_offensive_rebounds",
+        "edge_playoffs_avg_defensive_rebounds",
+        "edge_playoffs_avg_total_rebounds",
+        "edge_playoffs_avg_assists",
+        "edge_playoffs_avg_steals",
+        "edge_playoffs_avg_blocks",
+        "edge_playoffs_avg_turnovers",
+        "edge_playoffs_avg_fouls",
+        "home_last5_games",
+        "home_last5_win_pct",
+        "home_last5_rest_days",
+        "home_last5_avg_points_for",
+        "home_last5_avg_points_against",
+        "home_last5_avg_margin",
+        "home_last5_avg_estimated_possessions",
+        "home_last5_avg_off_rating_est",
+        "home_last5_avg_efg_pct_est",
+        "home_last5_avg_three_pa_rate",
+        "home_last5_avg_ft_rate",
+        "home_last5_avg_turnover_rate",
+        "home_last5_avg_offensive_rebounds",
+        "home_last5_avg_defensive_rebounds",
+        "home_last5_avg_total_rebounds",
+        "home_last5_avg_assists",
+        "home_last5_avg_steals",
+        "home_last5_avg_blocks",
+        "home_last5_avg_turnovers",
+        "home_last5_avg_fouls",
+        "away_last5_games",
+        "away_last5_win_pct",
+        "away_last5_rest_days",
+        "away_last5_avg_points_for",
+        "away_last5_avg_points_against",
+        "away_last5_avg_margin",
+        "away_last5_avg_estimated_possessions",
+        "away_last5_avg_off_rating_est",
+        "away_last5_avg_efg_pct_est",
+        "away_last5_avg_three_pa_rate",
+        "away_last5_avg_ft_rate",
+        "away_last5_avg_turnover_rate",
+        "away_last5_avg_offensive_rebounds",
+        "away_last5_avg_defensive_rebounds",
+        "away_last5_avg_total_rebounds",
+        "away_last5_avg_assists",
+        "away_last5_avg_steals",
+        "away_last5_avg_blocks",
+        "away_last5_avg_turnovers",
+        "away_last5_avg_fouls",
+        "edge_last5_games",
+        "edge_last5_win_pct",
+        "edge_last5_rest_days",
+        "edge_last5_avg_points_for",
+        "edge_last5_avg_points_against",
+        "edge_last5_avg_margin",
+        "edge_last5_avg_estimated_possessions",
+        "edge_last5_avg_off_rating_est",
+        "edge_last5_avg_efg_pct_est",
+        "edge_last5_avg_three_pa_rate",
+        "edge_last5_avg_ft_rate",
+        "edge_last5_avg_turnover_rate",
+        "edge_last5_avg_offensive_rebounds",
+        "edge_last5_avg_defensive_rebounds",
+        "edge_last5_avg_total_rebounds",
+        "edge_last5_avg_assists",
+        "edge_last5_avg_steals",
+        "edge_last5_avg_blocks",
+        "edge_last5_avg_turnovers",
+        "edge_last5_avg_fouls",
+        "home_last10_games",
+        "home_last10_win_pct",
+        "home_last10_rest_days",
+        "home_last10_avg_points_for",
+        "home_last10_avg_points_against",
+        "home_last10_avg_margin",
+        "home_last10_avg_estimated_possessions",
+        "home_last10_avg_off_rating_est",
+        "home_last10_avg_efg_pct_est",
+        "home_last10_avg_three_pa_rate",
+        "home_last10_avg_ft_rate",
+        "home_last10_avg_turnover_rate",
+        "home_last10_avg_offensive_rebounds",
+        "home_last10_avg_defensive_rebounds",
+        "home_last10_avg_total_rebounds",
+        "home_last10_avg_assists",
+        "home_last10_avg_steals",
+        "home_last10_avg_blocks",
+        "home_last10_avg_turnovers",
+        "home_last10_avg_fouls",
+        "away_last10_games",
+        "away_last10_win_pct",
+        "away_last10_rest_days",
+        "away_last10_avg_points_for",
+        "away_last10_avg_points_against",
+        "away_last10_avg_margin",
+        "away_last10_avg_estimated_possessions",
+        "away_last10_avg_off_rating_est",
+        "away_last10_avg_efg_pct_est",
+        "away_last10_avg_three_pa_rate",
+        "away_last10_avg_ft_rate",
+        "away_last10_avg_turnover_rate",
+        "away_last10_avg_offensive_rebounds",
+        "away_last10_avg_defensive_rebounds",
+        "away_last10_avg_total_rebounds",
+        "away_last10_avg_assists",
+        "away_last10_avg_steals",
+        "away_last10_avg_blocks",
+        "away_last10_avg_turnovers",
+        "away_last10_avg_fouls",
+        "edge_last10_games",
+        "edge_last10_win_pct",
+        "edge_last10_rest_days",
+        "edge_last10_avg_points_for",
+        "edge_last10_avg_points_against",
+        "edge_last10_avg_margin",
+        "edge_last10_avg_estimated_possessions",
+        "edge_last10_avg_off_rating_est",
+        "edge_last10_avg_efg_pct_est",
+        "edge_last10_avg_three_pa_rate",
+        "edge_last10_avg_ft_rate",
+        "edge_last10_avg_turnover_rate",
+        "edge_last10_avg_offensive_rebounds",
+        "edge_last10_avg_defensive_rebounds",
+        "edge_last10_avg_total_rebounds",
+        "edge_last10_avg_assists",
+        "edge_last10_avg_steals",
+        "edge_last10_avg_blocks",
+        "edge_last10_avg_turnovers",
+        "edge_last10_avg_fouls",
+        "home_h2h_games",
+        "home_h2h_win_pct",
+        "home_h2h_rest_days",
+        "home_h2h_avg_points_for",
+        "home_h2h_avg_points_against",
+        "home_h2h_avg_margin",
+        "home_h2h_avg_estimated_possessions",
+        "home_h2h_avg_off_rating_est",
+        "home_h2h_avg_efg_pct_est",
+        "home_h2h_avg_three_pa_rate",
+        "home_h2h_avg_ft_rate",
+        "home_h2h_avg_turnover_rate",
+        "home_h2h_avg_offensive_rebounds",
+        "home_h2h_avg_defensive_rebounds",
+        "home_h2h_avg_total_rebounds",
+        "home_h2h_avg_assists",
+        "home_h2h_avg_steals",
+        "home_h2h_avg_blocks",
+        "home_h2h_avg_turnovers",
+        "home_h2h_avg_fouls",
+        "away_h2h_games",
+        "away_h2h_win_pct",
+        "away_h2h_rest_days",
+        "away_h2h_avg_points_for",
+        "away_h2h_avg_points_against",
+        "away_h2h_avg_margin",
+        "away_h2h_avg_estimated_possessions",
+        "away_h2h_avg_off_rating_est",
+        "away_h2h_avg_efg_pct_est",
+        "away_h2h_avg_three_pa_rate",
+        "away_h2h_avg_ft_rate",
+        "away_h2h_avg_turnover_rate",
+        "away_h2h_avg_offensive_rebounds",
+        "away_h2h_avg_defensive_rebounds",
+        "away_h2h_avg_total_rebounds",
+        "away_h2h_avg_assists",
+        "away_h2h_avg_steals",
+        "away_h2h_avg_blocks",
+        "away_h2h_avg_turnovers",
+        "away_h2h_avg_fouls",
+        "edge_h2h_games",
+        "edge_h2h_win_pct",
+        "edge_h2h_rest_days",
+        "edge_h2h_avg_points_for",
+        "edge_h2h_avg_points_against",
+        "edge_h2h_avg_margin",
+        "edge_h2h_avg_estimated_possessions",
+        "edge_h2h_avg_off_rating_est",
+        "edge_h2h_avg_efg_pct_est",
+        "edge_h2h_avg_three_pa_rate",
+        "edge_h2h_avg_ft_rate",
+        "edge_h2h_avg_turnover_rate",
+        "edge_h2h_avg_offensive_rebounds",
+        "edge_h2h_avg_defensive_rebounds",
+        "edge_h2h_avg_total_rebounds",
+        "edge_h2h_avg_assists",
+        "edge_h2h_avg_steals",
+        "edge_h2h_avg_blocks",
+        "edge_h2h_avg_turnovers",
+        "edge_h2h_avg_fouls",
+        "home_players_roster_count",
+        "home_players_injury_out_count",
+        "home_players_available_count",
+        "home_players_top5_sum_last5_avg_minutes",
+        "home_players_top5_avg_last5_avg_minutes",
+        "home_players_top5_sum_last5_avg_points",
+        "home_players_top5_avg_last5_avg_points",
+        "home_players_top5_sum_last5_avg_rebounds",
+        "home_players_top5_avg_last5_avg_rebounds",
+        "home_players_top5_sum_last5_avg_assists",
+        "home_players_top5_avg_last5_avg_assists",
+        "home_players_top5_sum_last5_avg_usage_proxy",
+        "home_players_top5_avg_last5_avg_usage_proxy",
+        "home_players_top5_sum_last10_avg_points",
+        "home_players_top5_avg_last10_avg_points",
+        "home_players_top8_sum_last5_avg_minutes",
+        "home_players_top8_avg_last5_avg_minutes",
+        "home_players_top8_sum_last5_avg_points",
+        "home_players_top8_avg_last5_avg_points",
+        "home_players_top8_sum_last5_avg_rebounds",
+        "home_players_top8_avg_last5_avg_rebounds",
+        "home_players_top8_sum_last5_avg_assists",
+        "home_players_top8_avg_last5_avg_assists",
+        "home_players_top8_sum_last5_avg_usage_proxy",
+        "home_players_top8_avg_last5_avg_usage_proxy",
+        "home_players_top8_sum_last10_avg_points",
+        "home_players_top8_avg_last10_avg_points",
+        "home_players_scorer1_player",
+        "home_players_scorer1_last10_ppg",
+        "home_players_scorer1_last10_mpg",
+        "home_players_scorer2_player",
+        "home_players_scorer2_last10_ppg",
+        "home_players_scorer2_last10_mpg",
+        "home_players_scorer3_player",
+        "home_players_scorer3_last10_ppg",
+        "home_players_scorer3_last10_mpg",
+        "away_players_roster_count",
+        "away_players_injury_out_count",
+        "away_players_available_count",
+        "away_players_top5_sum_last5_avg_minutes",
+        "away_players_top5_avg_last5_avg_minutes",
+        "away_players_top5_sum_last5_avg_points",
+        "away_players_top5_avg_last5_avg_points",
+        "away_players_top5_sum_last5_avg_rebounds",
+        "away_players_top5_avg_last5_avg_rebounds",
+        "away_players_top5_sum_last5_avg_assists",
+        "away_players_top5_avg_last5_avg_assists",
+        "away_players_top5_sum_last5_avg_usage_proxy",
+        "away_players_top5_avg_last5_avg_usage_proxy",
+        "away_players_top5_sum_last10_avg_points",
+        "away_players_top5_avg_last10_avg_points",
+        "away_players_top8_sum_last5_avg_minutes",
+        "away_players_top8_avg_last5_avg_minutes",
+        "away_players_top8_sum_last5_avg_points",
+        "away_players_top8_avg_last5_avg_points",
+        "away_players_top8_sum_last5_avg_rebounds",
+        "away_players_top8_avg_last5_avg_rebounds",
+        "away_players_top8_sum_last5_avg_assists",
+        "away_players_top8_avg_last5_avg_assists",
+        "away_players_top8_sum_last5_avg_usage_proxy",
+        "away_players_top8_avg_last5_avg_usage_proxy",
+        "away_players_top8_sum_last10_avg_points",
+        "away_players_top8_avg_last10_avg_points",
+        "away_players_scorer1_player",
+        "away_players_scorer1_last10_ppg",
+        "away_players_scorer1_last10_mpg",
+        "away_players_scorer2_player",
+        "away_players_scorer2_last10_ppg",
+        "away_players_scorer2_last10_mpg",
+        "away_players_scorer3_player",
+        "away_players_scorer3_last10_ppg",
+        "away_players_scorer3_last10_mpg",
+        "edge_players_roster_count",
+        "edge_players_injury_out_count",
+        "edge_players_available_count",
+        "edge_players_top5_sum_last5_avg_minutes",
+        "edge_players_top5_avg_last5_avg_minutes",
+        "edge_players_top5_sum_last5_avg_points",
+        "edge_players_top5_avg_last5_avg_points",
+        "edge_players_top5_sum_last5_avg_rebounds",
+        "edge_players_top5_avg_last5_avg_rebounds",
+        "edge_players_top5_sum_last5_avg_assists",
+        "edge_players_top5_avg_last5_avg_assists",
+        "edge_players_top5_sum_last5_avg_usage_proxy",
+        "edge_players_top5_avg_last5_avg_usage_proxy",
+        "edge_players_top5_sum_last10_avg_points",
+        "edge_players_top5_avg_last10_avg_points",
+        "edge_players_top8_sum_last5_avg_minutes",
+        "edge_players_top8_avg_last5_avg_minutes",
+        "edge_players_top8_sum_last5_avg_points",
+        "edge_players_top8_avg_last5_avg_points",
+        "edge_players_top8_sum_last5_avg_rebounds",
+        "edge_players_top8_avg_last5_avg_rebounds",
+        "edge_players_top8_sum_last5_avg_assists",
+        "edge_players_top8_avg_last5_avg_assists",
+        "edge_players_top8_sum_last5_avg_usage_proxy",
+        "edge_players_top8_avg_last5_avg_usage_proxy",
+        "edge_players_top8_sum_last10_avg_points",
+        "edge_players_top8_avg_last10_avg_points",
+        "edge_players_scorer1_last10_ppg",
+        "edge_players_scorer1_last10_mpg",
+        "edge_players_scorer2_last10_ppg",
+        "edge_players_scorer2_last10_mpg",
+        "edge_players_scorer3_last10_ppg",
+        "edge_players_scorer3_last10_mpg"
+      ],
+      "latest_path": "data\\nba\\latest\\current_game_feature_vector.csv",
+      "name": "current_game_feature_vector",
+      "rows": 1,
+      "run_path": "data\\nba\\processed\\20260603T181016Z\\current_game_feature_vector.csv"
+    }
+  ],
+  "created_at": "2026-06-03T18:10:26+00:00",
+  "data_root": "data\\nba",
+  "game_date": "2026-06-03",
+  "notes": [
+    "Historical schedule, team boxscore, and player logs are from ESPN public APIs.",
+    "Player recent summaries are computed from completed game boxscores before the target date.",
+    "The current feature vector includes team split edges, H2H edges, market/predictor features, and roster/player aggregate edges.",
+    "stats.nba.com was probed but timed out in this environment, so this collector avoids a hard dependency on it."
+  ],
+  "run_id": "20260603T181016Z",
+  "sources": [
+    {
+      "name": "espn_scoreboard",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_scoreboard_20260603.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20260603"
+    },
+    {
+      "name": "espn_current_summary",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_summary_401859963.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401859963"
+    },
+    {
+      "name": "espn_roster_24",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_roster_24.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/24/roster"
+    },
+    {
+      "name": "espn_team_stats_24",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_team_stats_24.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/24/statistics"
+    },
+    {
+      "name": "espn_schedule_24_2",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_schedule_24_2.json",
+      "url": "https://site.web.api.espn.com/apis/site/v2/sports/basketball/nba/teams/24/schedule?season=2026&seasontype=2"
+    },
+    {
+      "name": "espn_schedule_24_3",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_schedule_24_3.json",
+      "url": "https://site.web.api.espn.com/apis/site/v2/sports/basketball/nba/teams/24/schedule?season=2026&seasontype=3"
+    },
+    {
+      "name": "espn_roster_18",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_roster_18.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/18/roster"
+    },
+    {
+      "name": "espn_team_stats_18",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_team_stats_18.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams/18/statistics"
+    },
+    {
+      "name": "espn_schedule_18_2",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_schedule_18_2.json",
+      "url": "https://site.web.api.espn.com/apis/site/v2/sports/basketball/nba/teams/18/schedule?season=2026&seasontype=2"
+    },
+    {
+      "name": "espn_schedule_18_3",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_schedule_18_3.json",
+      "url": "https://site.web.api.espn.com/apis/site/v2/sports/basketball/nba/teams/18/schedule?season=2026&seasontype=3"
+    },
+    {
+      "name": "espn_completed_summary_401809235",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809235.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809235"
+    },
+    {
+      "name": "espn_completed_summary_401809996",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809996.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809996"
+    },
+    {
+      "name": "espn_completed_summary_401809505",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809505.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809505"
+    },
+    {
+      "name": "espn_completed_summary_401810008",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810008.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810008"
+    },
+    {
+      "name": "espn_completed_summary_401810009",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810009.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810009"
+    },
+    {
+      "name": "espn_completed_summary_401809945",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809945.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809945"
+    },
+    {
+      "name": "espn_completed_summary_401810014",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810014.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810014"
+    },
+    {
+      "name": "espn_completed_summary_401809980",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809980.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809980"
+    },
+    {
+      "name": "espn_completed_summary_401809234",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809234.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809234"
+    },
+    {
+      "name": "espn_completed_summary_401809973",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809973.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809973"
+    },
+    {
+      "name": "espn_completed_summary_401809963",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809963.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809963"
+    },
+    {
+      "name": "espn_completed_summary_401809949",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809949.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809949"
+    },
+    {
+      "name": "espn_completed_summary_401809960",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809960.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809960"
+    },
+    {
+      "name": "espn_completed_summary_401810030",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810030.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810030"
+    },
+    {
+      "name": "espn_completed_summary_401810034",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810034.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810034"
+    },
+    {
+      "name": "espn_completed_summary_401810043",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810043.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810043"
+    },
+    {
+      "name": "espn_completed_summary_401809774",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809774.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809774"
+    },
+    {
+      "name": "espn_completed_summary_401810047",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810047.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810047"
+    },
+    {
+      "name": "espn_completed_summary_401810057",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810057.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810057"
+    },
+    {
+      "name": "espn_completed_summary_401810063",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810063.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810063"
+    },
+    {
+      "name": "espn_completed_summary_401810075",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810075.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810075"
+    },
+    {
+      "name": "espn_completed_summary_401810070",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810070.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810070"
+    },
+    {
+      "name": "espn_completed_summary_401809781",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809781.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809781"
+    },
+    {
+      "name": "espn_completed_summary_401809789",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809789.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809789"
+    },
+    {
+      "name": "espn_completed_summary_401810099",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810099.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810099"
+    },
+    {
+      "name": "espn_completed_summary_401810107",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810107.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810107"
+    },
+    {
+      "name": "espn_completed_summary_401810089",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810089.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810089"
+    },
+    {
+      "name": "espn_completed_summary_401810117",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810117.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810117"
+    },
+    {
+      "name": "espn_completed_summary_401810122",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810122.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810122"
+    },
+    {
+      "name": "espn_completed_summary_401810124",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810124.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810124"
+    },
+    {
+      "name": "espn_completed_summary_401810140",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810140.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810140"
+    },
+    {
+      "name": "espn_completed_summary_401809803",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809803.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809803"
+    },
+    {
+      "name": "espn_completed_summary_401810136",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810136.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810136"
+    },
+    {
+      "name": "espn_completed_summary_401809816",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809816.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809816"
+    },
+    {
+      "name": "espn_completed_summary_401809809",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809809.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809809"
+    },
+    {
+      "name": "espn_completed_summary_401809818",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809818.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809818"
+    },
+    {
+      "name": "espn_completed_summary_401810158",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810158.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810158"
+    },
+    {
+      "name": "espn_completed_summary_401810161",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810161.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810161"
+    },
+    {
+      "name": "espn_completed_summary_401810175",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810175.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810175"
+    },
+    {
+      "name": "espn_completed_summary_401810177",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810177.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810177"
+    },
+    {
+      "name": "espn_completed_summary_401810181",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810181.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810181"
+    },
+    {
+      "name": "espn_completed_summary_401810183",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810183.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810183"
+    },
+    {
+      "name": "espn_completed_summary_401810196",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810196.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810196"
+    },
+    {
+      "name": "espn_completed_summary_401810198",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810198.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810198"
+    },
+    {
+      "name": "espn_completed_summary_401809834",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809834.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809834"
+    },
+    {
+      "name": "espn_completed_summary_401810221",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810221.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810221"
+    },
+    {
+      "name": "espn_completed_summary_401810212",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810212.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810212"
+    },
+    {
+      "name": "espn_completed_summary_401809837",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809837.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809837"
+    },
+    {
+      "name": "espn_completed_summary_401809836",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809836.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809836"
+    },
+    {
+      "name": "espn_completed_summary_401809839",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809839.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809839"
+    },
+    {
+      "name": "espn_completed_summary_401809838",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809838.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809838"
+    },
+    {
+      "name": "espn_completed_summary_401810225",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810225.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810225"
+    },
+    {
+      "name": "espn_completed_summary_401810237",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810237.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810237"
+    },
+    {
+      "name": "espn_completed_summary_401810238",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810238.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810238"
+    },
+    {
+      "name": "espn_completed_summary_401810227",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810227.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810227"
+    },
+    {
+      "name": "espn_completed_summary_401810253",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810253.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810253"
+    },
+    {
+      "name": "espn_completed_summary_401809238",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809238.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809238"
+    },
+    {
+      "name": "espn_completed_summary_401810272",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810272.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810272"
+    },
+    {
+      "name": "espn_completed_summary_401809239",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809239.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809239"
+    },
+    {
+      "name": "espn_completed_summary_401810271",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810271.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810271"
+    },
+    {
+      "name": "espn_completed_summary_401810254",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810254.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810254"
+    },
+    {
+      "name": "espn_completed_summary_401810290",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810290.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810290"
+    },
+    {
+      "name": "espn_completed_summary_401810295",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810295.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810295"
+    },
+    {
+      "name": "espn_completed_summary_401810309",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810309.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810309"
+    },
+    {
+      "name": "espn_completed_summary_401810311",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810311.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810311"
+    },
+    {
+      "name": "espn_completed_summary_401810322",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810322.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810322"
+    },
+    {
+      "name": "espn_completed_summary_401810331",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810331.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810331"
+    },
+    {
+      "name": "espn_completed_summary_401810357",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810357.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810357"
+    },
+    {
+      "name": "espn_completed_summary_401810334",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810334.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810334"
+    },
+    {
+      "name": "espn_completed_summary_401810345",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810345.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810345"
+    },
+    {
+      "name": "espn_completed_summary_401810342",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810342.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810342"
+    },
+    {
+      "name": "espn_completed_summary_401810377",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810377.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810377"
+    },
+    {
+      "name": "espn_completed_summary_401810367",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810367.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810367"
+    },
+    {
+      "name": "espn_completed_summary_401810378",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810378.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810378"
+    },
+    {
+      "name": "espn_completed_summary_401810406",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810406.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810406"
+    },
+    {
+      "name": "espn_completed_summary_401810407",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810407.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810407"
+    },
+    {
+      "name": "espn_completed_summary_401810400",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810400.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810400"
+    },
+    {
+      "name": "espn_completed_summary_401810393",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810393.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810393"
+    },
+    {
+      "name": "espn_completed_summary_401810423",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810423.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810423"
+    },
+    {
+      "name": "espn_completed_summary_401810431",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810431.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810431"
+    },
+    {
+      "name": "espn_completed_summary_401810439",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810439.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810439"
+    },
+    {
+      "name": "espn_completed_summary_401809249",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401809249.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401809249"
+    },
+    {
+      "name": "espn_completed_summary_401810451",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810451.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810451"
+    },
+    {
+      "name": "espn_completed_summary_401810466",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810466.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810466"
+    },
+    {
+      "name": "espn_completed_summary_401810453",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810453.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810453"
+    },
+    {
+      "name": "espn_completed_summary_401810477",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810477.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810477"
+    },
+    {
+      "name": "espn_completed_summary_401810470",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810470.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810470"
+    },
+    {
+      "name": "espn_completed_summary_401810437",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810437.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810437"
+    },
+    {
+      "name": "espn_completed_summary_401810509",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810509.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810509"
+    },
+    {
+      "name": "espn_completed_summary_401810487",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810487.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810487"
+    },
+    {
+      "name": "espn_completed_summary_401810520",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810520.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810520"
+    },
+    {
+      "name": "espn_completed_summary_401810534",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810534.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810534"
+    },
+    {
+      "name": "espn_completed_summary_401810498",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810498.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810498"
+    },
+    {
+      "name": "espn_completed_summary_401810530",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810530.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810530"
+    },
+    {
+      "name": "espn_completed_summary_401810545",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810545.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810545"
+    },
+    {
+      "name": "espn_completed_summary_401810552",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810552.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810552"
+    },
+    {
+      "name": "espn_completed_summary_401810563",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810563.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810563"
+    },
+    {
+      "name": "espn_completed_summary_401810558",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810558.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810558"
+    },
+    {
+      "name": "espn_completed_summary_401810573",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810573.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810573"
+    },
+    {
+      "name": "espn_completed_summary_401810597",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810597.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810597"
+    },
+    {
+      "name": "espn_completed_summary_401810585",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810585.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810585"
+    },
+    {
+      "name": "espn_completed_summary_401810581",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810581.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810581"
+    },
+    {
+      "name": "espn_completed_summary_401810612",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810612.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810612"
+    },
+    {
+      "name": "espn_completed_summary_401810604",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810604.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810604"
+    },
+    {
+      "name": "espn_completed_summary_401810593",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810593.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810593"
+    },
+    {
+      "name": "espn_completed_summary_401810626",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810626.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810626"
+    },
+    {
+      "name": "espn_completed_summary_401810629",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810629.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810629"
+    },
+    {
+      "name": "espn_completed_summary_401810651",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810651.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810651"
+    },
+    {
+      "name": "espn_completed_summary_401810643",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810643.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810643"
+    },
+    {
+      "name": "espn_completed_summary_401810635",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810635.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810635"
+    },
+    {
+      "name": "espn_completed_summary_401810653",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810653.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810653"
+    },
+    {
+      "name": "espn_completed_summary_401810670",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810670.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810670"
+    },
+    {
+      "name": "espn_completed_summary_401810671",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810671.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810671"
+    },
+    {
+      "name": "espn_completed_summary_401810680",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810680.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810680"
+    },
+    {
+      "name": "espn_completed_summary_401810690",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810690.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810690"
+    },
+    {
+      "name": "espn_completed_summary_401810683",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810683.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810683"
+    },
+    {
+      "name": "espn_completed_summary_401810723",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810723.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810723"
+    },
+    {
+      "name": "espn_completed_summary_401810742",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810742.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810742"
+    },
+    {
+      "name": "espn_completed_summary_401810743",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810743.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810743"
+    },
+    {
+      "name": "espn_completed_summary_401810698",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810698.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810698"
+    },
+    {
+      "name": "espn_completed_summary_401810706",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810706.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810706"
+    },
+    {
+      "name": "espn_completed_summary_401810715",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810715.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810715"
+    },
+    {
+      "name": "espn_completed_summary_401810748",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810748.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810748"
+    },
+    {
+      "name": "espn_completed_summary_401810759",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810759.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810759"
+    },
+    {
+      "name": "espn_completed_summary_401810777",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810777.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810777"
+    },
+    {
+      "name": "espn_completed_summary_401810768",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810768.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810768"
+    },
+    {
+      "name": "espn_completed_summary_401810797",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810797.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810797"
+    },
+    {
+      "name": "espn_completed_summary_401810766",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810766.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810766"
+    },
+    {
+      "name": "espn_completed_summary_401810813",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810813.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810813"
+    },
+    {
+      "name": "espn_completed_summary_401810790",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810790.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810790"
+    },
+    {
+      "name": "espn_completed_summary_401810782",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810782.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810782"
+    },
+    {
+      "name": "espn_completed_summary_401810828",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810828.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810828"
+    },
+    {
+      "name": "espn_completed_summary_401810817",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810817.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810817"
+    },
+    {
+      "name": "espn_completed_summary_401810804",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810804.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810804"
+    },
+    {
+      "name": "espn_completed_summary_401810836",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810836.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810836"
+    },
+    {
+      "name": "espn_completed_summary_401810849",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810849.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810849"
+    },
+    {
+      "name": "espn_completed_summary_401810845",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810845.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810845"
+    },
+    {
+      "name": "espn_completed_summary_401810883",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810883.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810883"
+    },
+    {
+      "name": "espn_completed_summary_401810853",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810853.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810853"
+    },
+    {
+      "name": "espn_completed_summary_401810871",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810871.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810871"
+    },
+    {
+      "name": "espn_completed_summary_401810896",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810896.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810896"
+    },
+    {
+      "name": "espn_completed_summary_401810868",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810868.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810868"
+    },
+    {
+      "name": "espn_completed_summary_401810889",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810889.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810889"
+    },
+    {
+      "name": "espn_completed_summary_401810903",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810903.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810903"
+    },
+    {
+      "name": "espn_completed_summary_401810931",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810931.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810931"
+    },
+    {
+      "name": "espn_completed_summary_401810918",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810918.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810918"
+    },
+    {
+      "name": "espn_completed_summary_401810911",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810911.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810911"
+    },
+    {
+      "name": "espn_completed_summary_401810944",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810944.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810944"
+    },
+    {
+      "name": "espn_completed_summary_401810957",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810957.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810957"
+    },
+    {
+      "name": "espn_completed_summary_401810968",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810968.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810968"
+    },
+    {
+      "name": "espn_completed_summary_401810949",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810949.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810949"
+    },
+    {
+      "name": "espn_completed_summary_401810858",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810858.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810858"
+    },
+    {
+      "name": "espn_completed_summary_401810974",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810974.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810974"
+    },
+    {
+      "name": "espn_completed_summary_401810998",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810998.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810998"
+    },
+    {
+      "name": "espn_completed_summary_401810978",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810978.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810978"
+    },
+    {
+      "name": "espn_completed_summary_401810985",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401810985.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401810985"
+    },
+    {
+      "name": "espn_completed_summary_401811023",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401811023.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401811023"
+    },
+    {
+      "name": "espn_completed_summary_401811001",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401811001.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401811001"
+    },
+    {
+      "name": "espn_completed_summary_401811016",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401811016.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401811016"
+    },
+    {
+      "name": "espn_completed_summary_401811031",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401811031.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401811031"
+    },
+    {
+      "name": "espn_completed_summary_401811035",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401811035.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401811035"
+    },
+    {
+      "name": "espn_completed_summary_401869189",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869189.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869189"
+    },
+    {
+      "name": "espn_completed_summary_401811052",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401811052.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401811052"
+    },
+    {
+      "name": "espn_completed_summary_401869194",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869194.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869194"
+    },
+    {
+      "name": "espn_completed_summary_401869387",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869387.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869387"
+    },
+    {
+      "name": "espn_completed_summary_401869382",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869382.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869382"
+    },
+    {
+      "name": "espn_completed_summary_401869389",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869389.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869389"
+    },
+    {
+      "name": "espn_completed_summary_401869378",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869378.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869378"
+    },
+    {
+      "name": "espn_completed_summary_401869385",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869385.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869385"
+    },
+    {
+      "name": "espn_completed_summary_401869391",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869391.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869391"
+    },
+    {
+      "name": "espn_completed_summary_401811045",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401811045.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401811045"
+    },
+    {
+      "name": "espn_completed_summary_401869393",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869393.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869393"
+    },
+    {
+      "name": "espn_completed_summary_401869392",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869392.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869392"
+    },
+    {
+      "name": "espn_completed_summary_401869386",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401869386.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401869386"
+    },
+    {
+      "name": "espn_completed_summary_401871152",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871152.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871152"
+    },
+    {
+      "name": "espn_completed_summary_401871154",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871154.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871154"
+    },
+    {
+      "name": "espn_completed_summary_401871159",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871159.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871159"
+    },
+    {
+      "name": "espn_completed_summary_401871153",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871153.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871153"
+    },
+    {
+      "name": "espn_completed_summary_401871155",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871155.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871155"
+    },
+    {
+      "name": "espn_completed_summary_401871161",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871161.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871161"
+    },
+    {
+      "name": "espn_completed_summary_401871160",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871160.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871160"
+    },
+    {
+      "name": "espn_completed_summary_401871156",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871156.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871156"
+    },
+    {
+      "name": "espn_completed_summary_401871157",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871157.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871157"
+    },
+    {
+      "name": "espn_completed_summary_401871162",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401871162.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401871162"
+    },
+    {
+      "name": "espn_completed_summary_401873198",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873198.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873198"
+    },
+    {
+      "name": "espn_completed_summary_401873197",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873197.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873197"
+    },
+    {
+      "name": "espn_completed_summary_401873341",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873341.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873341"
+    },
+    {
+      "name": "espn_completed_summary_401873199",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873199.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873199"
+    },
+    {
+      "name": "espn_completed_summary_401873343",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873343.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873343"
+    },
+    {
+      "name": "espn_completed_summary_401873342",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873342.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873342"
+    },
+    {
+      "name": "espn_completed_summary_401873202",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873202.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873202"
+    },
+    {
+      "name": "espn_completed_summary_401873344",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873344.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873344"
+    },
+    {
+      "name": "espn_completed_summary_401873200",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873200.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873200"
+    },
+    {
+      "name": "espn_completed_summary_401873201",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873201.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873201"
+    },
+    {
+      "name": "espn_completed_summary_401873203",
+      "ok": true,
+      "path": "data\\nba\\raw\\20260603T181016Z\\espn_completed_summary_401873203.json",
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary?event=401873203"
+    }
+  ],
+  "target_event_id": "401859963",
+  "target_matchup": "New York Knicks at San Antonio Spurs"
+}
