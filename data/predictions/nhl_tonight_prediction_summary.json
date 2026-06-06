@@ -1,0 +1,87 @@
+{
+  "created_at": "2026-06-06T05:14:55+00:00",
+  "game_date": "2026-06-06",
+  "game_id": 2025030413,
+  "start_time_utc": "2026-06-07T00:00:00Z",
+  "away_team": "CAR",
+  "home_team": "VGK",
+  "model_type": "HistGradientBoostingClassifier",
+  "training_rows": 4480,
+  "historical_odds_rows": 4480,
+  "completed_schedule_rows": 6015,
+  "recent_snapshot_rows_appended": [
+    {
+      "game_date": "2026-06-02",
+      "home_team": "CAR",
+      "away_team": "VGK",
+      "home_odds": -155,
+      "away_odds": 130,
+      "home_score": 4,
+      "away_score": 5,
+      "home_win": 0,
+      "season": 20252026,
+      "source_query": "processed_snapshot:20260602T221324Z",
+      "source": "processed_snapshot",
+      "market_home_raw_prob": 0.6078431372549019,
+      "market_away_raw_prob": 0.43478260869565216,
+      "market_home_no_vig_prob": 0.5829926410466066,
+      "home_decimal_odds": 1.6451612903225805,
+      "away_decimal_odds": 2.3
+    },
+    {
+      "game_date": "2026-06-04",
+      "home_team": "CAR",
+      "away_team": "VGK",
+      "home_odds": -162,
+      "away_odds": 134,
+      "home_score": 4,
+      "away_score": 3,
+      "home_win": 1,
+      "season": 20252026,
+      "source_query": "processed_snapshot:20260604T223102Z",
+      "source": "processed_snapshot",
+      "market_home_raw_prob": 0.6183206106870229,
+      "market_away_raw_prob": 0.42735042735042733,
+      "market_home_no_vig_prob": 0.5913146565171273,
+      "home_decimal_odds": 1.617283950617284,
+      "away_decimal_odds": 2.34
+    }
+  ],
+  "current_market": {
+    "home_odds": -112,
+    "away_odds": -108,
+    "home_no_vig_probability": 0.5043297540699688,
+    "away_no_vig_probability": 0.4956702459300312,
+    "home_odds_values": [
+      -112
+    ],
+    "away_odds_values": [
+      -108
+    ]
+  },
+  "prediction": {
+    "home_win_probability": 0.46497624538720506,
+    "away_win_probability": 0.5350237546127949,
+    "predicted_winner": "CAR",
+    "recommended_bet_side": "away",
+    "recommended_bet_team": "CAR",
+    "recommended_bet_edge": 0.01579298538202567,
+    "home_kelly_fraction": 0.0,
+    "away_kelly_fraction": 0.032849409594613535
+  },
+  "backtest_metrics": {
+    "rows": 250,
+    "home_win_rate": 0.508,
+    "avg_probability": 0.5409815119921768,
+    "brier": 0.23495104004232745,
+    "log_loss": 0.6615425128160465,
+    "accuracy_0_50": 0.584
+  },
+  "artifacts": {
+    "prediction_csv": "C:\\Users\\LouisWei\\vegas\\data\\predictions\\nhl_tonight_prediction.csv",
+    "summary_json": "C:\\Users\\LouisWei\\vegas\\data\\predictions\\nhl_tonight_prediction_summary.json",
+    "training_feature_table": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\moneyline_feature_table_latest_for_prediction.csv",
+    "historical_odds": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\historical_moneyline_games_latest_for_prediction.csv",
+    "backtest_predictions": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_moneyline_walk_forward_predictions_latest.csv"
+  }
+}

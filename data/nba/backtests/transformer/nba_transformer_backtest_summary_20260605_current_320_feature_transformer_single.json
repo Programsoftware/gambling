@@ -1,0 +1,538 @@
+{
+  "created_at": "2026-06-05T06:21:35+00:00",
+  "run_id": "20260605_current_320_feature_transformer_single",
+  "label": "Current 320-feature transformer single-holdout backtest",
+  "raw_dir": "data\\nba\\raw\\20260605T045804Z",
+  "fit_mode": "single",
+  "model_type": "transformer",
+  "feature_mode": "edge",
+  "feature_select": "grouped",
+  "settings": {
+    "games": 100,
+    "bankroll": 2000.0,
+    "min_train": 1500,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0.0,
+    "max_market_disagreement": 0.25,
+    "market_blend": 0.0,
+    "fit_mode": "single",
+    "feature_mode": "edge",
+    "feature_select": "grouped",
+    "max_features": 320,
+    "model_type": "transformer",
+    "start_date": null,
+    "end_date": null,
+    "seed": 42
+  },
+  "artifact_paths": {
+    "latest_predictions": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_backtest_predictions.csv",
+    "latest_bets": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_backtest_bets.csv",
+    "latest_bet_history": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_bet_history_clean.csv",
+    "latest_summary": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_backtest_summary.json",
+    "archived_predictions": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_backtest_predictions_20260605_current_320_feature_transformer_single.csv",
+    "archived_bets": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_backtest_bets_20260605_current_320_feature_transformer_single.csv",
+    "archived_bet_history": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_bet_history_clean_20260605_current_320_feature_transformer_single.csv",
+    "archived_summary": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_backtest_summary_20260605_current_320_feature_transformer_single.json"
+  },
+  "base_feature_count": 530,
+  "feature_count": 320,
+  "feature_rows": 3903,
+  "feature_date_range": {
+    "start": "2023-10-30",
+    "end": "2026-06-04"
+  },
+  "historical_moneyline_rows": 1059,
+  "odds_coverage_rows": 1059,
+  "selected_games": 100,
+  "selected_date_range": {
+    "start": "2026-03-29",
+    "end": "2026-06-04"
+  },
+  "late_regular_target_filter": {
+    "enabled": true,
+    "rule": "drop late regular-season incentive-risk games from backtest targets",
+    "start_month": 4,
+    "start_day": 1,
+    "playoff_teams_only": true,
+    "include_tank_risk": true,
+    "tank_win_pct_threshold": 0.4,
+    "rows_before": 1059,
+    "rows_removed": 100,
+    "rows_after": 959,
+    "removed_date_range": {
+      "start": "2026-04-01",
+      "end": "2026-04-13"
+    }
+  },
+  "model_metrics": {
+    "rows": 100,
+    "home_win_rate": 0.59,
+    "avg_probability": 0.5500646808743477,
+    "brier": 0.23782857412490838,
+    "log_loss": 0.6685333973067968,
+    "accuracy_0_50": 0.61,
+    "always_home_accuracy": 0.59,
+    "auc": 0.5481603968582058
+  },
+  "market_metrics": {
+    "rows": 100,
+    "home_win_rate": 0.59,
+    "avg_probability": 0.5783820659661366,
+    "brier": 0.20910881676030305,
+    "log_loss": 0.6001104398487725,
+    "accuracy_0_50": 0.65,
+    "always_home_accuracy": 0.59,
+    "auc": 0.7071103761885077
+  },
+  "model_probability_distribution": {
+    "mean": 0.5500646808743477,
+    "std": 0.09505743617433732,
+    "min": 0.43247532844543457,
+    "q01": 0.43251383155584333,
+    "q05": 0.43256652504205706,
+    "q10": 0.43274530172348025,
+    "q25": 0.4351803660392761,
+    "q50": 0.5963059663772583,
+    "q75": 0.6427499651908875,
+    "q90": 0.6445929288864136,
+    "q95": 0.6453005164861679,
+    "q99": 0.645544086098671,
+    "max": 0.6455533504486084
+  },
+  "raw_model_probability_distribution": {
+    "mean": 0.5500646808743477,
+    "std": 0.09505743617433732,
+    "min": 0.43247532844543457,
+    "q01": 0.43251383155584333,
+    "q05": 0.43256652504205706,
+    "q10": 0.43274530172348025,
+    "q25": 0.4351803660392761,
+    "q50": 0.5963059663772583,
+    "q75": 0.6427499651908875,
+    "q90": 0.6445929288864136,
+    "q95": 0.6453005164861679,
+    "q99": 0.645544086098671,
+    "max": 0.6455533504486084
+  },
+  "by_season_type": {
+    "regular": {
+      "rows": 19,
+      "home_win_rate": 0.6842105263157895,
+      "avg_probability": 0.5314719394633645,
+      "brier": 0.2338867688160044,
+      "log_loss": 0.6598775126985904,
+      "accuracy_0_50": 0.5789473684210527,
+      "always_home_accuracy": 0.6842105263157895,
+      "auc": 0.5
+    },
+    "playoffs": {
+      "rows": 81,
+      "home_win_rate": 0.5679012345679012,
+      "avg_probability": 0.5544259412053191,
+      "brier": 0.2387531951232933,
+      "log_loss": 0.6705637899926725,
+      "accuracy_0_50": 0.6172839506172839,
+      "always_home_accuracy": 0.5679012345679012,
+      "auc": 0.5608695652173913
+    }
+  },
+  "calibration_bins": [
+    {
+      "bin": "(0.4, 0.5]",
+      "rows": 40,
+      "avg_probability": 0.4397291012108326,
+      "home_win_rate": 0.475
+    },
+    {
+      "bin": "(0.5, 0.6]",
+      "rows": 11,
+      "avg_probability": 0.5529584234411066,
+      "home_win_rate": 0.8181818181818182
+    },
+    {
+      "bin": "(0.6, 0.7]",
+      "rows": 49,
+      "avg_probability": 0.6394849261459039,
+      "home_win_rate": 0.6326530612244898
+    }
+  ],
+  "kelly": {
+    "starting_bankroll": 2000.0,
+    "ending_bankroll": 3176.73482481068,
+    "profit": 1176.7348248106794,
+    "roi_on_starting_bankroll": 0.5883674124053396,
+    "bets_placed": 71,
+    "games_evaluated": 100,
+    "win_rate": 0.4225352112676056,
+    "total_staked": 7221.785671816126,
+    "roi_on_staked": 0.1629423633275391,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0.0,
+    "max_market_disagreement": 0.25,
+    "max_drawdown": 0.3028358907768606
+  },
+  "bet_only_metrics": {
+    "bets": 71,
+    "win_rate": 0.4225352112676056,
+    "avg_model_prob": 0.47734691181652983,
+    "avg_market_prob": 0.3631547013062344,
+    "avg_break_even_prob": 0.3786885400422392,
+    "avg_model_edge_vs_break_even": 0.09865837177429061,
+    "avg_model_edge_vs_market": 0.11419221051029542,
+    "model_brier_on_bets": 0.23608721286891154,
+    "market_brier_on_bets": 0.2368143695839453,
+    "model_log_loss_on_bets": 0.6649768731116844,
+    "market_log_loss_on_bets": 0.6685151330146231,
+    "by_side": {
+      "away": {
+        "bets": 40,
+        "win_rate": 0.375,
+        "avg_model_prob": 0.43412128537893296,
+        "avg_market_prob": 0.3134625441530966,
+        "avg_break_even_prob": 0.32687759614460676,
+        "profit": 939.3958470921605,
+        "roi_on_staked": 0.2304774591664055
+      },
+      "home": {
+        "bets": 31,
+        "win_rate": 0.4838709677419355,
+        "avg_model_prob": 0.5331219136714935,
+        "avg_market_prob": 0.42727361376189593,
+        "avg_break_even_prob": 0.44554137087789414,
+        "profit": 237.33897771851875,
+        "roi_on_staked": 0.07544349549173711
+      }
+    }
+  },
+  "skip_reason_counts": {
+    "market_disagreement": 19,
+    "no_positive_kelly": 10
+  },
+  "bet_history_path": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_bet_history_clean.csv",
+  "archived_bet_history_path": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_bet_history_clean_20260605_current_320_feature_transformer_single.csv",
+  "bootstrap": {
+    "trials": 1000,
+    "sampled_games_per_trial": 71,
+    "mean_final_bankroll": 3791.3392186343976,
+    "median_final_bankroll": 3063.3630357410457,
+    "p05_final_bankroll": 1241.7343672628936,
+    "p95_final_bankroll": 8291.493968885947,
+    "probability_profit": 0.776
+  },
+  "training_diagnostics": [
+    {
+      "best_epoch": 12,
+      "best_validation_loss": 0.6727890372276306,
+      "train_rows": 2670,
+      "validation_rows": 814,
+      "positive_rate": 0.5475655198097229,
+      "model_type": "transformer",
+      "class_balance": "none",
+      "average_sample_weight": 0.37872326374053955,
+      "weighted_train_mean": 0.5516542196273804,
+      "weighted_train_target_mean": 0.5516542196273804,
+      "raw_train_probability_distribution": {
+        "mean": 0.5540368556976318,
+        "std": 0.07021035254001617,
+        "min": 0.47578170895576477,
+        "q05": 0.47593308240175247,
+        "q25": 0.47813527286052704,
+        "q50": 0.5507405996322632,
+        "q75": 0.6311374753713608,
+        "q95": 0.6330877870321274,
+        "max": 0.6331573128700256
+      },
+      "raw_validation_probability_distribution": {
+        "mean": 0.5559636354446411,
+        "std": 0.07071203738451004,
+        "min": 0.47577187418937683,
+        "q05": 0.4760207042098045,
+        "q25": 0.47833476960659027,
+        "q50": 0.5599448382854462,
+        "q75": 0.631059005856514,
+        "q95": 0.6330823689699173,
+        "max": 0.6331558227539062
+      },
+      "train_probability_distribution": {
+        "mean": 0.5384530425071716,
+        "std": 0.09514747560024261,
+        "min": 0.4324810802936554,
+        "q05": 0.4326831042766571,
+        "q25": 0.4356236606836319,
+        "q50": 0.5339215099811554,
+        "q75": 0.6429140716791153,
+        "q95": 0.6455206006765366,
+        "max": 0.645613431930542
+      },
+      "validation_probability_distribution": {
+        "mean": 0.5410621762275696,
+        "std": 0.09582583606243134,
+        "min": 0.4324679374694824,
+        "q05": 0.4327999994158745,
+        "q25": 0.43589022755622864,
+        "q50": 0.5464752912521362,
+        "q75": 0.6428090631961823,
+        "q95": 0.645513379573822,
+        "max": 0.6456114649772644
+      },
+      "validation_auc": 0.6070278317938745,
+      "raw_validation_auc": 0.6070278317938745,
+      "validation_brier": 0.2399061769247055,
+      "validation_accuracy_0_50": 0.5872235872235873,
+      "calibration": {
+        "method": "platt",
+        "applied": true,
+        "validation_auc": 0.6070308701993195,
+        "min_auc": 0.52,
+        "scale": 1.3559998273849487,
+        "bias": -0.14027276635169983,
+        "reason": "validation AUC met threshold"
+      },
+      "history_tail": [
+        {
+          "epoch": 7,
+          "train_loss": 0.6790981888771057,
+          "validation_loss": 0.6806821823120117,
+          "validation_prob_mean": 0.5512500405311584,
+          "validation_prob_std": 0.02437526546418667,
+          "validation_prob_min": 0.5210137963294983,
+          "validation_prob_max": 0.582369863986969
+        },
+        {
+          "epoch": 8,
+          "train_loss": 0.6753742297490438,
+          "validation_loss": 0.6800229549407959,
+          "validation_prob_mean": 0.5555638670921326,
+          "validation_prob_std": 0.03188970312476158,
+          "validation_prob_min": 0.5139333605766296,
+          "validation_prob_max": 0.5908005237579346
+        },
+        {
+          "epoch": 9,
+          "train_loss": 0.6726151903470358,
+          "validation_loss": 0.6793263554573059,
+          "validation_prob_mean": 0.5596991181373596,
+          "validation_prob_std": 0.03993656486272812,
+          "validation_prob_min": 0.5061599016189575,
+          "validation_prob_max": 0.6003372073173523
+        },
+        {
+          "epoch": 10,
+          "train_loss": 0.6691517035166422,
+          "validation_loss": 0.678280770778656,
+          "validation_prob_mean": 0.5629066824913025,
+          "validation_prob_std": 0.04910731688141823,
+          "validation_prob_min": 0.49716609716415405,
+          "validation_prob_max": 0.6107903718948364
+        },
+        {
+          "epoch": 11,
+          "train_loss": 0.6681769092877706,
+          "validation_loss": 0.6767409443855286,
+          "validation_prob_mean": 0.5641308426856995,
+          "validation_prob_std": 0.0591183677315712,
+          "validation_prob_min": 0.48693495988845825,
+          "validation_prob_max": 0.6217323541641235
+        },
+        {
+          "epoch": 12,
+          "train_loss": 0.6641008257865906,
+          "validation_loss": 0.6727890372276306,
+          "validation_prob_mean": 0.5559636354446411,
+          "validation_prob_std": 0.07071203738451004,
+          "validation_prob_min": 0.47577187418937683,
+          "validation_prob_max": 0.6331558227539062
+        },
+        {
+          "epoch": 13,
+          "train_loss": 0.6629268328348795,
+          "validation_loss": 0.6731792092323303,
+          "validation_prob_mean": 0.5609273910522461,
+          "validation_prob_std": 0.08090699464082718,
+          "validation_prob_min": 0.4648362100124359,
+          "validation_prob_max": 0.6452082395553589
+        },
+        {
+          "epoch": 14,
+          "train_loss": 0.660764475663503,
+          "validation_loss": 0.6730823516845703,
+          "validation_prob_mean": 0.5627491474151611,
+          "validation_prob_std": 0.09098842740058899,
+          "validation_prob_min": 0.4534524977207184,
+          "validation_prob_max": 0.6571987271308899
+        },
+        {
+          "epoch": 15,
+          "train_loss": 0.6593559583028158,
+          "validation_loss": 0.6727631688117981,
+          "validation_prob_mean": 0.5619426369667053,
+          "validation_prob_std": 0.10006966441869736,
+          "validation_prob_min": 0.44205793738365173,
+          "validation_prob_max": 0.6680639386177063
+        },
+        {
+          "epoch": 16,
+          "train_loss": 0.6548618078231812,
+          "validation_loss": 0.6756426095962524,
+          "validation_prob_mean": 0.5703268051147461,
+          "validation_prob_std": 0.10736072808504105,
+          "validation_prob_min": 0.4310709536075592,
+          "validation_prob_max": 0.678249180316925
+        }
+      ],
+      "fit_mode": "single",
+      "training_row_filter": {
+        "enabled": true,
+        "rule": "drop late regular-season incentive-risk games involving playoff rest or tank risk",
+        "start_month": 4,
+        "start_day": 1,
+        "playoff_teams_only": true,
+        "include_tank_risk": true,
+        "tank_win_pct_threshold": 0.4,
+        "rows_before": 3700,
+        "rows_removed": 216,
+        "rows_after": 3484,
+        "removed_date_range": {
+          "start": "2024-04-01",
+          "end": "2025-04-13"
+        }
+      },
+      "feature_selection": {
+        "enabled": true,
+        "mode": "grouped",
+        "base_feature_count": 530,
+        "selected_feature_count": 320,
+        "max_features": 320,
+        "max_missing_fraction": 0.45,
+        "group_quota": 40,
+        "selected_by_group": {
+          "h2h": 30,
+          "players": 78,
+          "recent_team": 76,
+          "schedule": 9,
+          "series": 2,
+          "strength": 36,
+          "style_matchup": 40,
+          "team_profile": 45
+        },
+        "top_scores": [
+          {
+            "column": "edge_strength_power_rating_over_1500",
+            "group": "strength",
+            "score": 0.371637293946214
+          },
+          {
+            "column": "edge_strength_power_rating",
+            "group": "strength",
+            "score": 0.371637293946214
+          },
+          {
+            "column": "edge_strength_elo_rating_over_1500",
+            "group": "strength",
+            "score": 0.3621700320655203
+          },
+          {
+            "column": "edge_strength_elo",
+            "group": "strength",
+            "score": 0.3621700320655203
+          },
+          {
+            "column": "edge_strength_power_rating_percentile",
+            "group": "strength",
+            "score": 0.35798849942543337
+          },
+          {
+            "column": "edge_strength_power_rating_rank",
+            "group": "strength",
+            "score": 0.3579884994254332
+          },
+          {
+            "column": "edge_style_regular_net_rating",
+            "group": "style_matchup",
+            "score": 0.3564799818112411
+          },
+          {
+            "column": "edge_regular_avg_net_rating_est",
+            "group": "team_profile",
+            "score": 0.3564799818112411
+          },
+          {
+            "column": "edge_regular_avg_margin",
+            "group": "team_profile",
+            "score": 0.3560136575148219
+          },
+          {
+            "column": "edge_strength_current_season_net_rating",
+            "group": "strength",
+            "score": 0.35503613437213327
+          },
+          {
+            "column": "edge_strength_elo_percentile",
+            "group": "strength",
+            "score": 0.354493838570441
+          },
+          {
+            "column": "edge_strength_elo_rank",
+            "group": "strength",
+            "score": 0.3544938385704409
+          },
+          {
+            "column": "edge_last20_avg_margin",
+            "group": "recent_team",
+            "score": 0.35078976632066877
+          },
+          {
+            "column": "edge_style_last20_net_rating",
+            "group": "style_matchup",
+            "score": 0.35072991324584424
+          },
+          {
+            "column": "edge_last20_avg_net_rating_est",
+            "group": "recent_team",
+            "score": 0.35072991324584424
+          },
+          {
+            "column": "edge_strength_last20_net_rating",
+            "group": "strength",
+            "score": 0.34981283945555885
+          },
+          {
+            "column": "edge_strength_sos_adjusted_net_rating",
+            "group": "strength",
+            "score": 0.3464243560872589
+          },
+          {
+            "column": "edge_strength_win_pct_percentile",
+            "group": "strength",
+            "score": 0.3417234726127892
+          },
+          {
+            "column": "edge_strength_win_pct_rank",
+            "group": "strength",
+            "score": 0.34172347261278907
+          },
+          {
+            "column": "edge_strength_overall_seed",
+            "group": "strength",
+            "score": 0.34172347261278907
+          }
+        ]
+      },
+      "feature_count": 320,
+      "base_feature_count": 530,
+      "target_start_date": "2026-03-29",
+      "target_end_date": "2026-06-04",
+      "target_games": 100
+    }
+  ],
+  "notes": [
+    "Model features are built from games before each target date.",
+    "Grouped feature selection is fit on the training fold only when enabled.",
+    "Platt calibration is applied only when validation AUC meets the calibration threshold.",
+    "Moneyline odds are parsed from ESPN completed summary pickcenter blocks when available.",
+    "Odds columns are used for betting simulation and market comparison, not as transformer input features.",
+    "The default fit mode retrains date-by-date; use --fit-mode single only for a one-model holdout run."
+  ]
+}

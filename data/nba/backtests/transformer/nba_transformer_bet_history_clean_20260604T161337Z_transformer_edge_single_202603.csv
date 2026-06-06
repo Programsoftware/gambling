@@ -1,0 +1,20 @@
+game_date,event_id,matchup,final_score,bet_side,candidate_side,candidate_team,bet_team,actual_winner,result,skip_reason,model_prob_pct,market_no_vig_prob_pct,break_even_prob_pct,model_edge_vs_break_even_pct,model_edge_vs_market_pct,american_odds,decimal_odds,raw_kelly_fraction_pct,stake_fraction_pct,stake,profit,bankroll_after
+2026-03-29,401810937,LA Clippers at Milwaukee Bucks,127-113,skip,home,Milwaukee Bucks,,LA Clippers,SKIP,market_disagreement,42.9,10.66,11.11,31.78,32.23,800,9.0,35.76,0.0,0.0,0.0,2000.0
+2026-03-29,401810938,Miami Heat at Indiana Pacers,118-135,home,home,Indiana Pacers,Indiana Pacers,Indiana Pacers,WIN,,43.07,25.22,26.32,16.75,17.84,280,3.8,22.73,5.68,113.66,318.25,2318.25
+2026-03-29,401810939,Sacramento Kings at Brooklyn Nets,99-116,away,away,Sacramento Kings,Sacramento Kings,Brooklyn Nets,LOSS,,57.16,47.83,50.0,7.16,9.33,100,2.0,14.32,3.58,82.99,-82.99,2235.26
+2026-03-29,401810940,Boston Celtics at Charlotte Hornets,114-99,home,home,Charlotte Hornets,Charlotte Hornets,Boston Celtics,LOSS,,66.89,55.14,57.45,9.45,11.75,-135,1.741,22.2,5.55,124.07,-124.07,2111.19
+2026-03-29,401810941,Orlando Magic at Toronto Raptors,87-139,home,home,Toronto Raptors,Toronto Raptors,Toronto Raptors,WIN,,65.9,52.61,54.95,10.95,13.29,-122,1.82,24.3,6.08,128.28,105.15,2216.34
+2026-03-29,401810942,Washington Wizards at Portland Trail Blazers,88-123,away,away,Washington Wizards,Washington Wizards,Portland Trail Blazers,LOSS,,32.64,9.17,9.52,23.12,23.47,950,10.5,25.55,6.39,141.57,-141.57,2074.77
+2026-03-29,401810943,Houston Rockets at New Orleans Pelicans,134-102,home,home,New Orleans Pelicans,New Orleans Pelicans,Houston Rockets,LOSS,,42.82,31.46,32.79,10.04,11.36,205,3.05,14.93,3.73,77.45,-77.45,1997.32
+2026-03-29,401810944,New York Knicks at Oklahoma City Thunder,100-111,skip,away,New York Knicks,,Oklahoma City Thunder,SKIP,market_disagreement,56.88,24.92,25.97,30.91,31.96,285,3.85,41.75,0.0,0.0,0.0,1997.32
+2026-03-30,401810945,Golden State Warriors at Denver Nuggets,93-116,away,away,Golden State Warriors,Golden State Warriors,Denver Nuggets,LOSS,,32.31,17.29,18.02,14.29,15.02,455,5.55,17.44,4.36,87.06,-87.06,1910.26
+2026-03-30,401810946,Philadelphia 76ers at Miami Heat,109-119,skip,away,Philadelphia 76ers,,Miami Heat,SKIP,no_positive_kelly,56.67,56.35,58.68,-2.01,0.32,-142,1.704,0.0,0.0,0.0,0.0,1910.26
+2026-03-30,401810947,Boston Celtics at Atlanta Hawks,102-112,home,home,Atlanta Hawks,Atlanta Hawks,Atlanta Hawks,WIN,,64.7,56.35,58.68,6.02,8.35,-142,1.704,14.57,3.64,69.59,49.0,1959.26
+2026-03-31,401810948,Phoenix Suns at Memphis Grizzlies,131-105,skip,home,Memphis Grizzlies,,Phoenix Suns,SKIP,market_disagreement,45.76,16.0,16.67,29.09,29.76,500,6.0,34.91,0.0,0.0,0.0,1959.26
+2026-03-31,401810949,Chicago Bulls at San Antonio Spurs,114-129,skip,away,Chicago Bulls,,San Antonio Spurs,SKIP,market_disagreement,35.32,8.03,8.33,26.98,27.29,1100,12.0,29.44,0.0,0.0,0.0,1959.26
+2026-03-31,401810950,Minnesota Timberwolves at Dallas Mavericks,124-94,home,home,Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,LOSS,,43.01,25.22,26.32,16.69,17.79,280,3.8,22.66,5.66,110.98,-110.98,1848.28
+2026-03-31,401810951,Cleveland Cavaliers at Utah Jazz,122-113,skip,home,Utah Jazz,,Cleveland Cavaliers,SKIP,market_disagreement,61.29,9.6,10.0,51.29,51.69,900,10.0,56.99,0.0,0.0,0.0,1848.28
+2026-03-31,401810952,Detroit Pistons at Oklahoma City Thunder,110-114,skip,away,Detroit Pistons,,Oklahoma City Thunder,SKIP,market_disagreement,57.17,16.84,17.54,39.63,40.34,470,5.7,48.06,0.0,0.0,0.0,1848.28
+2026-03-31,401810953,Washington Wizards at Los Angeles Lakers,101-120,away,away,Washington Wizards,Washington Wizards,Los Angeles Lakers,LOSS,,32.37,10.11,10.53,21.84,22.26,850,9.5,24.41,6.1,112.81,-112.81,1735.48
+2026-03-31,401810954,Phoenix Suns at Orlando Magic,111-115,away,away,Phoenix Suns,Phoenix Suns,Orlando Magic,LOSS,,56.99,45.73,47.62,9.37,11.26,110,2.1,17.89,4.47,77.62,-77.62,1657.85
+2026-03-31,401810955,Charlotte Hornets at Brooklyn Nets,117-86,skip,home,Brooklyn Nets,,Charlotte Hornets,SKIP,market_disagreement,42.82,8.03,8.33,34.49,34.8,1100,12.0,37.63,0.0,0.0,0.0,1657.85

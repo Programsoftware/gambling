@@ -1,0 +1,516 @@
+﻿{
+    "created_at":  "2026-06-04T08:17:53+00:00",
+    "raw_dir":  "C:\\Users\\LouisWei\\vegas\\data\\nba\\raw\\20260603T185508Z",
+    "fit_mode":  "single",
+    "model_type":  "mlp",
+    "feature_mode":  "wide",
+    "feature_select":  "grouped",
+    "base_feature_count":  1526,
+    "feature_count":  320,
+    "feature_rows":  3902,
+    "feature_date_range":  {
+                               "start":  "2023-10-30",
+                               "end":  "2026-05-31"
+                           },
+    "historical_moneyline_rows":  1058,
+    "odds_coverage_rows":  1058,
+    "selected_games":  100,
+    "selected_date_range":  {
+                                "start":  "2026-03-29",
+                                "end":  "2026-05-31"
+                            },
+    "late_regular_target_filter":  {
+                                       "enabled":  true,
+                                       "rule":  "drop late regular-season incentive-risk games from backtest targets",
+                                       "start_month":  4,
+                                       "start_day":  1,
+                                       "playoff_teams_only":  true,
+                                       "include_tank_risk":  true,
+                                       "tank_win_pct_threshold":  0.4,
+                                       "rows_before":  1058,
+                                       "rows_removed":  100,
+                                       "rows_after":  958,
+                                       "removed_date_range":  {
+                                                                  "start":  "2026-04-01",
+                                                                  "end":  "2026-04-13"
+                                                              }
+                                   },
+    "model_metrics":  {
+                          "rows":  100,
+                          "home_win_rate":  0.59,
+                          "avg_probability":  0.546084707826376,
+                          "brier":  0.20134903971355922,
+                          "log_loss":  0.5895768198559198,
+                          "accuracy_0_50":  0.7,
+                          "always_home_accuracy":  0.59,
+                          "auc":  0.7370814386109963
+                      },
+    "market_metrics":  {
+                           "rows":  100,
+                           "home_win_rate":  0.59,
+                           "avg_probability":  0.5732838588750812,
+                           "brier":  0.2054225275174402,
+                           "log_loss":  0.5916552967685952,
+                           "accuracy_0_50":  0.66,
+                           "always_home_accuracy":  0.59,
+                           "auc":  0.7182720132286069
+                       },
+    "model_probability_distribution":  {
+                                           "mean":  0.546084707826376,
+                                           "std":  0.15716290186093204,
+                                           "min":  0.22230127453804016,
+                                           "q01":  0.23550705954432488,
+                                           "q05":  0.27934331744909285,
+                                           "q10":  0.29996881186962127,
+                                           "q25":  0.4098445028066635,
+                                           "q50":  0.5608369708061218,
+                                           "q75":  0.6719384789466858,
+                                           "q90":  0.7365245342254638,
+                                           "q95":  0.7629412800073623,
+                                           "q99":  0.8027766209840775,
+                                           "max":  0.8102575540542603
+                                       },
+    "raw_model_probability_distribution":  {
+                                               "mean":  0.546084707826376,
+                                               "std":  0.15716290186093204,
+                                               "min":  0.22230127453804016,
+                                               "q01":  0.23550705954432488,
+                                               "q05":  0.27934331744909285,
+                                               "q10":  0.29996881186962127,
+                                               "q25":  0.4098445028066635,
+                                               "q50":  0.5608369708061218,
+                                               "q75":  0.6719384789466858,
+                                               "q90":  0.7365245342254638,
+                                               "q95":  0.7629412800073623,
+                                               "q99":  0.8027766209840775,
+                                               "max":  0.8102575540542603
+                                           },
+    "by_season_type":  {
+                           "regular":  {
+                                           "rows":  20,
+                                           "home_win_rate":  0.65,
+                                           "avg_probability":  0.506065233796835,
+                                           "brier":  0.15922667350850164,
+                                           "log_loss":  0.49456597906382027,
+                                           "accuracy_0_50":  0.75,
+                                           "always_home_accuracy":  0.65,
+                                           "auc":  0.9230769230769231
+                                       },
+                           "playoffs":  {
+                                            "rows":  80,
+                                            "home_win_rate":  0.575,
+                                            "avg_probability":  0.5560895763337612,
+                                            "brier":  0.2118796312648236,
+                                            "log_loss":  0.6133295300539447,
+                                            "accuracy_0_50":  0.6875,
+                                            "always_home_accuracy":  0.575,
+                                            "auc":  0.6982097186700768
+                                        }
+                       },
+    "calibration_bins":  [
+                             {
+                                 "bin":  "(0.2, 0.3]",
+                                 "rows":  10,
+                                 "avg_probability":  0.26950258761644363,
+                                 "home_win_rate":  0.0
+                             },
+                             {
+                                 "bin":  "(0.3, 0.4]",
+                                 "rows":  15,
+                                 "avg_probability":  0.35754013260205586,
+                                 "home_win_rate":  0.26666666666666666
+                             },
+                             {
+                                 "bin":  "(0.4, 0.5]",
+                                 "rows":  8,
+                                 "avg_probability":  0.4570917412638664,
+                                 "home_win_rate":  0.875
+                             },
+                             {
+                                 "bin":  "(0.5, 0.6]",
+                                 "rows":  25,
+                                 "avg_probability":  0.5498351240158081,
+                                 "home_win_rate":  0.68
+                             },
+                             {
+                                 "bin":  "(0.6, 0.7]",
+                                 "rows":  21,
+                                 "avg_probability":  0.6432838383175078,
+                                 "home_win_rate":  0.6666666666666666
+                             },
+                             {
+                                 "bin":  "(0.7, 0.8]",
+                                 "rows":  19,
+                                 "avg_probability":  0.7382006143268786,
+                                 "home_win_rate":  0.7894736842105263
+                             },
+                             {
+                                 "bin":  "(0.8, 0.9]",
+                                 "rows":  2,
+                                 "avg_probability":  0.8064793050289154,
+                                 "home_win_rate":  1.0
+                             }
+                         ],
+    "kelly":  {
+                  "starting_bankroll":  1000.0,
+                  "ending_bankroll":  1020.0216016655294,
+                  "profit":  20.021601665529584,
+                  "roi_on_starting_bankroll":  0.020021601665529583,
+                  "bets_placed":  89,
+                  "games_evaluated":  100,
+                  "win_rate":  0.3707865168539326,
+                  "total_staked":  1896.768078304611,
+                  "roi_on_staked":  0.010555640351890307,
+                  "kelly_multiplier":  0.25,
+                  "max_bet_fraction":  0.03,
+                  "min_edge":  0.0,
+                  "max_market_disagreement":  0.25,
+                  "max_drawdown":  0.3071872603064759
+              },
+    "bet_only_metrics":  {
+                             "bets":  89,
+                             "win_rate":  0.3707865168539326,
+                             "avg_model_prob":  0.4249262449781546,
+                             "avg_market_prob":  0.3282761803777522,
+                             "avg_break_even_prob":  0.34226680525854003,
+                             "avg_model_edge_vs_break_even":  0.08265943971961466,
+                             "avg_model_edge_vs_market":  0.09665006460040244,
+                             "model_brier_on_bets":  0.19858634830691957,
+                             "market_brier_on_bets":  0.20124044207085004,
+                             "model_log_loss_on_bets":  0.5836460668339367,
+                             "market_log_loss_on_bets":  0.5823171944063107,
+                             "by_side":  {
+                                             "away":  {
+                                                          "bets":  53,
+                                                          "win_rate":  0.32075471698113206,
+                                                          "avg_model_prob":  0.39670912780851686,
+                                                          "avg_market_prob":  0.29464917299841087,
+                                                          "avg_break_even_prob":  0.3071970401517757,
+                                                          "profit":  -48.767531211209075,
+                                                          "roi_on_staked":  -0.04124077096477018
+                                                      },
+                                             "home":  {
+                                                          "bets":  36,
+                                                          "win_rate":  0.4444444444444444,
+                                                          "avg_model_prob":  0.46646811192234355,
+                                                          "avg_market_prob":  0.3777826079084491,
+                                                          "avg_break_even_prob":  0.39389729277683183,
+                                                          "profit":  68.78913287673862,
+                                                          "roi_on_staked":  0.0963082086263046
+                                                      }
+                                         }
+                         },
+    "skip_reason_counts":  {
+                               "market_disagreement":  4,
+                               "no_positive_kelly":  7
+                           },
+    "bet_history_path":  "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_bet_history_clean.csv",
+    "bootstrap":  {
+                      "trials":  1000,
+                      "sampled_games_per_trial":  89,
+                      "mean_final_bankroll":  1088.220004563765,
+                      "median_final_bankroll":  999.3216845968359,
+                      "p05_final_bankroll":  607.1800758623198,
+                      "p95_final_bankroll":  1868.8446354280916,
+                      "probability_profit":  0.5
+                  },
+    "training_diagnostics":  [
+                                 {
+                                     "best_epoch":  2,
+                                     "best_validation_loss":  0.6146134734153748,
+                                     "train_rows":  2670,
+                                     "validation_rows":  814,
+                                     "positive_rate":  0.5475655198097229,
+                                     "model_type":  "mlp",
+                                     "class_balance":  "none",
+                                     "average_sample_weight":  0.37872326374053955,
+                                     "weighted_train_mean":  0.5516542196273804,
+                                     "weighted_train_target_mean":  0.5516542196273804,
+                                     "raw_train_probability_distribution":  {
+                                                                                "mean":  0.5298606753349304,
+                                                                                "std":  0.17943711578845978,
+                                                                                "min":  0.18924148380756378,
+                                                                                "q05":  0.24139873459935188,
+                                                                                "q25":  0.36821719259023666,
+                                                                                "q50":  0.5517727136611938,
+                                                                                "q75":  0.6879736036062241,
+                                                                                "q95":  0.7874628663063049,
+                                                                                "max":  0.8297982215881348
+                                                                            },
+                                     "raw_validation_probability_distribution":  {
+                                                                                     "mean":  0.5308243036270142,
+                                                                                     "std":  0.1768423616886139,
+                                                                                     "min":  0.2015012502670288,
+                                                                                     "q05":  0.25572819709777833,
+                                                                                     "q25":  0.3674512505531311,
+                                                                                     "q50":  0.5523847937583923,
+                                                                                     "q75":  0.6819338649511337,
+                                                                                     "q95":  0.7869464129209518,
+                                                                                     "max":  0.8278800249099731
+                                                                                 },
+                                     "train_probability_distribution":  {
+                                                                            "mean":  0.5396714806556702,
+                                                                            "std":  0.19240103662014008,
+                                                                            "min":  0.1752098947763443,
+                                                                            "q05":  0.22944695353507996,
+                                                                            "q25":  0.36539464443922043,
+                                                                            "q50":  0.5653054714202881,
+                                                                            "q75":  0.7104983776807785,
+                                                                            "q95":  0.8120489537715911,
+                                                                            "max":  0.8535211086273193
+                                                                        },
+                                     "validation_probability_distribution":  {
+                                                                                 "mean":  0.5406715869903564,
+                                                                                 "std":  0.18962977826595306,
+                                                                                 "min":  0.187834694981575,
+                                                                                 "q05":  0.24456344470381738,
+                                                                                 "q25":  0.3645628094673157,
+                                                                                 "q50":  0.5659681260585785,
+                                                                                 "q75":  0.704184964299202,
+                                                                                 "q95":  0.8115356773138046,
+                                                                                 "max":  0.8516694903373718
+                                                                             },
+                                     "validation_auc":  0.7122751579970832,
+                                     "raw_validation_auc":  0.7122751579970832,
+                                     "validation_brier":  0.2151148021221161,
+                                     "validation_accuracy_0_50":  0.6560196560196561,
+                                     "calibration":  {
+                                                         "method":  "platt",
+                                                         "applied":  true,
+                                                         "validation_auc":  0.7122751579970832,
+                                                         "min_auc":  0.52,
+                                                         "scale":  1.0896598100662231,
+                                                         "bias":  0.03625233843922615,
+                                                         "reason":  "validation AUC met threshold"
+                                                     },
+                                     "history_tail":  [
+                                                          {
+                                                              "epoch":  1,
+                                                              "train_loss":  0.653654233975844,
+                                                              "validation_loss":  0.6205185651779175,
+                                                              "validation_prob_mean":  0.5645300149917603,
+                                                              "validation_prob_std":  0.2069266438484192,
+                                                              "validation_prob_min":  0.22008328139781952,
+                                                              "validation_prob_max":  0.9129284024238586
+                                                          },
+                                                          {
+                                                              "epoch":  2,
+                                                              "train_loss":  0.6121662855148315,
+                                                              "validation_loss":  0.6146134734153748,
+                                                              "validation_prob_mean":  0.5308243036270142,
+                                                              "validation_prob_std":  0.1768423616886139,
+                                                              "validation_prob_min":  0.20150122046470642,
+                                                              "validation_prob_max":  0.8278800249099731
+                                                          },
+                                                          {
+                                                              "epoch":  3,
+                                                              "train_loss":  0.5998728654601357,
+                                                              "validation_loss":  0.6180904507637024,
+                                                              "validation_prob_mean":  0.5623078942298889,
+                                                              "validation_prob_std":  0.19741255044937134,
+                                                              "validation_prob_min":  0.21782870590686798,
+                                                              "validation_prob_max":  0.9103116989135742
+                                                          },
+                                                          {
+                                                              "epoch":  4,
+                                                              "train_loss":  0.5936244401064786,
+                                                              "validation_loss":  0.6174190640449524,
+                                                              "validation_prob_mean":  0.5348269939422607,
+                                                              "validation_prob_std":  0.20219141244888306,
+                                                              "validation_prob_min":  0.15516239404678345,
+                                                              "validation_prob_max":  0.8971696496009827
+                                                          },
+                                                          {
+                                                              "epoch":  5,
+                                                              "train_loss":  0.5874294421889565,
+                                                              "validation_loss":  0.6217993497848511,
+                                                              "validation_prob_mean":  0.5529890656471252,
+                                                              "validation_prob_std":  0.21436062455177307,
+                                                              "validation_prob_min":  0.14260455965995789,
+                                                              "validation_prob_max":  0.932596743106842
+                                                          },
+                                                          {
+                                                              "epoch":  6,
+                                                              "train_loss":  0.576563688841733,
+                                                              "validation_loss":  0.6264421939849854,
+                                                              "validation_prob_mean":  0.5584005117416382,
+                                                              "validation_prob_std":  0.20468837022781372,
+                                                              "validation_prob_min":  0.12771448493003845,
+                                                              "validation_prob_max":  0.9368356466293335
+                                                          },
+                                                          {
+                                                              "epoch":  7,
+                                                              "train_loss":  0.5649750503626737,
+                                                              "validation_loss":  0.637214720249176,
+                                                              "validation_prob_mean":  0.5513746738433838,
+                                                              "validation_prob_std":  0.24300096929073334,
+                                                              "validation_prob_min":  0.079879991710186,
+                                                              "validation_prob_max":  0.9639410376548767
+                                                          },
+                                                          {
+                                                              "epoch":  8,
+                                                              "train_loss":  0.5472831346771934,
+                                                              "validation_loss":  0.6594952344894409,
+                                                              "validation_prob_mean":  0.5307670831680298,
+                                                              "validation_prob_std":  0.26799529790878296,
+                                                              "validation_prob_min":  0.05672890320420265,
+                                                              "validation_prob_max":  0.9760421514511108
+                                                          }
+                                                      ],
+                                     "fit_mode":  "single",
+                                     "training_row_filter":  {
+                                                                 "enabled":  true,
+                                                                 "rule":  "drop late regular-season incentive-risk games involving playoff rest or tank risk",
+                                                                 "start_month":  4,
+                                                                 "start_day":  1,
+                                                                 "playoff_teams_only":  true,
+                                                                 "include_tank_risk":  true,
+                                                                 "tank_win_pct_threshold":  0.4,
+                                                                 "rows_before":  3700,
+                                                                 "rows_removed":  216,
+                                                                 "rows_after":  3484,
+                                                                 "removed_date_range":  {
+                                                                                            "start":  "2024-04-01",
+                                                                                            "end":  "2025-04-13"
+                                                                                        }
+                                                             },
+                                     "feature_selection":  {
+                                                               "enabled":  true,
+                                                               "mode":  "grouped",
+                                                               "base_feature_count":  1526,
+                                                               "selected_feature_count":  320,
+                                                               "max_features":  320,
+                                                               "max_missing_fraction":  0.45,
+                                                               "group_quota":  40,
+                                                               "selected_by_group":  {
+                                                                                         "h2h":  40,
+                                                                                         "players":  40,
+                                                                                         "recent_team":  61,
+                                                                                         "schedule":  25,
+                                                                                         "series":  2,
+                                                                                         "strength":  65,
+                                                                                         "style_matchup":  40,
+                                                                                         "team_profile":  43
+                                                                                     },
+                                                               "top_scores":  [
+                                                                                  {
+                                                                                      "column":  "edge_strength_power_rating_over_1500",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.371637293946214
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_power_rating",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.371637293946214
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_elo_rating_over_1500",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.3621700320655203
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_elo",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.3621700320655203
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_power_rating_percentile",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.35798849942543337
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_power_rating_rank",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.3579884994254332
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_style_regular_net_rating",
+                                                                                      "group":  "style_matchup",
+                                                                                      "score":  0.3564799818112411
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_regular_avg_net_rating_est",
+                                                                                      "group":  "team_profile",
+                                                                                      "score":  0.3564799818112411
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_regular_avg_margin",
+                                                                                      "group":  "team_profile",
+                                                                                      "score":  0.3560136575148219
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_current_season_net_rating",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.35503613437213327
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_elo_percentile",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.354493838570441
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_elo_rank",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.3544938385704409
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_last20_avg_margin",
+                                                                                      "group":  "recent_team",
+                                                                                      "score":  0.35078976632066877
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_style_last20_net_rating",
+                                                                                      "group":  "style_matchup",
+                                                                                      "score":  0.35072991324584424
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_last20_avg_net_rating_est",
+                                                                                      "group":  "recent_team",
+                                                                                      "score":  0.35072991324584424
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_last20_net_rating",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.34981283945555885
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_sos_adjusted_net_rating",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.3464243560872589
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_win_pct_percentile",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.3417234726127892
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_win_pct_rank",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.34172347261278907
+                                                                                  },
+                                                                                  {
+                                                                                      "column":  "edge_strength_overall_seed",
+                                                                                      "group":  "strength",
+                                                                                      "score":  0.34172347261278907
+                                                                                  }
+                                                                              ]
+                                                           },
+                                     "feature_count":  320,
+                                     "base_feature_count":  1526,
+                                     "target_start_date":  "2026-03-29",
+                                     "target_end_date":  "2026-05-31",
+                                     "target_games":  100
+                                 }
+                             ],
+    "notes":  [
+                  "Model features are built from games before each target date.",
+                  "Grouped feature selection is fit on the training fold only when enabled.",
+                  "Platt calibration is applied only when validation AUC meets the calibration threshold.",
+                  "Moneyline odds are parsed from ESPN completed summary pickcenter blocks when available.",
+                  "Odds columns are used for betting simulation and market comparison, not as transformer input features.",
+                  "Use --fit-mode expanding for stricter date-by-date retraining; the default single mode trains once before the holdout window."
+              ],
+    "run_id":  "archived_latest_20260604T081753Z",
+    "label":  "Archived previous latest backtest ($20)",
+    "archived_at":  "2026-06-04T16:03:15"
+}

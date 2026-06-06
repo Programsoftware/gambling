@@ -1,0 +1,70 @@
+{
+  "scenario": "profit500_202605",
+  "label": "2026-05 standalone month",
+  "source_predictions": "data/nba/backtests/transformer/nba_transformer_backtest_predictions.csv",
+  "selected_date_range": {
+    "start": "2026-05-01",
+    "end": "2026-05-31"
+  },
+  "selected_games": 40,
+  "settings": {
+    "starting_bankroll": 2000,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0,
+    "max_market_disagreement": 0.25
+  },
+  "kelly": {
+    "starting_bankroll": 2000,
+    "ending_bankroll": 2229.8834807579055,
+    "profit": 229.88348075790475,
+    "roi_on_starting_bankroll": 0.11494174037895237,
+    "bets_placed": 32,
+    "games_evaluated": 40,
+    "win_rate": 0.375,
+    "total_staked": 2061.6047727665646,
+    "roi_on_staked": 0.11150705692702355,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0,
+    "max_market_disagreement": 0.25,
+    "max_drawdown": 0.18243108006230926
+  },
+  "bet_only_metrics": {
+    "bets": 32,
+    "win_rate": 0.375,
+    "avg_model_prob": 0.46593133732676506,
+    "avg_market_prob": 0.3761079425002949,
+    "avg_break_even_prob": 0.3920549352228696,
+    "avg_model_edge_vs_break_even": 0.07387640210389548,
+    "avg_model_edge_vs_market": 0.0898233948264702,
+    "model_brier_on_bets": 0.19682223938095394,
+    "market_brier_on_bets": 0.2000567603999661,
+    "model_log_loss_on_bets": 0.5804474387190732,
+    "market_log_loss_on_bets": 0.5827716125215758,
+    "by_side": {
+      "away": {
+        "bets": 19,
+        "win_rate": 0.3684210526315789,
+        "avg_model_prob": 0.4309981841790049,
+        "avg_market_prob": 0.32888709852396486,
+        "avg_break_even_prob": 0.3428483977147396,
+        "profit": 61.492787914943825,
+        "roi_on_staked": 0.04402244110132417
+      },
+      "home": {
+        "bets": 13,
+        "win_rate": 0.38461538461538464,
+        "avg_model_prob": 0.5169874842350299,
+        "avg_market_prob": 0.4451230221580078,
+        "avg_break_even_prob": 0.4639721823501365,
+        "profit": 168.3906928429609,
+        "roi_on_staked": 0.2533128546386044
+      }
+    }
+  },
+  "skip_reason_counts": {
+    "market_disagreement": 2,
+    "no_positive_kelly": 6
+  }
+}

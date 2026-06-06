@@ -1,0 +1,110 @@
+{
+  "created_at": "2026-06-05T01:27:37+00:00",
+  "run_id": "schedule_context_all_sides",
+  "label": "NHL schedule-context all sides, no market guard",
+  "description": "Broader all-sides value strategy from the 157-feature model without the market-disagreement skip.",
+  "prediction_source": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_moneyline_walk_forward_predictions_latest.csv",
+  "feature_count": 157,
+  "model_type": "HistGradientBoostingClassifier",
+  "tonight_prediction": {
+    "home_win_probability": 0.40236439035271726,
+    "away_win_probability": 0.5976356096472828,
+    "predicted_winner": "VGK",
+    "recommended_bet_side": "away",
+    "recommended_bet_team": "VGK",
+    "recommended_bet_edge": 0.17028518229685546,
+    "home_kelly_fraction": 0.0,
+    "away_kelly_fraction": 0.2973636765482401
+  },
+  "model_backtest_metrics": {
+    "rows": 250,
+    "home_win_rate": 0.508,
+    "avg_probability": 0.5422070950345709,
+    "brier": 0.23387244009881972,
+    "log_loss": 0.6592966349475944,
+    "accuracy_0_50": 0.588
+  },
+  "settings": {
+    "starting_bankroll": 1000.0,
+    "kelly_multiplier": 0.5,
+    "max_bet_fraction": 0.05,
+    "market_blend": 0.1,
+    "min_edge": 0.03,
+    "min_model_prob": 0.48,
+    "max_market_disagreement": null,
+    "side_filter": "all",
+    "prediction_rows": 250
+  },
+  "kelly": {
+    "starting_bankroll": 1000.0,
+    "ending_bankroll": 1385.674844129201,
+    "profit": 385.67484412920055,
+    "roi_on_starting_bankroll": 0.38567484412920056,
+    "bets_placed": 48,
+    "games_evaluated": 250,
+    "win_rate": 0.625,
+    "total_staked": 2619.1062450166446,
+    "roi_on_staked": 0.14725437154869964,
+    "kelly_multiplier": 0.5,
+    "max_bet_fraction": 0.05,
+    "min_edge": 0.03,
+    "max_market_disagreement": null,
+    "market_blend": 0.1,
+    "min_model_prob": 0.48,
+    "side_filter": "all",
+    "max_drawdown": 0.22339972291881718
+  },
+  "split_results": {
+    "first_half": {
+      "starting_bankroll": 1000.0,
+      "ending_bankroll": 1184.3167412294783,
+      "profit": 184.3167412294784,
+      "bets_placed": 21,
+      "games_evaluated": 125,
+      "win_rate": 0.6190476190476191,
+      "total_staked": 1093.4809272529533,
+      "roi_on_staked": 0.1685596306581401,
+      "max_drawdown": 0.14082903708878172
+    },
+    "second_half": {
+      "starting_bankroll": 1000.0,
+      "ending_bankroll": 1170.0204817595381,
+      "profit": 170.02048175953797,
+      "bets_placed": 27,
+      "games_evaluated": 125,
+      "win_rate": 0.6296296296296297,
+      "total_staked": 1288.1902827615936,
+      "roi_on_staked": 0.13198398096518152,
+      "max_drawdown": 0.1823228373259027
+    },
+    "full": {
+      "starting_bankroll": 1000.0,
+      "ending_bankroll": 1385.674844129201,
+      "profit": 385.67484412920055,
+      "bets_placed": 48,
+      "games_evaluated": 250,
+      "win_rate": 0.625,
+      "total_staked": 2619.1062450166446,
+      "roi_on_staked": 0.14725437154869964,
+      "max_drawdown": 0.22339972291881718
+    }
+  },
+  "bootstrap": {
+    "trials": 1000,
+    "sampled_games_per_trial": 48,
+    "mean_final_bankroll": 1476.4006053355213,
+    "median_final_bankroll": 1403.5758959240156,
+    "p05_final_bankroll": 830.4083129355322,
+    "p95_final_bankroll": 2403.976308010446,
+    "probability_profit": 0.85
+  },
+  "artifact_paths": {
+    "bets": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_bets_schedule_context_all_sides.csv",
+    "summary": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_summary_schedule_context_all_sides.json"
+  },
+  "notes": [
+    "Generated from the 157-feature NHL rolling feature table.",
+    "Added schedule-safe travel, time-zone, road-trip/home-stand, and same-season/series H2H context.",
+    "This no-market-guard strategy is research-grade until validated on more seasons and with true historical goalie/lineup/injury data."
+  ]
+}

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import json
 import math
 import re
@@ -468,8 +469,9 @@ def parse_dailyfaceoff_lines(team: str, html: str | None, roster: list[dict[str,
 
 
 def parse_starting_goalie_mentions(html: str | None, rosters: pd.DataFrame) -> pd.DataFrame:
+    columns = ["team", "player_id", "player", "source", "first_mention_index", "context"]
     if not html or rosters.empty:
-        return pd.DataFrame()
+        return pd.DataFrame(columns=columns)
 
     text = BeautifulSoup(html, "html.parser").get_text(" ")
     rows: list[dict[str, Any]] = []
@@ -492,7 +494,7 @@ def parse_starting_goalie_mentions(html: str | None, rosters: pd.DataFrame) -> p
             }
         )
 
-    return pd.DataFrame(rows).sort_values(["team", "first_mention_index"])
+    return pd.DataFrame(rows, columns=columns).sort_values(["team", "first_mention_index"])
 
 
 def flatten_stats_report(data: dict[str, Any] | None, report: str, game_type: int) -> pd.DataFrame:
@@ -803,7 +805,23 @@ def fetch_news_sources() -> pd.DataFrame:
     return pd.DataFrame(rows)
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--game-date", default=GAME_DATE, help="NHL schedule date in YYYY-MM-DD format.")
+    parser.add_argument("--teams", default=",".join(TEAMS), help="Comma-separated matchup team abbreviations.")
+    parser.add_argument("--season", type=int, default=SEASON, help="NHL season id, e.g. 20252026.")
+    return parser.parse_args()
+
+
 def main() -> None:
+    global GAME_DATE, GAME_DATE_COMPACT, TEAMS, SEASON, SEASON_START_YEAR
+    args = parse_args()
+    GAME_DATE = args.game_date
+    GAME_DATE_COMPACT = GAME_DATE.replace("-", "")
+    TEAMS = [item.strip().upper() for item in args.teams.split(",") if item.strip()]
+    SEASON = int(args.season)
+    SEASON_START_YEAR = int(str(SEASON)[:4])
+
     ensure_dirs()
     print(f"Collecting NHL model data into data/raw/{RUN_ID} and data/processed/{RUN_ID}")
 

@@ -1,0 +1,251 @@
+bet_number,game_date,season_type,season_type_text,matchup,final_score,bet_side,candidate_side,candidate_team,bet_team,display_team,actual_winner,result,skip_reason,skip_reason_label,model_prob_pct,market_no_vig_prob_pct,break_even_prob_pct,model_edge_vs_break_even_pct,model_edge_vs_market_pct,american_odds,american_odds_text,decimal_odds,raw_kelly_fraction_pct,stake_fraction_pct,stake,profit,bankroll_after,placed
+1,2026-03-19,2,Regular,NYR at CBJ,3-6,skip,home,CBJ,,CBJ,CBJ,SKIP,market_disagreement,Market Disagreement,71.04,65.78,68.65,2.39,5.26,-219,-219,1.45662100456621,0.0,0.0,0.0,0.0,1000.0,False
+2,2026-03-19,2,Regular,FLA at EDM,4-0,skip,,,,,FLA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1000.0,False
+3,2026-03-19,2,Regular,PHI at LAK,4-3,skip,,,,,PHI,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1000.0,False
+4,2026-03-19,2,Regular,CHI at MIN,2-1,away,away,CHI,CHI,CHI,CHI,WIN,,,40.44,36.91,38.61,1.83,3.52,159,+159,2.59,2.97,1.49,14.87355636456474,23.648954619657935,1023.648954619658,True
+5,2026-03-19,2,Regular,SEA at NSH,1-3,skip,,,,,NSH,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1023.648954619658,False
+6,2026-03-19,2,Regular,BUF at SJS,5-0,home,home,SJS,SJS,SJS,BUF,LOSS,,,48.17,43.33,45.25,2.92,4.84,121,+121,2.21,5.33,2.66,27.276097200727285,-27.276097200727285,996.3728574189307,True
+7,2026-03-19,2,Regular,TBL at VAN,6-2,skip,home,VAN,,VAN,TBL,SKIP,market_disagreement,Market Disagreement,32.29,25.88,27.1,5.19,6.42,269,+269,3.69,0.0,0.0,0.0,0.0,996.3728574189307,False
+8,2026-03-19,2,Regular,UTA at VGK,4-0,skip,,,,,UTA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,996.3728574189307,False
+9,2026-03-20,2,Regular,FLA at CGY,1-4,skip,home,CGY,,CGY,CGY,SKIP,below_min_edge,Below Min Edge,54.47,51.62,54.13,0.34,2.85,-118,-118,1.847457627118644,0.0,0.0,0.0,0.0,996.3728574189307,False
+10,2026-03-20,2,Regular,COL at CHI,4-1,skip,home,CHI,,CHI,COL,SKIP,market_disagreement,Market Disagreement,35.05,26.17,27.32,7.73,8.88,266,+266,3.66,0.0,0.0,0.0,0.0,996.3728574189307,False
+11,2026-03-20,2,Regular,CAR at TOR,4-3,skip,home,TOR,,TOR,CAR,SKIP,market_disagreement,Market Disagreement,40.96,33.98,35.59,5.37,6.98,181,+181,2.81,0.0,0.0,0.0,0.0,996.3728574189307,False
+12,2026-03-20,2,Regular,NJD at WSH,1-2,skip,,,,,WSH,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,996.3728574189307,False
+13,2026-03-21,2,Regular,SEA at CBJ,2-5,skip,home,CBJ,,CBJ,CBJ,SKIP,market_disagreement,Market Disagreement,69.51,62.2,65.03,4.48,7.31,-186,-186,1.5376344086021505,0.0,0.0,0.0,0.0,996.3728574189307,False
+14,2026-03-21,2,Regular,TBL at EDM,5-2,home,home,EDM,EDM,EDM,TBL,LOSS,,,48.38,44.86,46.73,1.65,3.52,114,+114,2.14,3.09,1.55,15.401605620914019,-15.401605620914019,980.9712517980167,True
+15,2026-03-21,2,Regular,BUF at LAK,4-1,skip,,,,,BUF,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,980.9712517980167,False
+16,2026-03-21,2,Regular,DAL at MIN,1-2,skip,home,MIN,,MIN,MIN,SKIP,below_min_edge,Below Min Edge,47.22,44.97,46.95,0.28,2.25,113,+113,2.13,0.0,0.0,0.0,0.0,980.9712517980167,False
+17,2026-03-21,2,Regular,VGK at NSH,1-4,home,home,NSH,NSH,NSH,NSH,WIN,,,46.52,41.64,43.48,3.04,4.88,130,+130,2.3,5.38,2.69,26.410942766752417,34.33422559677814,1015.3054773947949,True
+18,2026-03-21,2,Regular,TOR at OTT,2-5,skip,away,TOR,,TOR,OTT,SKIP,market_disagreement,Market Disagreement,32.64,26.98,28.25,4.39,5.67,254,+254,3.54,0.0,0.0,0.0,0.0,1015.3054773947949,False
+19,2026-03-21,2,Regular,WPG at PIT,4-5,skip,,,,,PIT,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1015.3054773947949,False
+20,2026-03-21,2,Regular,PHI at SJS,4-1,skip,,,,,PHI,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1015.3054773947949,False
+21,2026-03-21,2,Regular,STL at VAN,3-1,skip,home,VAN,,VAN,STL,SKIP,market_disagreement,Market Disagreement,48.7,42.73,44.64,4.06,5.98,124,+124,2.24,0.0,0.0,0.0,0.0,1015.3054773947949,False
+22,2026-03-22,2,Regular,TBL at CGY,3-4,skip,,,,,CGY,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1015.3054773947949,False
+23,2026-03-22,2,Regular,NSH at CHI,3-2,skip,away,NSH,,NSH,NSH,SKIP,market_disagreement,Market Disagreement,57.15,51.18,53.7,3.44,5.96,-116,-116,1.862068965517241,0.0,0.0,0.0,0.0,1015.3054773947949,False
+24,2026-03-22,2,Regular,VGK at DAL,3-2,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1015.3054773947949,False
+25,2026-03-22,2,Regular,LAK at UTA,3-4,away,away,LAK,LAK,LAK,UTA,LOSS,,,42.43,38.83,40.65,1.78,3.59,146,+146,2.46,2.99,1.5,15.192167278304892,-15.192167278304892,1000.1133101164901,True
+26,2026-03-22,2,Regular,COL at WSH,3-2,skip,,,,,COL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1000.1133101164901,False
+27,2026-03-23,2,Regular,OTT at NYR,2-1,home,home,NYR,NYR,NYR,OTT,LOSS,,,41.17,37.04,38.61,2.56,4.13,159,+159,2.59,4.16,2.08,20.81487262234552,-20.81487262234552,979.2984374941445,True
+28,2026-03-24,2,Regular,TOR at BOS,4-2,skip,away,TOR,,TOR,TOR,SKIP,market_disagreement,Market Disagreement,41.1,35.38,37.04,4.07,5.72,170,+170,2.7,0.0,0.0,0.0,0.0,979.2984374941445,False
+29,2026-03-24,2,Regular,NJD at DAL,6-4,away,away,NJD,NJD,NJD,NJD,WIN,,,44.16,39.88,41.67,2.5,4.29,140,+140,2.4,4.28,2.14,20.95177627952613,29.332486791336578,1008.6309242854811,True
+30,2026-03-24,2,Regular,OTT at DET,3-2,home,home,DET,DET,DET,OTT,LOSS,,,59.18,55.3,57.81,1.38,3.88,-137,-137,1.72992700729927,3.26,1.63,16.438572825654663,-16.438572825654663,992.1923514598265,True
+31,2026-03-24,2,Regular,CAR at MTL,2-5,skip,home,MTL,,MTL,MTL,SKIP,market_disagreement,Market Disagreement,51.64,46.46,48.54,3.1,5.18,106,+106,2.06,0.0,0.0,0.0,0.0,992.1923514598265,False
+32,2026-03-24,2,Regular,SJS at NSH,3-6,skip,,,,,NSH,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,992.1923514598265,False
+33,2026-03-24,2,Regular,CHI at NYI,4-3,away,away,CHI,CHI,CHI,CHI,WIN,,,44.12,39.93,41.67,2.45,4.19,140,+140,2.4,4.21,2.1,20.871259947314595,29.219763926240432,1021.412115386067,True
+34,2026-03-24,2,Regular,CBJ at PHI,3-2,skip,,,,,CBJ,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1021.412115386067,False
+35,2026-03-24,2,Regular,COL at PIT,6-2,skip,away,COL,,COL,COL,SKIP,below_min_edge,Below Min Edge,63.76,60.18,62.96,0.79,3.58,-170,-170,1.5882352941176472,0.0,0.0,0.0,0.0,1021.412115386067,False
+36,2026-03-24,2,Regular,MIN at TBL,3-6,skip,away,MIN,,MIN,TBL,SKIP,market_disagreement,Market Disagreement,47.3,41.75,43.67,3.63,5.55,129,+129,2.29,0.0,0.0,0.0,0.0,1021.412115386067,False
+37,2026-03-24,2,Regular,EDM at UTA,5-2,skip,away,EDM,,EDM,EDM,SKIP,market_disagreement,Market Disagreement,49.84,44.7,46.73,3.11,5.14,114,+114,2.14,0.0,0.0,0.0,0.0,1021.412115386067,False
+38,2026-03-24,2,Regular,ANA at VAN,5-3,skip,home,VAN,,VAN,ANA,SKIP,market_disagreement,Market Disagreement,44.31,37.26,38.91,5.4,7.05,157,+157,2.5700000000000003,0.0,0.0,0.0,0.0,1021.412115386067,False
+39,2026-03-24,2,Regular,VGK at WPG,1-4,skip,home,WPG,,WPG,WPG,SKIP,below_min_edge,Below Min Edge,47.75,45.09,47.17,0.58,2.66,112,+112,2.12,0.0,0.0,0.0,0.0,1021.412115386067,False
+40,2026-03-25,2,Regular,BOS at BUF,4-3,skip,,,,,BOS,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1021.412115386067,False
+41,2026-03-25,2,Regular,NYR at TOR,3-4,home,home,TOR,TOR,TOR,TOR,WIN,,,50.01,45.36,47.39,2.61,4.64,111,+111,2.1100000000000003,4.97,2.48,25.366404146597066,28.156708602722752,1049.5688239887897,True
+42,2026-03-26,2,Regular,ANA at CGY,3-2,skip,home,CGY,,CGY,ANA,SKIP,below_min_edge,Below Min Edge,48.38,45.56,47.62,0.76,2.82,110,+110,2.1,0.0,0.0,0.0,0.0,1049.5688239887897,False
+43,2026-03-26,2,Regular,MIN at FLA,3-2,skip,home,FLA,,FLA,MIN,SKIP,market_disagreement,Market Disagreement,45.73,40.5,42.19,3.54,5.23,137,+137,2.37,0.0,0.0,0.0,0.0,1049.5688239887897,False
+44,2026-03-26,2,Regular,NJD at NSH,4-2,skip,,,,,NJD,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1049.5688239887897,False
+45,2026-03-26,2,Regular,DAL at NYI,1-2,skip,,,,,NYI,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1049.5688239887897,False
+46,2026-03-26,2,Regular,PIT at OTT,4-3,skip,,,,,PIT,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1049.5688239887897,False
+47,2026-03-26,2,Regular,CHI at PHI,1-5,skip,,,,,PHI,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1049.5688239887897,False
+48,2026-03-26,2,Regular,SJS at STL,1-2,skip,,,,,STL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1049.5688239887897,False
+49,2026-03-26,2,Regular,SEA at TBL,4-3,away,away,SEA,SEA,SEA,SEA,WIN,,,31.62,28.53,29.76,1.86,3.09,236,+236,3.36,2.65,1.32,13.883421425174122,32.76487456341093,1082.3336985522008,True
+50,2026-03-26,2,Regular,WSH at UTA,7-4,skip,home,UTA,,UTA,WSH,SKIP,below_min_edge,Below Min Edge,54.26,52.06,53.49,0.77,2.21,-115,-115,1.869565217391304,0.0,0.0,0.0,0.0,1082.3336985522008,False
+51,2026-03-26,2,Regular,LAK at VAN,4-0,skip,home,VAN,,VAN,LAK,SKIP,market_disagreement,Market Disagreement,44.29,38.17,39.84,4.45,6.12,151,+151,2.51,0.0,0.0,0.0,0.0,1082.3336985522008,False
+52,2026-03-26,2,Regular,EDM at VGK,4-3,away,away,EDM,EDM,EDM,EDM,WIN,,,47.78,43.19,45.25,2.54,4.59,121,+121,2.21,4.63,2.32,25.063659191216036,30.327027621371403,1112.6607261735721,True
+53,2026-03-26,2,Regular,COL at WPG,3-2,skip,,,,,COL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1112.6607261735721,False
+54,2026-03-27,2,Regular,CHI at NYR,1-6,skip,away,CHI,,CHI,NYR,SKIP,market_disagreement,Market Disagreement,44.94,38.83,40.65,4.29,6.11,146,+146,2.46,0.0,0.0,0.0,0.0,1112.6607261735721,False
+55,2026-03-28,2,Regular,SEA at BUF,2-3,skip,away,SEA,,SEA,BUF,SKIP,market_disagreement,Market Disagreement,42.65,37.14,38.91,3.74,5.52,157,+157,2.5700000000000003,0.0,0.0,0.0,0.0,1112.6607261735721,False
+56,2026-03-28,2,Regular,NJD at CAR,2-5,away,away,NJD,NJD,NJD,CAR,LOSS,,,40.76,36.12,37.88,2.88,4.64,164,+164,2.64,4.64,2.32,25.810692301386084,-25.810692301386084,1086.850033872186,True
+57,2026-03-28,2,Regular,SJS at CBJ,3-2,skip,home,CBJ,,CBJ,SJS,SKIP,market_disagreement,Market Disagreement,71.15,63.14,65.87,5.28,8.02,-193,-193,1.5181347150259068,0.0,0.0,0.0,0.0,1086.850033872186,False
+58,2026-03-28,2,Regular,VAN at CGY,3-7,away,away,VAN,VAN,VAN,CGY,LOSS,,,43.99,40.24,42.02,1.97,3.75,138,+138,2.38,3.4,1.7,18.485417201762637,-18.485417201762637,1068.3646166704234,True
+59,2026-03-28,2,Regular,WPG at COL,4-2,away,away,WPG,WPG,WPG,WPG,WIN,,,32.55,29.86,31.15,1.4,2.69,221,+221,3.21,2.03,1.01,10.83950555163569,23.955307269114876,1092.3199239395383,True
+60,2026-03-28,2,Regular,PHI at DET,5-3,skip,away,PHI,,PHI,PHI,SKIP,below_min_edge,Below Min Edge,48.37,45.84,47.85,0.53,2.53,109,+109,2.09,0.0,0.0,0.0,0.0,1092.3199239395383,False
+61,2026-03-28,2,Regular,UTA at LAK,6-2,skip,home,LAK,,LAK,UTA,SKIP,market_disagreement,Market Disagreement,51.32,45.14,46.51,4.81,6.18,115,+115,2.15,0.0,0.0,0.0,0.0,1092.3199239395383,False
+62,2026-03-28,2,Regular,FLA at NYI,2-5,skip,away,FLA,,FLA,NYI,SKIP,market_disagreement,Market Disagreement,48.17,35.71,37.45,10.72,12.46,167,+167,2.67,0.0,0.0,0.0,0.0,1092.3199239395383,False
+63,2026-03-28,2,Regular,TOR at STL,1-5,skip,,,,,STL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1092.3199239395383,False
+64,2026-03-28,2,Regular,OTT at TBL,2-4,skip,away,OTT,,OTT,TBL,SKIP,market_disagreement,Market Disagreement,58.24,44.66,46.51,11.73,13.58,115,+115,2.15,0.0,0.0,0.0,0.0,1092.3199239395383,False
+65,2026-03-28,2,Regular,WSH at VGK,5-4,skip,away,WSH,,WSH,WSH,SKIP,market_disagreement,Market Disagreement,50.95,41.46,43.48,7.47,9.49,130,+130,2.3,0.0,0.0,0.0,0.0,1092.3199239395383,False
+66,2026-03-29,2,Regular,MTL at CAR,3-1,skip,home,CAR,,CAR,MTL,SKIP,below_min_edge,Below Min Edge,64.31,60.53,63.37,0.94,3.78,-173,-173,1.5780346820809248,0.0,0.0,0.0,0.0,1092.3199239395383,False
+67,2026-03-29,2,Regular,BOS at CBJ,4-3,skip,,,,,BOS,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1092.3199239395383,False
+68,2026-03-29,2,Regular,CHI at NJD,3-5,skip,away,CHI,,CHI,NJD,SKIP,market_disagreement,Market Disagreement,45.4,39.98,41.84,3.56,5.43,139,+139,2.39,0.0,0.0,0.0,0.0,1092.3199239395383,False
+69,2026-03-29,2,Regular,FLA at NYR,1-3,away,away,FLA,FLA,FLA,NYR,LOSS,,,42.55,38.22,39.84,2.71,4.34,151,+151,2.51,4.51,2.25,24.630530029641545,-24.630530029641545,1067.6893939098968,True
+70,2026-03-29,2,Regular,DAL at PHI,1-2,skip,,,,,PHI,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1067.6893939098968,False
+71,2026-03-29,2,Regular,NSH at TBL,2-3,away,away,NSH,NSH,NSH,TBL,LOSS,,,42.43,37.89,39.68,2.75,4.54,152,+152,2.52,4.56,2.28,24.322313360630066,-24.322313360630066,1043.3670805492668,True
+72,2026-03-30,2,Regular,TOR at ANA,5-4,skip,,,,,TOR,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1043.3670805492668,False
+73,2026-03-30,2,Regular,CGY at COL,2-9,skip,away,CGY,,CGY,COL,SKIP,market_disagreement,Market Disagreement,35.8,23.15,24.21,11.59,12.65,313,+313,4.13,0.0,0.0,0.0,0.0,1043.3670805492668,False
+74,2026-03-30,2,Regular,PIT at NYI,8-3,skip,,,,,PIT,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1043.3670805492668,False
+75,2026-03-30,2,Regular,STL at SJS,4-5,away,away,STL,STL,STL,SJS,LOSS,,,55.02,50.11,52.61,2.41,4.91,-111,-111,1.900900900900901,5.09,2.54,26.548309668780504,-26.548309668780504,1016.8187708804863,True
+76,2026-03-30,2,Regular,VAN at VGK,2-4,skip,away,VAN,,VAN,VGK,SKIP,market_disagreement,Market Disagreement,31.38,24.73,25.91,5.48,6.65,286,+286,3.86,0.0,0.0,0.0,0.0,1016.8187708804863,False
+77,2026-03-31,2,Regular,NYI at BUF,3-4,skip,,,,,BUF,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1016.8187708804863,False
+78,2026-03-31,2,Regular,CAR at CBJ,5-2,home,home,CBJ,CBJ,CBJ,CAR,LOSS,,,50.45,45.76,47.85,2.6,4.69,109,+109,2.09,4.99,2.5,25.38133505380978,-25.38133505380978,991.4374358266765,True
+79,2026-03-31,2,Regular,WPG at CHI,4-3,skip,home,CHI,,CHI,WPG,SKIP,below_min_edge,Below Min Edge,43.8,41.58,43.48,0.32,2.22,130,+130,2.3,0.0,0.0,0.0,0.0,991.4374358266765,False
+80,2026-03-31,2,Regular,SEA at EDM,0-3,skip,,,,,EDM,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,991.4374358266765,False
+81,2026-03-31,2,Regular,OTT at FLA,3-6,skip,,,,,FLA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,991.4374358266765,False
+82,2026-03-31,2,Regular,NJD at NYR,1-4,skip,home,NYR,,NYR,NYR,SKIP,below_min_edge,Below Min Edge,48.83,46.37,48.54,0.29,2.46,106,+106,2.06,0.0,0.0,0.0,0.0,991.4374358266765,False
+83,2026-03-31,2,Regular,MTL at TBL,4-1,skip,away,MTL,,MTL,MTL,SKIP,market_disagreement,Market Disagreement,47.13,39.18,40.82,6.32,7.96,145,+145,2.45,0.0,0.0,0.0,0.0,991.4374358266765,False
+84,2026-04-01,2,Regular,VAN at COL,8-6,away,away,VAN,VAN,VAN,VAN,WIN,,,25.4,20.94,21.83,3.56,4.45,358,+358,4.58,4.56,2.28,22.58869106337909,80.86751400689715,1072.3049498335736,True
+85,2026-04-01,2,Regular,ANA at SJS,3-4,skip,,,,,SJS,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1072.3049498335736,False
+86,2026-04-02,2,Regular,CBJ at CAR,1-5,skip,,,,,CAR,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1072.3049498335736,False
+87,2026-04-02,2,Regular,WPG at DAL,0-3,skip,away,WPG,,WPG,DAL,SKIP,market_disagreement,Market Disagreement,46.75,41.58,43.48,3.27,5.17,130,+130,2.3,0.0,0.0,0.0,0.0,1072.3049498335736,False
+88,2026-04-02,2,Regular,CHI at EDM,1-3,skip,away,CHI,,CHI,EDM,SKIP,market_disagreement,Market Disagreement,40.58,33.19,34.72,5.86,7.39,188,+188,2.88,0.0,0.0,0.0,0.0,1072.3049498335736,False
+89,2026-04-02,2,Regular,BOS at FLA,1-2,skip,home,FLA,,FLA,FLA,SKIP,below_min_edge,Below Min Edge,41.83,39.98,41.67,0.17,1.85,140,+140,2.4,0.0,0.0,0.0,0.0,1072.3049498335736,False
+90,2026-04-02,2,Regular,VAN at MIN,2-5,skip,away,VAN,,VAN,MIN,SKIP,market_disagreement,Market Disagreement,27.38,21.2,22.12,5.25,6.18,352,+352,4.52,0.0,0.0,0.0,0.0,1072.3049498335736,False
+91,2026-04-02,2,Regular,TOR at SJS,1-4,skip,,,,,SJS,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1072.3049498335736,False
+92,2026-04-02,2,Regular,PIT at TBL,3-6,away,away,PIT,PIT,PIT,TBL,LOSS,,,43.76,40.5,42.19,1.57,3.26,137,+137,2.37,2.71,1.36,14.551836556092656,-14.551836556092656,1057.753113277481,True
+93,2026-04-02,2,Regular,CGY at VGK,3-6,skip,home,VGK,,VGK,VGK,SKIP,below_min_edge,Below Min Edge,71.4,68.16,71.35,0.06,3.25,-249,-249,1.4016064257028114,0.0,0.0,0.0,0.0,1057.753113277481,False
+94,2026-04-03,2,Regular,STL at ANA,6-2,skip,,,,,STL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1057.753113277481,False
+95,2026-04-03,2,Regular,PHI at NYI,4-1,skip,,,,,PHI,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1057.753113277481,False
+96,2026-04-04,2,Regular,CGY at ANA,5-3,skip,,,,,CGY,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1057.753113277481,False
+97,2026-04-04,2,Regular,NYI at CAR,3-4,skip,home,CAR,,CAR,CAR,SKIP,market_disagreement,Market Disagreement,74.27,69.1,72.38,1.9,5.17,-262,-262,1.381679389312977,0.0,0.0,0.0,0.0,1057.753113277481,False
+98,2026-04-04,2,Regular,WPG at CBJ,2-1,skip,,,,,WPG,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1057.753113277481,False
+99,2026-04-04,2,Regular,COL at DAL,2-0,skip,away,COL,,COL,COL,SKIP,below_min_edge,Below Min Edge,55.5,52.39,54.75,0.75,3.11,-121,-121,1.8264462809917357,0.0,0.0,0.0,0.0,1057.753113277481,False
+100,2026-04-04,2,Regular,VGK at EDM,5-1,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1057.753113277481,False
+101,2026-04-04,2,Regular,TOR at LAK,6-7,away,away,TOR,TOR,TOR,LAK,LOSS,,,39.4,35.61,37.17,2.22,3.79,169,+169,2.69,3.54,1.77,18.714799007981483,-18.714799007981483,1039.0383142694993,True
+102,2026-04-04,2,Regular,MTL at NJD,4-3,skip,away,MTL,,MTL,MTL,SKIP,market_disagreement,Market Disagreement,59.04,53.25,55.56,3.49,5.79,-125,-125,1.8,0.0,0.0,0.0,0.0,1039.0383142694993,False
+103,2026-04-04,2,Regular,DET at NYR,1-4,home,home,NYR,NYR,NYR,NYR,WIN,,,46.95,43.26,45.25,1.7,3.69,121,+121,2.21,3.11,1.55,16.15402374278595,19.546368728770997,1058.5846829982704,True
+104,2026-04-04,2,Regular,MIN at OTT,4-1,skip,,,,,MIN,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1058.5846829982704,False
+105,2026-04-04,2,Regular,FLA at PIT,4-9,away,away,FLA,FLA,FLA,PIT,LOSS,,,36.99,32.06,33.56,3.43,4.93,198,+198,2.98,5.17,2.58,27.363024470468872,-27.363024470468872,1031.2216585278015,True
+106,2026-04-04,2,Regular,CHI at SEA,4-2,skip,home,SEA,,SEA,CHI,SKIP,market_disagreement,Market Disagreement,65.89,60.78,63.5,2.39,5.11,-174,-174,1.5747126436781609,0.0,0.0,0.0,0.0,1031.2216585278015,False
+107,2026-04-04,2,Regular,NSH at SJS,6-3,skip,,,,,NSH,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1031.2216585278015,False
+108,2026-04-04,2,Regular,BOS at TBL,1-3,away,away,BOS,BOS,BOS,TBL,LOSS,,,42.2,38.79,40.49,1.71,3.41,147,+147,2.47,2.88,1.44,14.827569285095251,-14.827569285095251,1016.3940892427063,True
+109,2026-04-04,2,Regular,UTA at VAN,7-4,skip,,,,,UTA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1016.3940892427063,False
+110,2026-04-04,2,Regular,BUF at WSH,2-6,skip,away,BUF,,BUF,WSH,SKIP,market_disagreement,Market Disagreement,57.63,51.08,53.49,4.14,6.55,-115,-115,1.869565217391304,0.0,0.0,0.0,0.0,1016.3940892427063,False
+111,2026-04-05,2,Regular,STL at COL,3-2,skip,away,STL,,STL,STL,SKIP,market_disagreement,Market Disagreement,48.21,36.78,38.31,9.9,11.44,161,+161,2.6100000000000003,0.0,0.0,0.0,0.0,1016.3940892427063,False
+112,2026-04-05,2,Regular,MIN at DET,5-4,home,home,DET,DET,DET,MIN,LOSS,,,49.74,44.97,46.95,2.79,4.77,113,+113,2.13,5.26,2.63,26.732089631132496,-26.732089631132496,989.6619996115738,True
+113,2026-04-05,2,Regular,NJD at MTL,3-0,away,away,NJD,NJD,NJD,NJD,WIN,,,47.03,43.19,45.25,1.79,3.84,121,+121,2.21,3.26,1.63,16.135233718045058,19.52363279883452,1009.1856324104084,True
+114,2026-04-05,2,Regular,CAR at OTT,3-6,skip,away,CAR,,CAR,OTT,SKIP,market_disagreement,Market Disagreement,58.98,52.7,55.16,3.83,6.28,-123,-123,1.8130081300813008,0.0,0.0,0.0,0.0,1009.1856324104084,False
+115,2026-04-05,2,Regular,BOS at PHI,1-2,skip,away,BOS,,BOS,PHI,SKIP,market_disagreement,Market Disagreement,48.96,41.04,42.74,6.22,7.91,134,+134,2.34,0.0,0.0,0.0,0.0,1009.1856324104084,False
+116,2026-04-05,2,Regular,FLA at PIT,2-5,skip,,,,,PIT,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1009.1856324104084,False
+117,2026-04-06,2,Regular,TBL at BUF,2-4,skip,away,TBL,,TBL,BUF,SKIP,market_disagreement,Market Disagreement,60.46,51.83,54.34,6.12,8.62,-119,-119,1.8403361344537816,0.0,0.0,0.0,0.0,1009.1856324104084,False
+118,2026-04-06,2,Regular,CHI at SJS,2-3,skip,,,,,SJS,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1009.1856324104084,False
+119,2026-04-06,2,Regular,SEA at WPG,2-6,away,away,SEA,SEA,SEA,WPG,LOSS,,,42.72,39.57,41.32,1.4,3.15,142,+142,2.42,2.39,1.19,12.03792180028354,-12.03792180028354,997.1477106101248,True
+120,2026-04-07,2,Regular,NSH at ANA,5-0,away,away,NSH,NSH,NSH,NSH,WIN,,,45.12,41.75,43.67,1.45,3.37,129,+129,2.29,2.57,1.29,12.838141417247336,16.561202428249064,1013.7089130383739,True
+121,2026-04-07,2,Regular,BOS at CAR,5-6,skip,away,BOS,,BOS,CAR,SKIP,below_min_edge,Below Min Edge,39.83,37.35,39.06,0.76,2.47,156,+156,2.56,0.0,0.0,0.0,0.0,1013.7089130383739,False
+122,2026-04-07,2,Regular,CGY at DAL,3-4,skip,home,DAL,,DAL,DAL,SKIP,below_min_edge,Below Min Edge,72.38,68.99,72.22,0.16,3.39,-260,-260,1.3846153846153846,0.0,0.0,0.0,0.0,1013.7089130383739,False
+123,2026-04-07,2,Regular,SEA at MIN,2-5,skip,,,,,MIN,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1013.7089130383739,False
+124,2026-04-07,2,Regular,FLA at MTL,3-4,skip,,,,,MTL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1013.7089130383739,False
+125,2026-04-07,2,Regular,TBL at OTT,2-6,skip,,,,,OTT,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1013.7089130383739,False
+126,2026-04-07,2,Regular,COL at STL,3-1,skip,,,,,COL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1013.7089130383739,False
+127,2026-04-07,2,Regular,EDM at UTA,5-6,skip,away,EDM,,EDM,UTA,SKIP,market_disagreement,Market Disagreement,54.52,44.55,46.3,8.23,9.98,116,+116,2.16,0.0,0.0,0.0,0.0,1013.7089130383739,False
+128,2026-04-07,2,Regular,VGK at VAN,2-1,home,home,VAN,VAN,VAN,VGK,LOSS,,,34.52,30.81,32.26,2.26,3.71,210,+210,3.1,3.34,1.67,16.91397574287203,-16.91397574287203,996.7949372955019,True
+129,2026-04-08,2,Regular,BUF at NYR,5-3,skip,,,,,BUF,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,996.7949372955019,False
+130,2026-04-08,2,Regular,EDM at SJS,5-2,skip,,,,,EDM,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,996.7949372955019,False
+131,2026-04-08,2,Regular,WSH at TOR,4-0,skip,home,TOR,,TOR,WSH,SKIP,market_disagreement,Market Disagreement,49.35,41.37,43.1,6.24,7.98,132,+132,2.3200000000000003,0.0,0.0,0.0,0.0,996.7949372955019,False
+132,2026-04-09,2,Regular,SJS at ANA,1-6,skip,home,ANA,,ANA,ANA,SKIP,market_disagreement,Market Disagreement,65.7,60.17,62.69,3.02,5.53,-168,-168,1.5952380952380951,0.0,0.0,0.0,0.0,996.7949372955019,False
+133,2026-04-09,2,Regular,CGY at COL,1-3,skip,away,CGY,,CGY,COL,SKIP,market_disagreement,Market Disagreement,34.61,25.81,27.03,7.58,8.8,270,+270,3.7,0.0,0.0,0.0,0.0,996.7949372955019,False
+134,2026-04-09,2,Regular,VAN at LAK,1-4,home,home,LAK,LAK,LAK,LAK,WIN,,,75.79,71.39,74.49,1.3,4.4,-292,-292,1.3424657534246576,5.09,2.55,25.384181519701883,8.693212849212975,1005.4881501447148,True
+135,2026-04-09,2,Regular,TBL at MTL,1-2,away,away,TBL,TBL,TBL,MTL,LOSS,,,56.3,52.17,54.55,1.75,4.12,-120,-120,1.8333333333333333,3.85,1.93,19.362843512345712,-19.362843512345712,986.1253066323691,True
+136,2026-04-09,2,Regular,TOR at NYI,3-5,skip,,,,,NYI,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,986.1253066323691,False
+137,2026-04-09,2,Regular,FLA at OTT,1-5,skip,away,FLA,,FLA,OTT,SKIP,market_disagreement,Market Disagreement,29.12,23.86,24.88,4.25,5.26,302,+302,4.02,0.0,0.0,0.0,0.0,986.1253066323691,False
+138,2026-04-09,2,Regular,VGK at SEA,3-4,skip,,,,,SEA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,986.1253066323691,False
+139,2026-04-09,2,Regular,NSH at UTA,1-4,home,home,UTA,UTA,UTA,UTA,WIN,,,65.89,61.41,63.9,1.99,4.49,-177,-177,1.5649717514124295,5.52,2.76,27.22584463762022,15.381833128598998,1001.5071397609681,True
+140,2026-04-11,2,Regular,TBL at BOS,2-1,skip,,,,,TBL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1001.5071397609681,False
+141,2026-04-11,2,Regular,STL at CHI,5-3,home,home,CHI,CHI,CHI,STL,LOSS,,,46.12,42.42,44.44,1.68,3.7,125,+125,2.25,3.02,1.51,15.103204507366716,-15.103204507366716,986.4039352536014,True
+142,2026-04-11,2,Regular,VGK at COL,3-2,away,away,VGK,VGK,VGK,VGK,WIN,,,49.74,45.17,47.17,2.57,4.57,112,+112,2.12,4.87,2.43,23.99490455594704,26.87429310266069,1013.278228356262,True
+143,2026-04-11,2,Regular,NYR at DAL,0-2,away,away,NYR,NYR,NYR,DAL,LOSS,,,41.81,37.89,39.68,2.12,3.91,152,+152,2.52,3.52,1.76,17.828386246331,-17.828386246331,995.4498421099311,True
+144,2026-04-11,2,Regular,NJD at DET,5-3,skip,,,,,NJD,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,995.4498421099311,False
+145,2026-04-11,2,Regular,EDM at LAK,0-1,skip,away,EDM,,EDM,LAK,SKIP,market_disagreement,Market Disagreement,53.74,47.64,50.0,3.74,6.1,100,+100,2.0,0.0,0.0,0.0,0.0,995.4498421099311,False
+146,2026-04-11,2,Regular,CBJ at MTL,5-2,skip,,,,,CBJ,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,995.4498421099311,False
+147,2026-04-11,2,Regular,WSH at PIT,6-3,skip,home,PIT,,PIT,WSH,SKIP,market_disagreement,Market Disagreement,50.82,42.27,44.05,6.76,8.54,127,+127,2.27,0.0,0.0,0.0,0.0,995.4498421099311,False
+148,2026-04-11,2,Regular,CGY at SEA,1-4,skip,home,SEA,,SEA,SEA,SKIP,below_min_edge,Below Min Edge,57.14,53.87,56.14,1.0,3.27,-128,-128,1.78125,0.0,0.0,0.0,0.0,995.4498421099311,False
+149,2026-04-11,2,Regular,VAN at SJS,4-3,home,home,SJS,SJS,SJS,VAN,LOSS,,,68.63,64.19,66.89,1.74,4.44,-202,-202,1.495049504950495,5.26,2.63,26.157356190948146,-26.157356190948146,969.292485918983,True
+150,2026-04-11,2,Regular,FLA at TOR,6-2,skip,,,,,FLA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,969.292485918983,False
+151,2026-04-11,2,Regular,CAR at UTA,4-1,skip,home,UTA,,UTA,CAR,SKIP,market_disagreement,Market Disagreement,60.32,54.12,56.71,3.61,6.2,-131,-131,1.763358778625954,0.0,0.0,0.0,0.0,969.292485918983,False
+152,2026-04-12,2,Regular,VAN at ANA,4-3,skip,away,VAN,,VAN,VAN,SKIP,market_disagreement,Market Disagreement,38.6,26.54,27.7,10.9,12.07,261,+261,3.61,0.0,0.0,0.0,0.0,969.292485918983,False
+153,2026-04-12,2,Regular,BOS at CBJ,3-2,skip,,,,,BOS,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,969.292485918983,False
+154,2026-04-12,2,Regular,UTA at CGY,1-4,home,home,CGY,CGY,CGY,CGY,WIN,,,43.24,40.08,41.84,1.4,3.16,139,+139,2.39,2.4,1.2,11.649546509876455,16.192869648728273,985.4853555677112,True
+155,2026-04-12,2,Regular,OTT at NJD,3-4,skip,,,,,NJD,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,985.4853555677112,False
+156,2026-04-12,2,Regular,PIT at WSH,0-3,skip,away,PIT,,PIT,WSH,SKIP,market_disagreement,Market Disagreement,51.92,43.08,45.05,6.87,8.84,122,+122,2.22,0.0,0.0,0.0,0.0,985.4853555677112,False
+157,2026-04-13,2,Regular,BUF at CHI,5-1,skip,,,,,BUF,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,985.4853555677112,False
+158,2026-04-13,2,Regular,COL at EDM,2-1,skip,away,COL,,COL,COL,SKIP,market_disagreement,Market Disagreement,61.12,53.13,55.56,5.56,7.99,-125,-125,1.8,0.0,0.0,0.0,0.0,985.4853555677112,False
+159,2026-04-13,2,Regular,NYR at FLA,2-3,home,home,FLA,FLA,FLA,FLA,WIN,,,44.38,41.19,43.1,1.28,3.19,132,+132,2.3200000000000003,2.24,1.12,11.053787970528992,14.591000121098272,1000.0763556888095,True
+160,2026-04-13,2,Regular,SJS at NSH,3-2,skip,away,SJS,,SJS,SJS,SKIP,below_min_edge,Below Min Edge,44.64,42.08,44.05,0.58,2.55,127,+127,2.27,0.0,0.0,0.0,0.0,1000.0763556888095,False
+161,2026-04-13,2,Regular,CAR at PHI,2-3,skip,away,CAR,,CAR,PHI,SKIP,below_min_edge,Below Min Edge,42.47,40.24,42.02,0.45,2.23,138,+138,2.38,0.0,0.0,0.0,0.0,1000.0763556888095,False
+162,2026-04-13,2,Regular,LAK at SEA,5-3,skip,home,SEA,,SEA,LAK,SKIP,market_disagreement,Market Disagreement,45.98,38.83,40.49,5.49,7.15,147,+147,2.47,0.0,0.0,0.0,0.0,1000.0763556888095,False
+163,2026-04-13,2,Regular,MIN at STL,3-6,skip,away,MIN,,MIN,STL,SKIP,below_min_edge,Below Min Edge,39.68,37.62,39.37,0.31,2.06,154,+154,2.54,0.0,0.0,0.0,0.0,1000.0763556888095,False
+164,2026-04-13,2,Regular,DET at TBL,3-4,away,away,DET,DET,DET,TBL,LOSS,,,39.01,36.14,37.74,1.27,2.86,165,+165,2.65,2.04,1.02,10.214767018396662,-10.214767018396662,989.8615886704129,True
+165,2026-04-13,2,Regular,DAL at TOR,6-5,home,home,TOR,TOR,TOR,DAL,LOSS,,,39.55,36.48,38.02,1.53,3.07,163,+163,2.63,2.46,1.23,12.188138236787333,-12.188138236787333,977.6734504336255,True
+166,2026-04-13,2,Regular,WPG at VGK,2-6,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,977.6734504336255,False
+167,2026-04-14,2,Regular,NJD at BOS,0-4,skip,,,,,BOS,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,977.6734504336255,False
+168,2026-04-14,2,Regular,WSH at CBJ,2-1,skip,away,WSH,,WSH,WSH,SKIP,market_disagreement,Market Disagreement,51.43,42.04,43.86,7.57,9.39,128,+128,2.28,0.0,0.0,0.0,0.0,977.6734504336255,False
+169,2026-04-14,2,Regular,ANA at MIN,2-3,skip,home,MIN,,MIN,MIN,SKIP,market_disagreement,Market Disagreement,44.5,39.22,40.98,3.51,5.27,144,+144,2.44,0.0,0.0,0.0,0.0,977.6734504336255,False
+170,2026-04-14,2,Regular,CAR at NYI,2-1,skip,,,,,CAR,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,977.6734504336255,False
+171,2026-04-14,2,Regular,MTL at PHI,2-4,home,home,PHI,PHI,PHI,PHI,WIN,,,31.75,28.19,29.41,2.34,3.57,240,+240,3.4,3.32,1.66,16.21704157665793,38.92089978397903,1016.5943502176045,True
+172,2026-04-14,2,Regular,PIT at STL,5-7,skip,away,PIT,,PIT,STL,SKIP,market_disagreement,Market Disagreement,41.22,34.22,35.71,5.51,7.0,180,+180,2.8,0.0,0.0,0.0,0.0,1016.5943502176045,False
+173,2026-04-14,2,Regular,WPG at UTA,3-5,skip,,,,,UTA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1016.5943502176045,False
+174,2026-04-14,2,Regular,LAK at VAN,3-4,skip,,,,,VAN,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1016.5943502176045,False
+175,2026-04-15,2,Regular,DAL at BUF,4-3,skip,home,BUF,,BUF,DAL,SKIP,market_disagreement,Market Disagreement,51.75,42.84,44.84,6.91,8.91,123,+123,2.23,0.0,0.0,0.0,0.0,1016.5943502176045,False
+176,2026-04-15,2,Regular,SJS at CHI,2-5,skip,home,CHI,,CHI,CHI,SKIP,below_min_edge,Below Min Edge,49.96,47.0,49.26,0.7,2.96,103,+103,2.03,0.0,0.0,0.0,0.0,1016.5943502176045,False
+177,2026-04-15,2,Regular,DET at FLA,1-8,skip,home,FLA,,FLA,FLA,SKIP,market_disagreement,Market Disagreement,48.04,39.93,41.67,6.38,8.12,140,+140,2.4,0.0,0.0,0.0,0.0,1016.5943502176045,False
+178,2026-04-15,2,Regular,TOR at OTT,1-3,skip,away,TOR,,TOR,OTT,SKIP,market_disagreement,Market Disagreement,47.4,35.9,37.45,9.94,11.5,167,+167,2.67,0.0,0.0,0.0,0.0,1016.5943502176045,False
+179,2026-04-15,2,Regular,NYR at TBL,4-2,away,away,NYR,NYR,NYR,NYR,WIN,,,45.88,42.27,44.05,1.83,3.61,127,+127,2.27,3.27,1.64,16.626965552498934,21.116246251673648,1037.7105964692782,True
+180,2026-04-15,2,Regular,SEA at VGK,1-4,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1037.7105964692782,False
+181,2026-04-16,2,Regular,LAK at CGY,1-3,home,home,CGY,CGY,CGY,CGY,WIN,,,44.39,39.42,41.15,3.24,4.97,143,+143,2.43,5.5,2.75,28.531177331405488,40.79958358390985,1078.5101800531882,True
+182,2026-04-16,2,Regular,SEA at COL,0-2,skip,,,,,COL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1078.5101800531882,False
+183,2026-04-16,2,Regular,VAN at EDM,1-6,skip,,,,,EDM,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1078.5101800531882,False
+184,2026-04-16,2,Regular,SJS at WPG,6-1,skip,,,,,SJS,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1078.5101800531882,False
+185,2026-04-18,3,Playoffs,OTT at CAR,0-2,skip,away,OTT,,OTT,CAR,SKIP,market_disagreement,Market Disagreement,51.48,43.01,45.05,6.44,8.47,122,+122,2.22,0.0,0.0,0.0,0.0,1078.5101800531882,False
+186,2026-04-18,3,Playoffs,PHI at PIT,3-2,away,away,PHI,PHI,PHI,PHI,WIN,,,47.05,43.15,45.05,2.01,3.91,122,+122,2.22,3.66,1.83,19.719461279911016,24.057742761491443,1102.5679228146796,True
+187,2026-04-19,3,Playoffs,BOS at BUF,3-4,skip,,,,,BUF,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1102.5679228146796,False
+188,2026-04-19,3,Playoffs,LAK at COL,1-2,skip,home,COL,,COL,COL,SKIP,below_min_edge,Below Min Edge,75.28,71.39,74.49,0.79,3.89,-292,-292,1.3424657534246576,0.0,0.0,0.0,0.0,1102.5679228146796,False
+189,2026-04-19,3,Playoffs,MTL at TBL,4-3,skip,,,,,MTL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1102.5679228146796,False
+190,2026-04-19,3,Playoffs,UTA at VGK,2-4,home,home,VGK,VGK,VGK,VGK,WIN,,,63.44,59.29,61.98,1.46,4.15,-163,-163,1.6134969325153374,3.85,1.92,21.214411462707368,13.014976357489182,1115.5828991721687,True
+191,2026-04-20,3,Playoffs,OTT at CAR,2-3,skip,away,OTT,,OTT,CAR,SKIP,market_disagreement,Market Disagreement,49.55,41.76,43.48,6.08,7.79,130,+130,2.3,0.0,0.0,0.0,0.0,1115.5828991721687,False
+192,2026-04-20,3,Playoffs,MIN at DAL,2-4,skip,,,,,DAL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1115.5828991721687,False
+193,2026-04-20,3,Playoffs,ANA at EDM,3-4,skip,,,,,EDM,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1115.5828991721687,False
+194,2026-04-20,3,Playoffs,PHI at PIT,3-0,away,away,PHI,PHI,PHI,PHI,WIN,,,46.94,42.08,44.05,2.88,4.85,127,+127,2.27,5.15,2.58,28.753226479017762,36.51659762835256,1152.0994968005214,True
+195,2026-04-21,3,Playoffs,BOS at BUF,4-2,away,away,BOS,BOS,BOS,BOS,WIN,,,44.91,40.04,41.67,3.24,4.87,140,+140,2.4,5.56,2.78,32.02899426827751,44.84059197558851,1196.9400887761099,True
+196,2026-04-21,3,Playoffs,LAK at COL,1-2,home,home,COL,COL,COL,COL,WIN,,,74.97,70.61,73.68,1.29,4.37,-280,-280,1.3571428571428572,4.89,2.45,29.28912490751645,10.460401752684447,1207.4004905287943,True
+197,2026-04-21,3,Playoffs,MTL at TBL,2-3,skip,,,,,TBL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1207.4004905287943,False
+198,2026-04-21,3,Playoffs,UTA at VGK,3-2,skip,,,,,UTA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1207.4004905287943,False
+199,2026-04-22,3,Playoffs,ANA at EDM,6-4,skip,,,,,ANA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1207.4004905287943,False
+200,2026-04-22,3,Playoffs,DAL at MIN,4-3,skip,,,,,DAL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1207.4004905287943,False
+201,2026-04-23,3,Playoffs,BUF at BOS,3-1,skip,,,,,BUF,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1207.4004905287943,False
+202,2026-04-23,3,Playoffs,COL at LAK,4-2,away,away,COL,COL,COL,COL,WIN,,,67.39,62.75,64.79,2.6,4.64,-184,-184,1.5434782608695652,7.39,3.69,44.59489336632882,24.236355090396096,1231.6368456191904,True
+203,2026-04-23,3,Playoffs,CAR at OTT,2-1,skip,,,,,CAR,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1231.6368456191904,False
+204,2026-04-24,3,Playoffs,TBL at MTL,2-3,skip,away,TBL,,TBL,MTL,SKIP,market_disagreement,Market Disagreement,59.46,51.83,54.34,5.12,7.62,-119,-119,1.8403361344537816,0.0,0.0,0.0,0.0,1231.6368456191904,False
+205,2026-04-24,3,Playoffs,VGK at UTA,2-4,skip,,,,,UTA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1231.6368456191904,False
+206,2026-04-25,3,Playoffs,DAL at MIN,2-3,away,away,DAL,DAL,DAL,MIN,LOSS,,,50.42,45.96,48.08,2.34,4.46,108,+108,2.08,4.51,2.26,27.798745143257147,-27.798745143257147,1203.8381004759333,True
+207,2026-04-25,3,Playoffs,CAR at OTT,4-2,skip,,,,,CAR,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1203.8381004759333,False
+208,2026-04-25,3,Playoffs,PIT at PHI,4-2,away,away,PIT,PIT,PIT,PIT,WIN,,,50.41,46.63,48.54,1.87,3.78,106,+106,2.06,3.63,1.82,21.867941915178108,23.180018430088793,1227.018118906022,True
+209,2026-04-26,3,Playoffs,BUF at BOS,6-1,skip,away,BUF,,BUF,BUF,SKIP,below_min_edge,Below Min Edge,50.0,47.83,50.0,0.0,2.18,-100,-100,2.0,0.0,0.0,0.0,0.0,1227.018118906022,False
+210,2026-04-26,3,Playoffs,COL at LAK,5-1,skip,away,COL,,COL,COL,SKIP,market_disagreement,Market Disagreement,67.23,61.88,64.41,2.82,5.35,-181,-181,1.5524861878453038,0.0,0.0,0.0,0.0,1227.018118906022,False
+211,2026-04-26,3,Playoffs,TBL at MTL,3-2,skip,,,,,TBL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1227.018118906022,False
+212,2026-04-27,3,Playoffs,PHI at PIT,2-3,away,away,PHI,PHI,PHI,PIT,LOSS,,,49.34,45.73,47.62,1.72,3.62,110,+110,2.1,3.29,1.65,20.19331134213863,-20.19331134213863,1206.8248075638833,True
+213,2026-04-27,3,Playoffs,VGK at UTA,5-4,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1206.8248075638833,False
+214,2026-04-28,3,Playoffs,BOS at BUF,2-1,skip,away,BOS,,BOS,BOS,SKIP,market_disagreement,Market Disagreement,48.96,39.62,41.32,7.64,9.34,142,+142,2.42,0.0,0.0,0.0,0.0,1206.8248075638833,False
+215,2026-04-28,3,Playoffs,MIN at DAL,4-2,skip,home,DAL,,DAL,MIN,SKIP,below_min_edge,Below Min Edge,52.22,49.88,51.22,1.0,2.33,-105,-105,1.9523809523809523,0.0,0.0,0.0,0.0,1206.8248075638833,False
+216,2026-04-28,3,Playoffs,ANA at EDM,1-4,skip,away,ANA,,ANA,EDM,SKIP,market_disagreement,Market Disagreement,48.79,41.15,42.92,5.87,7.64,133,+133,2.33,0.0,0.0,0.0,0.0,1206.8248075638833,False
+217,2026-04-29,3,Playoffs,PIT at PHI,0-1,skip,away,PIT,,PIT,PHI,SKIP,market_disagreement,Market Disagreement,56.1,47.64,50.0,6.1,8.46,100,+100,2.0,0.0,0.0,0.0,0.0,1206.8248075638833,False
+218,2026-04-29,3,Playoffs,MTL at TBL,3-2,away,away,MTL,MTL,MTL,MTL,WIN,,,47.99,44.41,45.45,2.53,3.58,120,+120,2.2,4.64,2.32,28.009674561615444,33.611609473938536,1240.436417037822,True
+219,2026-04-29,3,Playoffs,UTA at VGK,4-5,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1240.436417037822,False
+220,2026-04-30,3,Playoffs,DAL at MIN,2-5,skip,,,,,MIN,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1240.436417037822,False
+221,2026-05-01,3,Playoffs,TBL at MTL,1-0,away,away,TBL,TBL,TBL,TBL,WIN,,,56.6,51.74,54.13,2.48,4.87,-118,-118,1.847457627118644,5.4,2.7,33.46637558581294,28.361335242214356,1268.7977522800363,True
+222,2026-05-01,3,Playoffs,VGK at UTA,5-1,skip,away,VGK,,VGK,VGK,SKIP,below_min_edge,Below Min Edge,54.17,51.86,54.13,0.05,2.32,-118,-118,1.847457627118644,0.0,0.0,0.0,0.0,1268.7977522800363,False
+223,2026-05-02,3,Playoffs,PHI at CAR,0-3,skip,home,CAR,,CAR,CAR,SKIP,market_disagreement,Market Disagreement,75.33,68.8,71.83,3.5,6.53,-255,-255,1.392156862745098,0.0,0.0,0.0,0.0,1268.7977522800363,False
+224,2026-05-03,3,Playoffs,MIN at COL,6-9,home,home,COL,COL,COL,COL,WIN,,,68.57,64.27,67.11,1.47,4.31,-204,-204,1.4901960784313726,4.46,2.23,28.314493896401185,13.879653870784896,1282.6774061508213,True
+225,2026-05-03,3,Playoffs,MTL at TBL,2-1,skip,,,,,MTL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1282.6774061508213,False
+226,2026-05-04,3,Playoffs,PHI at CAR,2-3,home,home,CAR,CAR,CAR,CAR,WIN,,,74.55,70.48,73.47,1.08,4.07,-277,-277,1.3610108303249098,4.07,2.03,26.095773185990893,9.420856745845088,1292.0982628966665,True
+227,2026-05-04,3,Playoffs,ANA at VGK,1-3,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1292.0982628966665,False
+228,2026-05-05,3,Playoffs,MIN at COL,2-5,home,home,COL,COL,COL,COL,WIN,,,68.41,64.07,66.78,1.63,4.34,-201,-201,1.4975124378109452,4.91,2.46,31.727802110855745,15.784976174555096,1307.8832390712216,True
+229,2026-05-06,3,Playoffs,MTL at BUF,2-4,away,away,MTL,MTL,MTL,BUF,LOSS,,,48.69,44.02,45.87,2.82,4.67,118,+118,2.18,5.21,2.61,34.085737280152664,-34.085737280152664,1273.797501791069,True
+230,2026-05-06,3,Playoffs,ANA at VGK,3-1,away,away,ANA,ANA,ANA,ANA,WIN,,,46.2,41.64,43.48,2.73,4.56,130,+130,2.3,4.82,2.41,30.720469502682356,39.936610353487055,1313.734112144556,True
+231,2026-05-07,3,Playoffs,CAR at PHI,4-1,skip,home,PHI,,PHI,CAR,SKIP,market_disagreement,Market Disagreement,48.37,39.83,41.49,6.87,8.54,141,+141,2.41,0.0,0.0,0.0,0.0,1313.734112144556,False
+232,2026-05-09,3,Playoffs,COL at MIN,1-5,skip,away,COL,,COL,MIN,SKIP,below_min_edge,Below Min Edge,57.54,54.32,56.9,0.65,3.22,-132,-132,1.7575757575757576,0.0,0.0,0.0,0.0,1313.734112144556,False
+233,2026-05-09,3,Playoffs,CAR at PHI,3-2,skip,home,PHI,,PHI,CAR,SKIP,below_min_edge,Below Min Edge,37.64,35.94,37.59,0.05,1.7,166,+166,2.66,0.0,0.0,0.0,0.0,1313.734112144556,False
+234,2026-05-10,3,Playoffs,VGK at ANA,3-4,skip,,,,,ANA,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1313.734112144556,False
+235,2026-05-11,3,Playoffs,COL at MIN,5-2,skip,,,,,COL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1313.734112144556,False
+236,2026-05-12,3,Playoffs,BUF at MTL,3-2,away,away,BUF,BUF,BUF,BUF,WIN,,,45.5,42.55,44.44,1.06,2.95,125,+125,2.25,1.91,0.95,12.522285555898108,15.652856944872635,1329.3869690894287,True
+237,2026-05-12,3,Playoffs,ANA at VGK,2-3,skip,away,ANA,,ANA,VGK,SKIP,below_min_edge,Below Min Edge,42.43,39.72,41.49,0.94,2.71,141,+141,2.41,0.0,0.0,0.0,0.0,1329.3869690894287,False
+238,2026-05-13,3,Playoffs,MIN at COL,3-4,skip,,,,,COL,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1329.3869690894287,False
+239,2026-05-14,3,Playoffs,VGK at ANA,5-1,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1329.3869690894287,False
+240,2026-05-16,3,Playoffs,BUF at MTL,8-3,away,away,BUF,BUF,BUF,BUF,WIN,,,42.73,39.13,40.82,1.91,3.6,145,+145,2.45,3.23,1.61,21.459357280550684,31.116068056798497,1360.5030371462271,True
+241,2026-05-20,3,Playoffs,VGK at COL,4-2,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1360.5030371462271,False
+242,2026-05-21,3,Playoffs,MTL at CAR,6-2,skip,home,CAR,,CAR,MTL,SKIP,market_disagreement,Market Disagreement,72.74,65.04,68.15,4.58,7.69,-214,-214,1.4672897196261685,0.0,0.0,0.0,0.0,1360.5030371462271,False
+243,2026-05-22,3,Playoffs,VGK at COL,3-1,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1360.5030371462271,False
+244,2026-05-23,3,Playoffs,MTL at CAR,2-3,home,home,CAR,CAR,CAR,CAR,WIN,,,68.88,64.99,67.74,1.14,3.89,-210,-210,1.4761904761904765,3.53,1.76,24.007236268724125,11.432017270821019,1371.9350544170481,True
+245,2026-05-24,3,Playoffs,COL at VGK,3-5,skip,away,COL,,COL,VGK,SKIP,below_min_edge,Below Min Edge,61.59,58.09,60.78,0.81,3.51,-155,-155,1.6451612903225803,0.0,0.0,0.0,0.0,1371.9350544170481,False
+246,2026-05-25,3,Playoffs,CAR at MTL,3-2,skip,,,,,CAR,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1371.9350544170481,False
+247,2026-05-26,3,Playoffs,COL at VGK,1-2,skip,,,,,VGK,SKIP,no_positive_kelly,No Positive Kelly,,,,,,,,,0.0,0.0,0.0,0.0,1371.9350544170481,False
+248,2026-05-27,3,Playoffs,CAR at MTL,4-0,away,away,CAR,CAR,CAR,CAR,WIN,,,62.54,57.79,60.32,2.22,4.75,-152,-152,1.6578947368421053,5.61,2.8,38.453696433616614,25.298484495800405,1397.2335389128486,True
+249,2026-05-29,3,Playoffs,MTL at CAR,1-6,skip,home,CAR,,CAR,CAR,SKIP,market_disagreement,Market Disagreement,74.41,69.08,72.3,2.11,5.33,-261,-261,1.3831417624521074,0.0,0.0,0.0,0.0,1397.2335389128486,False
+250,2026-06-02,3,Playoffs,VGK at CAR,5-4,skip,away,VGK,,VGK,VGK,SKIP,market_disagreement,Market Disagreement,51.62,41.7,43.48,8.14,9.92,130,+130,2.3,0.0,0.0,0.0,0.0,1397.2335389128486,False

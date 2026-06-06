@@ -1,0 +1,30 @@
+{
+  "created_at": "2026-06-04T22:49:31+00:00",
+  "run_id": "latest",
+  "label": "Latest NHL model default Kelly",
+  "prediction_source": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_moneyline_walk_forward_predictions_latest.csv",
+  "settings": {
+    "starting_bankroll": 1000.0,
+    "kelly_multiplier": 1.0,
+    "max_bet_fraction": 0.1,
+    "prediction_rows": 250
+  },
+  "kelly": {
+    "starting_bankroll": 1000.0,
+    "ending_bankroll": 153.0325420726701,
+    "profit": -846.9674579273296,
+    "roi_on_starting_bankroll": -0.8469674579273296,
+    "bets_placed": 177,
+    "games_evaluated": 250,
+    "win_rate": 0.423728813559322,
+    "total_staked": 5203.856235381576,
+    "roi_on_staked": -0.16275765886242344,
+    "kelly_multiplier": 1.0,
+    "max_bet_fraction": 0.1,
+    "max_drawdown": 0.904182958835068
+  },
+  "artifact_paths": {
+    "bets": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_bets_latest.csv",
+    "summary": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_summary_latest.json"
+  }
+}

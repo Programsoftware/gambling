@@ -1,0 +1,71 @@
+{
+  "run_id": "20260604T161337Z_transformer_edge_single_202604",
+  "label": "Transformer rerun 2026-06-04 2026-04 standalone month",
+  "parent_run_id": "20260604T161337Z_transformer_edge_single",
+  "source_predictions": "data/nba/backtests/transformer/nba_transformer_backtest_predictions_20260604T161337Z_transformer_edge_single.csv",
+  "selected_date_range": {
+    "start": "2026-04-13",
+    "end": "2026-04-30"
+  },
+  "selected_games": 41,
+  "settings": {
+    "starting_bankroll": 2000.0,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0.0,
+    "max_market_disagreement": 0.25
+  },
+  "kelly": {
+    "starting_bankroll": 2000.0,
+    "ending_bankroll": 2240.364610953479,
+    "profit": 240.36461095347877,
+    "roi_on_starting_bankroll": 0.12018230547673939,
+    "bets_placed": 34,
+    "games_evaluated": 41,
+    "win_rate": 0.38235294117647056,
+    "total_staked": 2935.0738911285985,
+    "roi_on_staked": 0.08189388746906588,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0.0,
+    "max_market_disagreement": 0.25,
+    "max_drawdown": 0.24999587602972595
+  },
+  "bet_only_metrics": {
+    "bets": 34,
+    "win_rate": 0.38235294117647056,
+    "avg_model_prob": 0.4256936285425635,
+    "avg_market_prob": 0.2992670898992979,
+    "avg_break_even_prob": 0.31214882039502856,
+    "avg_model_edge_vs_break_even": 0.11354480814753487,
+    "avg_model_edge_vs_market": 0.12642653864326556,
+    "model_brier_on_bets": 0.2355690236295546,
+    "market_brier_on_bets": 0.22941976904424335,
+    "model_log_loss_on_bets": 0.6642933641704301,
+    "market_log_loss_on_bets": 0.6520730281275888,
+    "by_side": {
+      "away": {
+        "bets": 23,
+        "win_rate": 0.34782608695652173,
+        "avg_model_prob": 0.3968835343485293,
+        "avg_market_prob": 0.27288757688405224,
+        "avg_break_even_prob": 0.28458547312160276,
+        "profit": 438.0237687529792,
+        "roi_on_staked": 0.25145738250683347
+      },
+      "home": {
+        "bets": 11,
+        "win_rate": 0.45454545454545453,
+        "avg_model_prob": 0.4859329164028168,
+        "avg_market_prob": 0.35442425347662987,
+        "avg_break_even_prob": 0.36978127378491904,
+        "profit": -197.6591577995003,
+        "roi_on_staked": -0.16566390614593013
+      }
+    }
+  },
+  "skip_reason_counts": {
+    "market_disagreement": 1,
+    "no_positive_kelly": 6
+  }
+}

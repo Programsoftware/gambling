@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-06-04T23:05:10+00:00",
+  "run_id": "away_high_edge",
+  "label": "NHL away high-edge strategy",
+  "prediction_source": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_moneyline_walk_forward_predictions_latest.csv",
+  "settings": {
+    "starting_bankroll": 1000.0,
+    "kelly_multiplier": 0.5,
+    "max_bet_fraction": 0.05,
+    "market_blend": 0.0,
+    "min_edge": 0.06,
+    "min_model_prob": 0.5,
+    "max_market_disagreement": null,
+    "side_filter": "away",
+    "prediction_rows": 250
+  },
+  "kelly": {
+    "starting_bankroll": 1000.0,
+    "ending_bankroll": 1427.0888428388698,
+    "profit": 427.0888428388697,
+    "roi_on_starting_bankroll": 0.4270888428388697,
+    "bets_placed": 23,
+    "games_evaluated": 250,
+    "win_rate": 0.6086956521739131,
+    "total_staked": 1287.47480955173,
+    "roi_on_staked": 0.33172597993398606,
+    "kelly_multiplier": 0.5,
+    "max_bet_fraction": 0.05,
+    "min_edge": 0.06,
+    "max_market_disagreement": null,
+    "market_blend": 0.0,
+    "min_model_prob": 0.5,
+    "side_filter": "away",
+    "max_drawdown": 0.09750000000000006
+  },
+  "artifact_paths": {
+    "bets": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_bets_away_high_edge.csv",
+    "summary": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_summary_away_high_edge.json"
+  }
+}

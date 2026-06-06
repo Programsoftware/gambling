@@ -1,0 +1,44 @@
+{
+  "starting_bankroll": 1000.0,
+  "ending_bankroll": 1253.8019870545097,
+  "profit": 253.80198705450985,
+  "roi_on_starting_bankroll": 0.25380198705450985,
+  "bets_placed": 48,
+  "games_evaluated": 250,
+  "win_rate": 0.6041666666666666,
+  "total_staked": 2497.5541002050863,
+  "roi_on_staked": 0.10162021596796199,
+  "kelly_multiplier": 0.5,
+  "max_bet_fraction": 0.05,
+  "min_edge": 0.03,
+  "max_market_disagreement": null,
+  "market_blend": 0.1,
+  "min_model_prob": 0.48,
+  "side_filter": "all",
+  "max_drawdown": 0.22339972291881743,
+  "historical_odds_rows": 4478,
+  "feature_rows": 4478,
+  "prediction_rows": 250,
+  "seasons": [
+    20222023,
+    20232024,
+    20242025,
+    20252026
+  ],
+  "bootstrap": {
+    "trials": 1000,
+    "sampled_games_per_trial": 48,
+    "mean_final_bankroll": 1319.8197716102613,
+    "median_final_bankroll": 1257.8433242444435,
+    "p05_final_bankroll": 762.6857611594378,
+    "p95_final_bankroll": 2079.601121977638,
+    "probability_profit": 0.767
+  },
+  "created_at": "2026-06-06T01:24:54",
+  "notes": [
+    "Odds are parsed from public StatMuse team moneyline tables.",
+    "Rolling features are calculated only from NHL games before each target game date.",
+    "Walk-forward training excludes games on the same date as the target game.",
+    "Kelly is applied to the model's best positive-EV side and capped by max_bet_fraction."
+  ]
+}

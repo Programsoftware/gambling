@@ -1,0 +1,75 @@
+{
+  "created_at": "2026-06-04T20:06:00+00:00",
+  "run_id": "20260604T200422Z_transformer_edge_expanding_202603",
+  "label": "Daily retrain 2026-03 standalone month",
+  "parent_run_id": "20260604T200422Z_transformer_edge_expanding",
+  "fit_mode": "expanding",
+  "model_type": "transformer",
+  "feature_mode": "edge",
+  "feature_select": "grouped",
+  "settings": {
+    "games": 100,
+    "bankroll": 2000.0,
+    "min_train": 1500,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0.0,
+    "max_market_disagreement": 0.25,
+    "market_blend": 0.0,
+    "fit_mode": "expanding",
+    "feature_mode": "edge",
+    "feature_select": "grouped",
+    "max_features": 320,
+    "model_type": "transformer",
+    "start_date": null,
+    "end_date": null,
+    "seed": 42
+  },
+  "selected_games": 19,
+  "selected_date_range": {
+    "start": "2026-03-29",
+    "end": "2026-03-31"
+  },
+  "model_metrics": {
+    "rows": 19,
+    "home_win_rate": 0.631578947368421,
+    "avg_probability": 0.518775263899251,
+    "brier": 0.2220436627260709,
+    "log_loss": 0.6349591631399246,
+    "accuracy_0_50": 0.5789473684210527,
+    "always_home_accuracy": 0.631578947368421,
+    "auc": 0.7023809523809523
+  },
+  "market_metrics": {
+    "rows": 19,
+    "home_win_rate": 0.631578947368421,
+    "avg_probability": 0.5021271366561869,
+    "brier": 0.12602026564112043,
+    "log_loss": 0.3985895416006438,
+    "accuracy_0_50": 0.8421052631578947,
+    "always_home_accuracy": 0.631578947368421,
+    "auc": 0.9226190476190477
+  },
+  "kelly": {
+    "starting_bankroll": 2000.0,
+    "ending_bankroll": 1675.4826436750338,
+    "profit": -324.5173563249661,
+    "roi_on_starting_bankroll": -0.16225867816248304,
+    "bets_placed": 11,
+    "games_evaluated": 19,
+    "win_rate": 0.2727272727272727,
+    "total_staked": 1115.1157990328181,
+    "roi_on_staked": -0.2910167326177534,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0.0,
+    "max_market_disagreement": 0.25,
+    "max_drawdown": 0.2802224850260333
+  },
+  "artifact_paths": {
+    "archived_predictions": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_backtest_predictions_20260604T200422Z_transformer_edge_expanding_202603.csv",
+    "archived_bets": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_backtest_bets_20260604T200422Z_transformer_edge_expanding_202603.csv",
+    "archived_bet_history": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_bet_history_clean_20260604T200422Z_transformer_edge_expanding_202603.csv",
+    "archived_summary": "C:\\Users\\LouisWei\\vegas\\data\\nba\\backtests\\transformer\\nba_transformer_backtest_summary_20260604T200422Z_transformer_edge_expanding_202603.json"
+  }
+}

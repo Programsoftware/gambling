@@ -25,9 +25,13 @@ from kelly_moneyline_backtest import (
     parse_seasons,
     simulate_kelly,
 )
+from nhl_predict_tonight import append_recent_snapshot_games, load_historical_odds, moneyline_consensus
 
 
 TRANSFORMER_DIR = OUT_DIR / "transformer"
+DATA_ROOT = OUT_DIR.parent
+LATEST_DIR = DATA_ROOT / "latest"
+PREDICTION_DIR = DATA_ROOT / "predictions"
 
 
 def set_seed(seed: int) -> None:
@@ -214,6 +218,152 @@ def predict_with_model(model: FeatureTransformer, train_df: pd.DataFrame, test_d
     return np.clip(probs, 0.02, 0.98)
 
 
+def scaler_payload(train_df: pd.DataFrame) -> dict[str, Any]:
+    train_x = numeric_matrix(train_df)
+    med = np.nanmedian(train_x, axis=0)
+    med = np.where(np.isfinite(med), med, 0.0)
+    train = np.where(np.isfinite(train_x), train_x, med)
+    mean = train.mean(axis=0)
+    std = train.std(axis=0)
+    std = np.where(std > 1e-6, std, 1.0)
+    return {
+        "median": med.tolist(),
+        "mean": mean.tolist(),
+        "std": std.tolist(),
+    }
+
+
+def train_current_transformer_prediction(
+    features: pd.DataFrame,
+    schedule: pd.DataFrame,
+    args: argparse.Namespace,
+) -> dict[str, Any]:
+    if not args.target_date:
+        return {}
+
+    current_path = LATEST_DIR / "current_game.csv"
+    odds_path = LATEST_DIR / "odds_market_snapshot.csv"
+    if not current_path.exists() or not odds_path.exists():
+        raise RuntimeError("Run collect_nhl_data.py first so data/latest has current_game and odds_market_snapshot.")
+
+    current = pd.read_csv(current_path).iloc[0].to_dict()
+    current_date = str(current.get("game_date") or "")
+    if current_date != args.target_date:
+        raise RuntimeError(f"Latest current_game is {current_date}, expected {args.target_date}.")
+
+    away_team = str(current.get("away_team") or "").upper()
+    home_team = str(current.get("home_team") or "").upper()
+    expected_teams = {item.strip().upper() for item in args.teams.split(",") if item.strip()}
+    if expected_teams and {away_team, home_team} != expected_teams:
+        raise RuntimeError(f"Latest current_game teams are {away_team},{home_team}, expected {sorted(expected_teams)}.")
+
+    train_df = features[(features["game_date"].astype(str) < args.target_date) & features["home_win"].notna()].copy()
+    if len(train_df) < args.min_train:
+        raise RuntimeError(f"Only {len(train_df)} current-prediction training rows; need {args.min_train}.")
+
+    odds_snapshot = pd.read_csv(odds_path)
+    prices = moneyline_consensus(odds_snapshot, away_team=away_team, home_team=home_team)
+    current_row = {
+        "game_date": args.target_date,
+        "home_team": home_team,
+        "away_team": away_team,
+        "home_odds": prices["home_odds"],
+        "away_odds": prices["away_odds"],
+        "home_score": np.nan,
+        "away_score": np.nan,
+        "home_win": np.nan,
+        "season": int(current.get("season") or 20252026),
+        "source_query": "data/latest/odds_market_snapshot.csv",
+        "source": "current_market_snapshot",
+        "market_home_raw_prob": prices["market_home_raw_prob"],
+        "market_away_raw_prob": prices["market_away_raw_prob"],
+        "market_home_no_vig_prob": prices["market_home_no_vig_prob"],
+        "home_decimal_odds": prices["home_decimal_odds"],
+        "away_decimal_odds": prices["away_decimal_odds"],
+    }
+    current_features = build_feature_table(pd.DataFrame([current_row]), schedule)
+
+    print(
+        "training current-game transformer: "
+        f"train_rows={len(train_df)} target={away_team} at {home_team} {args.target_date}",
+        flush=True,
+    )
+    model, diag = train_transformer(
+        train_df=train_df,
+        epochs=args.epochs,
+        batch_size=args.batch_size,
+        lr=args.lr,
+        weight_decay=args.weight_decay,
+        seed=args.seed,
+        validation_fraction=args.validation_fraction,
+        d_model=args.d_model,
+        n_heads=args.n_heads,
+        n_layers=args.n_layers,
+        dropout=args.dropout,
+        patience=args.patience,
+    )
+    print(
+        "finished current-game transformer: "
+        f"best_epoch={diag.get('best_epoch')} "
+        f"validation_loss={float(diag.get('best_validation_loss', float('nan'))):.6f}",
+        flush=True,
+    )
+    home_prob = float(predict_with_model(model, train_df, current_features)[0])
+    away_prob = 1.0 - home_prob
+
+    PREDICTION_DIR.mkdir(parents=True, exist_ok=True)
+    checkpoint_path = TRANSFORMER_DIR / "transformer_current_model.pt"
+    torch.save(
+        {
+            "model_state": model.state_dict(),
+            "feature_columns": FEATURE_COLUMNS,
+            "model_config": {
+                "d_model": args.d_model,
+                "n_heads": args.n_heads,
+                "n_layers": args.n_layers,
+                "dropout": args.dropout,
+            },
+            "scaler": scaler_payload(train_df),
+            "training_diagnostics": diag,
+            "created_at": datetime.now().isoformat(timespec="seconds"),
+        },
+        checkpoint_path,
+    )
+
+    prediction = {
+        **current_row,
+        "game_id": current.get("game_id"),
+        "start_time_utc": current.get("start_time_utc"),
+        "model_home_win_prob": home_prob,
+        "model_away_win_prob": away_prob,
+        "predicted_winner": home_team if home_prob >= away_prob else away_team,
+        "training_rows": int(len(train_df)),
+        "best_epoch": diag.get("best_epoch"),
+        "best_validation_loss": diag.get("best_validation_loss"),
+    }
+    prediction_path = PREDICTION_DIR / "nhl_transformer_current_prediction.csv"
+    pd.DataFrame([prediction]).to_csv(prediction_path, index=False)
+    return {
+        "prediction_csv": str(prediction_path),
+        "checkpoint": str(checkpoint_path),
+        "game_date": args.target_date,
+        "game_id": current.get("game_id"),
+        "away_team": away_team,
+        "home_team": home_team,
+        "home_win_probability": home_prob,
+        "away_win_probability": away_prob,
+        "predicted_winner": prediction["predicted_winner"],
+        "training_rows": int(len(train_df)),
+        "training_diagnostics": diag,
+        "current_market": {
+            "home_odds": int(prices["home_odds"]),
+            "away_odds": int(prices["away_odds"]),
+            "home_no_vig_probability": float(prices["market_home_no_vig_prob"]),
+            "away_no_vig_probability": float(1.0 - prices["market_home_no_vig_prob"]),
+        },
+    }
+
+
 def money_text(value: float) -> str:
     sign = "+" if value >= 0 else "-"
     return f"{sign}${abs(value):,.2f}"
@@ -233,6 +383,11 @@ def print_live_pnl(
         starting_bankroll=args.bankroll,
         kelly_multiplier=args.kelly_multiplier,
         max_bet_fraction=args.max_bet_fraction,
+        min_edge=0.0,
+        max_market_disagreement=None,
+        market_blend=0.0,
+        min_model_prob=0.0,
+        side_filter="all",
     )
     latest_bets = bets.tail(len(latest_predictions)) if not latest_predictions.empty else bets.iloc[0:0]
     latest_profit = float(latest_bets["profit"].sum()) if not latest_bets.empty else 0.0
@@ -292,6 +447,12 @@ def walk_forward_transformer_predictions(
             dropout=args.dropout,
             patience=args.patience,
         )
+        print(
+            "finished holdout transformer: "
+            f"best_epoch={diag.get('best_epoch')} "
+            f"validation_loss={float(diag.get('best_validation_loss', float('nan'))):.6f}",
+            flush=True,
+        )
         probs = predict_with_model(model, train_df, selected)
         out = selected.copy()
         out["train_rows"] = len(train_df)
@@ -336,6 +497,12 @@ def walk_forward_transformer_predictions(
             n_layers=args.n_layers,
             dropout=args.dropout,
             patience=args.patience,
+        )
+        print(
+            f"finished transformer for {date}: "
+            f"best_epoch={diag.get('best_epoch')} "
+            f"validation_loss={float(diag.get('best_validation_loss', float('nan'))):.6f}",
+            flush=True,
         )
         probs = predict_with_model(model, train_df, test_df)
         out = test_df.copy()
@@ -394,16 +561,36 @@ def main() -> None:
         default=",".join(str(season) for season in DEFAULT_SEASONS),
         help="Comma-separated NHL season ids, e.g. 20222023,20232024,20242025,20252026.",
     )
+    parser.add_argument(
+        "--target-date",
+        help="Append saved processed odds snapshots before this game date, e.g. 2026-06-06.",
+    )
+    parser.add_argument(
+        "--teams",
+        default="VGK,CAR",
+        help="Comma-separated matchup team abbreviations used when appending recent processed snapshots.",
+    )
     parser.add_argument("--refresh", action="store_true")
+    parser.add_argument(
+        "--predict-current",
+        action="store_true",
+        help="Train a final transformer on all rows before --target-date and predict data/latest/current_game.csv.",
+    )
     args = parser.parse_args()
 
     TRANSFORMER_DIR.mkdir(parents=True, exist_ok=True)
 
     seasons = parse_seasons(args.seasons)
-    odds = fetch_statmuse_moneylines(seasons=seasons, refresh=args.refresh)
+    odds = load_historical_odds(seasons=seasons, refresh=args.refresh)
     schedule = fetch_nhl_schedule(seasons=seasons, refresh=args.refresh)
+    appended_rows: list[dict[str, Any]] = []
+    if args.target_date:
+        teams = {item.strip().upper() for item in args.teams.split(",") if item.strip()}
+        odds, appended_rows = append_recent_snapshot_games(odds, schedule, args.target_date, teams)
+    odds.to_csv(TRANSFORMER_DIR / "transformer_historical_moneylines.csv", index=False)
     features = build_feature_table(odds, schedule)
     features.to_csv(TRANSFORMER_DIR / "transformer_feature_table.csv", index=False)
+    current_prediction = train_current_transformer_prediction(features, schedule, args) if args.predict_current else {}
 
     predictions, diagnostics = walk_forward_transformer_predictions(
         features,
@@ -418,6 +605,11 @@ def main() -> None:
         starting_bankroll=args.bankroll,
         kelly_multiplier=args.kelly_multiplier,
         max_bet_fraction=args.max_bet_fraction,
+        min_edge=0.0,
+        max_market_disagreement=None,
+        market_blend=0.0,
+        min_model_prob=0.0,
+        side_filter="all",
     )
     bets.to_csv(TRANSFORMER_DIR / "transformer_kelly_bets.csv", index=False)
 
@@ -428,6 +620,9 @@ def main() -> None:
             "feature_rows": int(len(features)),
             "prediction_rows": int(len(predictions)),
             "seasons": seasons,
+            "target_date": args.target_date,
+            "recent_snapshot_rows_appended": appended_rows,
+            "current_prediction": current_prediction,
             "fit_mode": args.fit_mode,
             "market_blend": args.market_blend,
             "min_train": args.min_train,
@@ -449,6 +644,7 @@ def main() -> None:
                 "Feature values are standardized using only training rows before each target date.",
                 "The walk-forward split excludes target-date games from training.",
                 "Kelly betting uses the same simulator as the non-transformer baseline.",
+                "No minimum model-probability skip gate is applied.",
             ],
         }
     )

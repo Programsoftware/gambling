@@ -4,6 +4,7 @@ import argparse
 import json
 import math
 import re
+import shutil
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
@@ -43,6 +44,9 @@ SESSION.headers.update(HEADERS)
 
 sources: list[dict[str, Any]] = []
 artifacts: list[dict[str, Any]] = []
+USE_RAW_CACHE = True
+REFRESH_RAW_CACHE = False
+_RAW_CACHE_DIRS: list[Path] | None = None
 
 
 def ensure_dirs() -> None:
@@ -76,16 +80,88 @@ def write_df(name: str, df: pd.DataFrame) -> Path:
     return run_path
 
 
-def request_json(name: str, url: str, filename: str, timeout: int = 25) -> dict[str, Any] | None:
+def raw_cache_dirs() -> list[Path]:
+    global _RAW_CACHE_DIRS
+    if _RAW_CACHE_DIRS is not None:
+        return _RAW_CACHE_DIRS
+    raw_root = DATA_ROOT / "raw"
+    if not raw_root.exists():
+        _RAW_CACHE_DIRS = []
+        return _RAW_CACHE_DIRS
+    _RAW_CACHE_DIRS = sorted(
+        [path for path in raw_root.iterdir() if path.is_dir() and path.resolve() != RAW_DIR.resolve()],
+        key=lambda path: path.name,
+        reverse=True,
+    )
+    return _RAW_CACHE_DIRS
+
+
+def find_cached_raw(filename: str) -> Path | None:
+    for raw_dir in raw_cache_dirs():
+        candidate = raw_dir / filename
+        if candidate.exists():
+            return candidate
+    return None
+
+
+def load_cached_json(path: Path, destination: Path) -> dict[str, Any] | None:
+    try:
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(path, destination)
+        return json.loads(destination.read_text(encoding="utf-8"))
+    except Exception as exc:
+        print(f"Could not reuse cached {path.name}: {exc}", flush=True)
+        return None
+
+
+def request_json(
+    name: str,
+    url: str,
+    filename: str,
+    timeout: int = 25,
+    use_cache: bool = True,
+) -> dict[str, Any] | None:
     path = RAW_DIR / filename
+    cached_path = find_cached_raw(filename) if USE_RAW_CACHE and use_cache and not REFRESH_RAW_CACHE else None
+    if cached_path is not None:
+        data = load_cached_json(cached_path, path)
+        if data is not None:
+            sources.append(
+                {
+                    "name": name,
+                    "url": url,
+                    "path": str(path.relative_to(ROOT)),
+                    "ok": True,
+                    "cached": True,
+                    "cache_path": str(cached_path.relative_to(ROOT)),
+                }
+            )
+            return data
+
     try:
         response = SESSION.get(url, timeout=timeout)
         response.raise_for_status()
         data = response.json()
         write_json(path, data)
-        sources.append({"name": name, "url": url, "path": str(path.relative_to(ROOT)), "ok": True})
+        sources.append({"name": name, "url": url, "path": str(path.relative_to(ROOT)), "ok": True, "cached": False})
         return data
     except Exception as exc:
+        fallback_path = find_cached_raw(filename) if USE_RAW_CACHE and use_cache else None
+        if fallback_path is not None:
+            data = load_cached_json(fallback_path, path)
+            if data is not None:
+                sources.append(
+                    {
+                        "name": name,
+                        "url": url,
+                        "path": str(path.relative_to(ROOT)),
+                        "ok": True,
+                        "cached": True,
+                        "cache_path": str(fallback_path.relative_to(ROOT)),
+                        "network_error": str(exc),
+                    }
+                )
+                return data
         sources.append({"name": name, "url": url, "path": str(path.relative_to(ROOT)), "ok": False, "error": str(exc)})
         print(f"Could not fetch {name}: {exc}", flush=True)
         return None
@@ -132,6 +208,32 @@ def nested_default(value: Any, default: Any = None) -> Any:
     if isinstance(value, dict):
         return value.get("displayValue") or value.get("name") or value.get("description") or value.get("id") or default
     return value if value is not None else default
+
+
+def nested_type(value: Any, default: Any = None) -> Any:
+    if isinstance(value, dict):
+        return value.get("type") or value.get("id") or default
+    return value if value is not None else default
+
+
+def season_type_from_event(event: dict[str, Any]) -> Any:
+    return nested_type(event.get("seasonType")) or nested_type(event.get("season"))
+
+
+def season_type_name_from_event(event: dict[str, Any]) -> Any:
+    season_type = event.get("seasonType") if isinstance(event.get("seasonType"), dict) else {}
+    season = event.get("season") if isinstance(event.get("season"), dict) else {}
+    return nested_default(season_type) or season.get("displayName") or season.get("slug") or season.get("name")
+
+
+def round_type_from_competition(comp: dict[str, Any]) -> Any:
+    comp_type = comp.get("type") if isinstance(comp.get("type"), dict) else {}
+    return (
+        comp_type.get("text")
+        or comp_type.get("name")
+        or comp_type.get("description")
+        or comp_type.get("abbreviation")
+    )
 
 
 def to_float(value: Any) -> float | None:
@@ -212,8 +314,10 @@ def normalize_scoreboard(scoreboard: dict[str, Any]) -> pd.DataFrame:
                 "short_name": event.get("shortName"),
                 "game_datetime": event.get("date"),
                 "game_date": str(event.get("date", ""))[:10],
-                "season_year": nested_default(event.get("season")),
-                "season_type": nested_default(event.get("seasonType")),
+                "season_year": (event.get("season") or {}).get("year") if isinstance(event.get("season"), dict) else None,
+                "season_type": season_type_from_event(event),
+                "season_type_name": season_type_name_from_event(event),
+                "round_type": round_type_from_competition(comp),
                 "status_state": nested_default((event.get("status") or {}).get("type")),
                 "status_detail": (event.get("status") or {}).get("type", {}).get("detail"),
                 "venue": (comp.get("venue") or {}).get("fullName"),
@@ -259,9 +363,9 @@ def normalize_schedule_event(event: dict[str, Any]) -> dict[str, Any]:
         "game_date": str(event.get("date", ""))[:10],
         "name": event.get("name"),
         "short_name": event.get("shortName"),
-        "season_type": (event.get("seasonType") or {}).get("type"),
-        "season_type_name": (event.get("seasonType") or {}).get("name"),
-        "round_type": (comp.get("type") or {}).get("text"),
+        "season_type": season_type_from_event(event),
+        "season_type_name": season_type_name_from_event(event),
+        "round_type": round_type_from_competition(comp),
         "status_state": status.get("state"),
         "status_detail": status.get("detail") or status.get("description"),
         "completed": completed,
@@ -820,19 +924,36 @@ def build_feature_vector(
 
 
 def main() -> None:
+    global GAME_DATE, GAME_DATE_COMPACT, USE_RAW_CACHE, REFRESH_RAW_CACHE
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--seasons",
         default=",".join(str(season) for season in DEFAULT_SEASONS),
         help="Comma-separated ESPN NBA season years, e.g. 2024,2025,2026.",
     )
+    parser.add_argument("--game-date", default=GAME_DATE, help="ESPN scoreboard date in YYYY-MM-DD format.")
     parser.add_argument(
         "--target-teams-only",
         action="store_true",
         help="Only collect schedules/rosters/stats for the two target teams.",
     )
     parser.add_argument("--max-workers", type=int, default=MAX_WORKERS)
+    parser.add_argument(
+        "--no-raw-cache",
+        dest="raw_cache",
+        action="store_false",
+        help="Do not reuse JSON files from previous data/nba/raw runs.",
+    )
+    parser.add_argument(
+        "--refresh-raw-cache",
+        action="store_true",
+        help="Force network refresh even when matching raw JSON files exist from prior runs.",
+    )
     args = parser.parse_args()
+    GAME_DATE = args.game_date
+    GAME_DATE_COMPACT = GAME_DATE.replace("-", "")
+    USE_RAW_CACHE = bool(args.raw_cache)
+    REFRESH_RAW_CACHE = bool(args.refresh_raw_cache)
     seasons = parse_seasons(args.seasons)
 
     ensure_dirs()
@@ -843,6 +964,7 @@ def main() -> None:
         "espn_scoreboard",
         f"{ESPN_SITE}/scoreboard?dates={GAME_DATE_COMPACT}",
         f"espn_scoreboard_{GAME_DATE_COMPACT}.json",
+        use_cache=False,
     )
     if not scoreboard:
         raise RuntimeError("Could not fetch ESPN scoreboard.")
@@ -861,6 +983,7 @@ def main() -> None:
         "espn_current_summary",
         f"{ESPN_SITE}/summary?event={event_id}",
         f"espn_summary_{event_id}.json",
+        use_cache=False,
     ) or {}
 
     current_game_df = pd.DataFrame([current_game])
@@ -985,6 +1108,9 @@ def main() -> None:
         "game_date": GAME_DATE,
         "target_game_date_espn_utc": target_game_date,
         "schedule_seasons": seasons,
+        "raw_cache_enabled": bool(USE_RAW_CACHE),
+        "raw_cache_refresh_forced": bool(REFRESH_RAW_CACHE),
+        "raw_cache_hits": int(sum(1 for source in sources if source.get("cached"))),
         "target_teams_only": bool(args.target_teams_only),
         "teams_collected": int(len(team_ids)),
         "completed_events_requested": int(len(event_map)),

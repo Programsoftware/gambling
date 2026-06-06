@@ -1,0 +1,251 @@
+bet_number,game_date,season_type,season_type_text,matchup,final_score,bet_side,candidate_side,candidate_team,bet_team,display_team,actual_winner,result,skip_reason,skip_reason_label,model_prob_pct,market_no_vig_prob_pct,break_even_prob_pct,model_edge_vs_break_even_pct,model_edge_vs_market_pct,american_odds,american_odds_text,decimal_odds,raw_kelly_fraction_pct,stake_fraction_pct,stake,profit,bankroll_after,placed
+1,2026-03-19,2,Regular,NYR at CBJ,3-6,skip,home,CBJ,,CBJ,CBJ,SKIP,side_filter_away,Side Filter Away,70.96,65.78,68.65,2.31,5.18,-219,-219,1.45662100456621,0.0,0.0,0.0,0.0,1000.0,False
+2,2026-03-19,2,Regular,FLA at EDM,4-0,skip,away,FLA,,FLA,FLA,SKIP,below_min_edge,Below Min Edge,46.96,40.71,42.55,4.4,6.25,135,+135,2.35,0.0,0.0,0.0,0.0,1000.0,False
+3,2026-03-19,2,Regular,PHI at LAK,4-3,skip,home,LAK,,LAK,PHI,SKIP,no_positive_kelly,No Positive Kelly,64.44,63.14,65.87,-1.43,1.3,-193,-193,1.5181347150259068,0.0,0.0,0.0,0.0,1000.0,False
+4,2026-03-19,2,Regular,CHI at MIN,2-1,skip,home,MIN,,MIN,CHI,SKIP,no_positive_kelly,No Positive Kelly,63.55,63.09,65.99,-2.44,0.46,-194,-194,1.5154639175257731,0.0,0.0,0.0,0.0,1000.0,False
+5,2026-03-19,2,Regular,SEA at NSH,1-3,skip,home,NSH,,NSH,NSH,SKIP,no_positive_kelly,No Positive Kelly,51.26,51.95,54.34,-3.08,-0.69,-119,-119,1.8403361344537816,0.0,0.0,0.0,0.0,1000.0,False
+6,2026-03-19,2,Regular,BUF at SJS,5-0,skip,home,SJS,,SJS,BUF,SKIP,side_filter_away,Side Filter Away,46.67,43.33,45.25,1.43,3.35,121,+121,2.21,0.0,0.0,0.0,0.0,1000.0,False
+7,2026-03-19,2,Regular,TBL at VAN,6-2,skip,home,VAN,,VAN,TBL,SKIP,side_filter_away,Side Filter Away,39.53,25.88,27.1,12.43,13.65,269,+269,3.69,0.0,0.0,0.0,0.0,1000.0,False
+8,2026-03-19,2,Regular,UTA at VGK,4-0,skip,away,UTA,,UTA,UTA,SKIP,below_min_edge,Below Min Edge,46.98,44.06,46.08,0.89,2.92,117,+117,2.17,0.0,0.0,0.0,0.0,1000.0,False
+9,2026-03-20,2,Regular,FLA at CGY,1-4,skip,home,CGY,,CGY,CGY,SKIP,no_positive_kelly,No Positive Kelly,52.98,51.62,54.13,-1.15,1.36,-118,-118,1.847457627118644,0.0,0.0,0.0,0.0,1000.0,False
+10,2026-03-20,2,Regular,COL at CHI,4-1,skip,home,CHI,,CHI,COL,SKIP,side_filter_away,Side Filter Away,32.73,26.17,27.32,5.41,6.55,266,+266,3.66,0.0,0.0,0.0,0.0,1000.0,False
+11,2026-03-20,2,Regular,CAR at TOR,4-3,skip,away,CAR,,CAR,CAR,SKIP,below_min_edge,Below Min Edge,70.36,66.02,69.14,1.22,4.34,-224,-224,1.4464285714285714,0.0,0.0,0.0,0.0,1000.0,False
+12,2026-03-20,2,Regular,NJD at WSH,1-2,skip,home,WSH,,WSH,WSH,SKIP,no_positive_kelly,No Positive Kelly,52.77,52.79,55.36,-2.59,-0.02,-124,-124,1.8064516129032258,0.0,0.0,0.0,0.0,1000.0,False
+13,2026-03-21,2,Regular,SEA at CBJ,2-5,skip,home,CBJ,,CBJ,CBJ,SKIP,side_filter_away,Side Filter Away,67.05,62.2,65.03,2.01,4.85,-186,-186,1.5376344086021505,0.0,0.0,0.0,0.0,1000.0,False
+14,2026-03-21,2,Regular,TBL at EDM,5-2,skip,away,TBL,,TBL,TBL,SKIP,below_min_edge,Below Min Edge,59.75,55.14,57.45,2.31,4.61,-135,-135,1.7407407407407407,0.0,0.0,0.0,0.0,1000.0,False
+15,2026-03-21,2,Regular,BUF at LAK,4-1,skip,home,LAK,,LAK,BUF,SKIP,no_positive_kelly,No Positive Kelly,46.31,45.84,47.85,-1.53,0.47,109,+109,2.09,0.0,0.0,0.0,0.0,1000.0,False
+16,2026-03-21,2,Regular,DAL at MIN,1-2,skip,home,MIN,,MIN,MIN,SKIP,no_positive_kelly,No Positive Kelly,43.12,44.97,46.95,-3.83,-1.85,113,+113,2.13,0.0,0.0,0.0,0.0,1000.0,False
+17,2026-03-21,2,Regular,VGK at NSH,1-4,skip,home,NSH,,NSH,NSH,SKIP,side_filter_away,Side Filter Away,52.3,41.64,43.48,8.82,10.66,130,+130,2.3,0.0,0.0,0.0,0.0,1000.0,False
+18,2026-03-21,2,Regular,TOR at OTT,2-5,skip,away,TOR,,TOR,OTT,SKIP,below_min_edge,Below Min Edge,32.61,26.98,28.25,4.36,5.63,254,+254,3.54,0.0,0.0,0.0,0.0,1000.0,False
+19,2026-03-21,2,Regular,WPG at PIT,4-5,skip,away,WPG,,WPG,PIT,SKIP,below_min_edge,Below Min Edge,43.3,40.87,42.74,0.56,2.43,134,+134,2.34,0.0,0.0,0.0,0.0,1000.0,False
+20,2026-03-21,2,Regular,PHI at SJS,4-1,skip,home,SJS,,SJS,PHI,SKIP,no_positive_kelly,No Positive Kelly,52.51,53.21,55.75,-3.24,-0.7,-126,-126,1.7936507936507935,0.0,0.0,0.0,0.0,1000.0,False
+21,2026-03-21,2,Regular,STL at VAN,3-1,skip,home,VAN,,VAN,STL,SKIP,side_filter_away,Side Filter Away,51.22,42.73,44.64,6.58,8.49,124,+124,2.24,0.0,0.0,0.0,0.0,1000.0,False
+22,2026-03-22,2,Regular,TBL at CGY,3-4,skip,home,CGY,,CGY,CGY,SKIP,side_filter_away,Side Filter Away,41.9,39.08,40.98,0.92,2.83,144,+144,2.44,0.0,0.0,0.0,0.0,1000.0,False
+23,2026-03-22,2,Regular,NSH at CHI,3-2,skip,home,CHI,,CHI,NSH,SKIP,side_filter_away,Side Filter Away,51.98,48.82,51.22,0.76,3.16,-105,-105,1.9523809523809523,0.0,0.0,0.0,0.0,1000.0,False
+24,2026-03-22,2,Regular,VGK at DAL,3-2,skip,home,DAL,,DAL,VGK,SKIP,no_positive_kelly,No Positive Kelly,55.58,55.11,57.63,-2.04,0.48,-136,-136,1.7352941176470589,0.0,0.0,0.0,0.0,1000.0,False
+25,2026-03-22,2,Regular,LAK at UTA,3-4,skip,home,UTA,,UTA,UTA,SKIP,no_positive_kelly,No Positive Kelly,59.67,61.17,64.03,-4.36,-1.5,-178,-178,1.5617977528089888,0.0,0.0,0.0,0.0,1000.0,False
+26,2026-03-22,2,Regular,COL at WSH,3-2,skip,home,WSH,,WSH,COL,SKIP,side_filter_away,Side Filter Away,45.25,40.14,41.84,3.41,5.12,139,+139,2.39,0.0,0.0,0.0,0.0,1000.0,False
+27,2026-03-23,2,Regular,OTT at NYR,2-1,skip,away,OTT,,OTT,OTT,SKIP,below_min_edge,Below Min Edge,65.99,62.96,65.64,0.35,3.02,-191,-191,1.5235602094240837,0.0,0.0,0.0,0.0,1000.0,False
+28,2026-03-24,2,Regular,TOR at BOS,4-2,skip,home,BOS,,BOS,TOR,SKIP,no_positive_kelly,No Positive Kelly,64.1,64.62,67.64,-3.53,-0.51,-209,-209,1.4784688995215312,0.0,0.0,0.0,0.0,1000.0,False
+29,2026-03-24,2,Regular,NJD at DAL,6-4,skip,away,NJD,,NJD,NJD,SKIP,below_min_edge,Below Min Edge,44.72,39.88,41.67,3.05,4.84,140,+140,2.4,0.0,0.0,0.0,0.0,1000.0,False
+30,2026-03-24,2,Regular,OTT at DET,3-2,skip,home,DET,,DET,OTT,SKIP,no_positive_kelly,No Positive Kelly,56.47,55.3,57.81,-1.34,1.17,-137,-137,1.72992700729927,0.0,0.0,0.0,0.0,1000.0,False
+31,2026-03-24,2,Regular,CAR at MTL,2-5,skip,home,MTL,,MTL,MTL,SKIP,side_filter_away,Side Filter Away,54.35,46.46,48.54,5.8,7.89,106,+106,2.06,0.0,0.0,0.0,0.0,1000.0,False
+32,2026-03-24,2,Regular,SJS at NSH,3-6,skip,home,NSH,,NSH,NSH,SKIP,no_positive_kelly,No Positive Kelly,56.61,56.2,58.85,-2.24,0.41,-143,-143,1.6993006993006992,0.0,0.0,0.0,0.0,1000.0,False
+33,2026-03-24,2,Regular,CHI at NYI,4-3,skip,away,CHI,,CHI,CHI,SKIP,below_min_edge,Below Min Edge,45.35,39.93,41.67,3.69,5.42,140,+140,2.4,0.0,0.0,0.0,0.0,1000.0,False
+34,2026-03-24,2,Regular,CBJ at PHI,3-2,skip,home,PHI,,PHI,CBJ,SKIP,side_filter_away,Side Filter Away,51.0,44.86,46.73,4.27,6.14,114,+114,2.14,0.0,0.0,0.0,0.0,1000.0,False
+35,2026-03-24,2,Regular,COL at PIT,6-2,skip,home,PIT,,PIT,COL,SKIP,no_positive_kelly,No Positive Kelly,40.84,39.82,41.67,-0.82,1.02,140,+140,2.4,0.0,0.0,0.0,0.0,1000.0,False
+36,2026-03-24,2,Regular,MIN at TBL,3-6,away,away,MIN,MIN,MIN,TBL,LOSS,,,50.06,41.75,43.67,6.39,8.31,129,+129,2.29,11.34,5.0,50.0,-50.0,950.0,True
+37,2026-03-24,2,Regular,EDM at UTA,5-2,skip,away,EDM,,EDM,EDM,SKIP,below_min_edge,Below Min Edge,49.15,44.7,46.73,2.42,4.45,114,+114,2.14,0.0,0.0,0.0,0.0,950.0,False
+38,2026-03-24,2,Regular,ANA at VAN,5-3,skip,home,VAN,,VAN,ANA,SKIP,side_filter_away,Side Filter Away,42.69,37.26,38.91,3.78,5.43,157,+157,2.5700000000000003,0.0,0.0,0.0,0.0,950.0,False
+39,2026-03-24,2,Regular,VGK at WPG,1-4,skip,home,WPG,,WPG,WPG,SKIP,side_filter_away,Side Filter Away,48.55,45.09,47.17,1.38,3.46,112,+112,2.12,0.0,0.0,0.0,0.0,950.0,False
+40,2026-03-25,2,Regular,BOS at BUF,4-3,skip,away,BOS,,BOS,BOS,SKIP,below_min_edge,Below Min Edge,38.96,35.26,36.9,2.06,3.69,171,+171,2.71,0.0,0.0,0.0,0.0,950.0,False
+41,2026-03-25,2,Regular,NYR at TOR,3-4,skip,home,TOR,,TOR,TOR,SKIP,side_filter_away,Side Filter Away,49.76,45.36,47.39,2.37,4.4,111,+111,2.1100000000000003,0.0,0.0,0.0,0.0,950.0,False
+42,2026-03-26,2,Regular,ANA at CGY,3-2,skip,home,CGY,,CGY,ANA,SKIP,side_filter_away,Side Filter Away,50.12,45.56,47.62,2.5,4.56,110,+110,2.1,0.0,0.0,0.0,0.0,950.0,False
+43,2026-03-26,2,Regular,MIN at FLA,3-2,skip,home,FLA,,FLA,MIN,SKIP,side_filter_away,Side Filter Away,46.99,40.5,42.19,4.79,6.48,137,+137,2.37,0.0,0.0,0.0,0.0,950.0,False
+44,2026-03-26,2,Regular,NJD at NSH,4-2,skip,home,NSH,,NSH,NJD,SKIP,no_positive_kelly,No Positive Kelly,52.73,50.64,53.27,-0.54,2.09,-114,-114,1.8771929824561404,0.0,0.0,0.0,0.0,950.0,False
+45,2026-03-26,2,Regular,DAL at NYI,1-2,skip,home,NYI,,NYI,NYI,SKIP,no_positive_kelly,No Positive Kelly,47.72,47.39,49.5,-1.79,0.32,102,+102,2.02,0.0,0.0,0.0,0.0,950.0,False
+46,2026-03-26,2,Regular,PIT at OTT,4-3,skip,away,PIT,,PIT,PIT,SKIP,below_min_edge,Below Min Edge,47.92,42.49,44.44,3.47,5.43,125,+125,2.25,0.0,0.0,0.0,0.0,950.0,False
+47,2026-03-26,2,Regular,CHI at PHI,1-5,skip,away,CHI,,CHI,PHI,SKIP,below_min_edge,Below Min Edge,46.36,42.97,44.84,1.52,3.39,123,+123,2.23,0.0,0.0,0.0,0.0,950.0,False
+48,2026-03-26,2,Regular,SJS at STL,1-2,skip,home,STL,,STL,STL,SKIP,no_positive_kelly,No Positive Kelly,56.56,54.32,56.9,-0.33,2.24,-132,-132,1.7575757575757576,0.0,0.0,0.0,0.0,950.0,False
+49,2026-03-26,2,Regular,SEA at TBL,4-3,skip,home,TBL,,TBL,SEA,SKIP,no_positive_kelly,No Positive Kelly,72.36,71.47,74.55,-2.2,0.89,-293,-293,1.341296928327645,0.0,0.0,0.0,0.0,950.0,False
+50,2026-03-26,2,Regular,WSH at UTA,7-4,skip,home,UTA,,UTA,WSH,SKIP,no_positive_kelly,No Positive Kelly,52.6,52.06,53.49,-0.89,0.54,-115,-115,1.8695652173913042,0.0,0.0,0.0,0.0,950.0,False
+51,2026-03-26,2,Regular,LAK at VAN,4-0,skip,home,VAN,,VAN,LAK,SKIP,side_filter_away,Side Filter Away,44.28,38.17,39.84,4.43,6.11,151,+151,2.51,0.0,0.0,0.0,0.0,950.0,False
+52,2026-03-26,2,Regular,EDM at VGK,4-3,away,away,EDM,EDM,EDM,EDM,WIN,,,59.43,43.19,45.25,14.18,16.24,121,+121,2.21,25.9,5.0,47.5,57.475,1007.475,True
+53,2026-03-26,2,Regular,COL at WPG,3-2,skip,away,COL,,COL,COL,SKIP,below_min_edge,Below Min Edge,70.49,62.11,65.03,5.46,8.39,-186,-186,1.5376344086021505,0.0,0.0,0.0,0.0,1007.475,False
+54,2026-03-27,2,Regular,CHI at NYR,1-6,skip,away,CHI,,CHI,NYR,SKIP,below_min_edge,Below Min Edge,43.25,38.83,40.65,2.59,4.41,146,+146,2.46,0.0,0.0,0.0,0.0,1007.475,False
+55,2026-03-28,2,Regular,SEA at BUF,2-3,skip,away,SEA,,SEA,BUF,SKIP,below_min_edge,Below Min Edge,41.86,37.14,38.91,2.95,4.73,157,+157,2.5700000000000003,0.0,0.0,0.0,0.0,1007.475,False
+56,2026-03-28,2,Regular,NJD at CAR,2-5,skip,away,NJD,,NJD,CAR,SKIP,below_min_edge,Below Min Edge,42.17,36.12,37.88,4.29,6.05,164,+164,2.64,0.0,0.0,0.0,0.0,1007.475,False
+57,2026-03-28,2,Regular,SJS at CBJ,3-2,skip,home,CBJ,,CBJ,SJS,SKIP,side_filter_away,Side Filter Away,67.61,63.14,65.87,1.74,4.48,-193,-193,1.5181347150259068,0.0,0.0,0.0,0.0,1007.475,False
+58,2026-03-28,2,Regular,VAN at CGY,3-7,skip,away,VAN,,VAN,CGY,SKIP,below_min_model_prob,Below Min Model Prob,48.1,40.24,42.02,6.08,7.86,138,+138,2.38,0.0,0.0,0.0,0.0,1007.475,False
+59,2026-03-28,2,Regular,WPG at COL,4-2,skip,home,COL,,COL,WPG,SKIP,no_positive_kelly,No Positive Kelly,72.33,70.14,73.19,-0.86,2.18,-273,-273,1.3663003663003663,0.0,0.0,0.0,0.0,1007.475,False
+60,2026-03-28,2,Regular,PHI at DET,5-3,skip,away,PHI,,PHI,PHI,SKIP,below_min_edge,Below Min Edge,50.51,45.84,47.85,2.66,4.66,109,+109,2.09,0.0,0.0,0.0,0.0,1007.475,False
+61,2026-03-28,2,Regular,UTA at LAK,6-2,skip,away,UTA,,UTA,UTA,SKIP,below_min_edge,Below Min Edge,60.17,54.86,56.52,3.64,5.31,-130,-130,1.7692307692307692,0.0,0.0,0.0,0.0,1007.475,False
+62,2026-03-28,2,Regular,FLA at NYI,2-5,skip,away,FLA,,FLA,NYI,SKIP,below_min_edge,Below Min Edge,41.27,35.71,37.45,3.82,5.56,167,+167,2.67,0.0,0.0,0.0,0.0,1007.475,False
+63,2026-03-28,2,Regular,TOR at STL,1-5,skip,away,TOR,,TOR,STL,SKIP,below_min_edge,Below Min Edge,46.1,42.73,44.64,1.45,3.37,124,+124,2.24,0.0,0.0,0.0,0.0,1007.475,False
+64,2026-03-28,2,Regular,OTT at TBL,2-4,skip,away,OTT,,OTT,TBL,SKIP,below_min_edge,Below Min Edge,49.08,44.66,46.51,2.57,4.42,115,+115,2.15,0.0,0.0,0.0,0.0,1007.475,False
+65,2026-03-28,2,Regular,WSH at VGK,5-4,away,away,WSH,WSH,WSH,WSH,WIN,,,52.29,41.46,43.48,8.82,10.83,130,+130,2.3,15.6,5.0,50.37375,65.485875,1072.960875,True
+66,2026-03-29,2,Regular,MTL at CAR,3-1,skip,away,MTL,,MTL,MTL,SKIP,below_min_edge,Below Min Edge,46.79,39.47,41.32,5.47,7.32,142,+142,2.42,0.0,0.0,0.0,0.0,1072.960875,False
+67,2026-03-29,2,Regular,BOS at CBJ,4-3,skip,home,CBJ,,CBJ,BOS,SKIP,no_positive_kelly,No Positive Kelly,56.53,58.3,60.78,-4.25,-1.77,-155,-155,1.6451612903225805,0.0,0.0,0.0,0.0,1072.960875,False
+68,2026-03-29,2,Regular,CHI at NJD,3-5,skip,away,CHI,,CHI,NJD,SKIP,below_min_edge,Below Min Edge,46.4,39.98,41.84,4.55,6.42,139,+139,2.39,0.0,0.0,0.0,0.0,1072.960875,False
+69,2026-03-29,2,Regular,FLA at NYR,1-3,skip,away,FLA,,FLA,NYR,SKIP,below_min_model_prob,Below Min Model Prob,47.26,38.22,39.84,7.42,9.05,151,+151,2.51,0.0,0.0,0.0,0.0,1072.960875,False
+70,2026-03-29,2,Regular,DAL at PHI,1-2,skip,home,PHI,,PHI,PHI,SKIP,side_filter_away,Side Filter Away,44.17,39.17,40.98,3.19,5.0,144,+144,2.44,0.0,0.0,0.0,0.0,1072.960875,False
+71,2026-03-29,2,Regular,NSH at TBL,2-3,skip,away,NSH,,NSH,TBL,SKIP,below_min_edge,Below Min Edge,40.63,37.89,39.68,0.94,2.73,152,+152,2.52,0.0,0.0,0.0,0.0,1072.960875,False
+72,2026-03-30,2,Regular,TOR at ANA,5-4,skip,home,ANA,,ANA,TOR,SKIP,side_filter_away,Side Filter Away,69.92,62.78,65.64,4.29,7.14,-191,-191,1.5235602094240837,0.0,0.0,0.0,0.0,1072.960875,False
+73,2026-03-30,2,Regular,CGY at COL,2-9,skip,away,CGY,,CGY,COL,SKIP,below_min_edge,Below Min Edge,27.33,23.15,24.21,3.12,4.19,313,+313,4.13,0.0,0.0,0.0,0.0,1072.960875,False
+74,2026-03-30,2,Regular,PIT at NYI,8-3,skip,home,NYI,,NYI,PIT,SKIP,no_positive_kelly,No Positive Kelly,54.18,54.32,56.9,-2.72,-0.14,-132,-132,1.7575757575757576,0.0,0.0,0.0,0.0,1072.960875,False
+75,2026-03-30,2,Regular,STL at SJS,4-5,away,away,STL,STL,STL,SJS,LOSS,,,59.85,50.11,52.61,7.24,9.74,-111,-111,1.900900900900901,15.28,5.0,53.64804375,-53.64804375,1019.31283125,True
+76,2026-03-30,2,Regular,VAN at VGK,2-4,skip,home,VGK,,VGK,VGK,SKIP,no_positive_kelly,No Positive Kelly,74.66,75.27,78.86,-4.2,-0.61,-373,-373,1.2680965147453083,0.0,0.0,0.0,0.0,1019.31283125,False
+77,2026-03-31,2,Regular,NYI at BUF,3-4,skip,home,BUF,,BUF,BUF,SKIP,no_positive_kelly,No Positive Kelly,61.77,61.26,64.03,-2.26,0.51,-178,-178,1.5617977528089888,0.0,0.0,0.0,0.0,1019.31283125,False
+78,2026-03-31,2,Regular,CAR at CBJ,5-2,skip,home,CBJ,,CBJ,CAR,SKIP,no_positive_kelly,No Positive Kelly,47.27,45.76,47.85,-0.58,1.51,109,+109,2.09,0.0,0.0,0.0,0.0,1019.31283125,False
+79,2026-03-31,2,Regular,WPG at CHI,4-3,skip,home,CHI,,CHI,WPG,SKIP,side_filter_away,Side Filter Away,47.8,41.58,43.48,4.32,6.22,130,+130,2.3,0.0,0.0,0.0,0.0,1019.31283125,False
+80,2026-03-31,2,Regular,SEA at EDM,0-3,skip,away,SEA,,SEA,EDM,SKIP,below_min_model_prob,Below Min Model Prob,49.3,37.39,39.06,10.24,11.9,156,+156,2.56,0.0,0.0,0.0,0.0,1019.31283125,False
+81,2026-03-31,2,Regular,OTT at FLA,3-6,skip,away,OTT,,OTT,FLA,SKIP,below_min_edge,Below Min Edge,69.84,62.24,65.16,4.68,7.6,-187,-187,1.53475935828877,0.0,0.0,0.0,0.0,1019.31283125,False
+82,2026-03-31,2,Regular,NJD at NYR,1-4,skip,away,NJD,,NJD,NYR,SKIP,below_min_edge,Below Min Edge,58.09,53.63,56.14,1.95,4.46,-128,-128,1.78125,0.0,0.0,0.0,0.0,1019.31283125,False
+83,2026-03-31,2,Regular,MTL at TBL,4-1,away,away,MTL,MTL,MTL,MTL,WIN,,,50.25,39.18,40.82,9.43,11.07,145,+145,2.45,15.93,5.0,50.965641562500004,73.90018026562501,1093.213011515625,True
+84,2026-04-01,2,Regular,VAN at COL,8-6,skip,home,COL,,COL,VAN,SKIP,no_positive_kelly,No Positive Kelly,78.54,79.06,82.43,-3.89,-0.52,-469,-469,1.2132196162046909,0.0,0.0,0.0,0.0,1093.213011515625,False
+85,2026-04-01,2,Regular,ANA at SJS,3-4,skip,home,SJS,,SJS,SJS,SKIP,no_positive_kelly,No Positive Kelly,50.52,49.89,52.38,-1.87,0.62,-110,-110,1.9090909090909092,0.0,0.0,0.0,0.0,1093.213011515625,False
+86,2026-04-02,2,Regular,CBJ at CAR,1-5,away,away,CBJ,CBJ,CBJ,CAR,LOSS,,,53.19,36.36,38.02,15.17,16.83,163,+163,2.63,24.47,5.0,54.66065057578126,-54.66065057578126,1038.5523609398438,True
+87,2026-04-02,2,Regular,WPG at DAL,0-3,away,away,WPG,WPG,WPG,DAL,LOSS,,,55.0,41.58,43.48,11.52,13.42,130,+130,2.3,20.38,5.0,51.927618046992194,-51.927618046992194,986.6247428928516,True
+88,2026-04-02,2,Regular,CHI at EDM,1-3,skip,away,CHI,,CHI,EDM,SKIP,below_min_edge,Below Min Edge,36.75,33.19,34.72,2.03,3.56,188,+188,2.88,0.0,0.0,0.0,0.0,986.6247428928516,False
+89,2026-04-02,2,Regular,BOS at FLA,1-2,skip,home,FLA,,FLA,FLA,SKIP,no_positive_kelly,No Positive Kelly,41.12,39.98,41.67,-0.54,1.14,140,+140,2.4,0.0,0.0,0.0,0.0,986.6247428928516,False
+90,2026-04-02,2,Regular,VAN at MIN,2-5,skip,away,VAN,,VAN,MIN,SKIP,below_min_edge,Below Min Edge,27.84,21.2,22.12,5.72,6.65,352,+352,4.52,0.0,0.0,0.0,0.0,986.6247428928516,False
+91,2026-04-02,2,Regular,TOR at SJS,1-4,skip,home,SJS,,SJS,SJS,SKIP,no_positive_kelly,No Positive Kelly,53.67,55.49,57.98,-4.31,-1.81,-138,-138,1.7246376811594204,0.0,0.0,0.0,0.0,986.6247428928516,False
+92,2026-04-02,2,Regular,PIT at TBL,3-6,skip,away,PIT,,PIT,TBL,SKIP,below_min_edge,Below Min Edge,46.58,40.5,42.19,4.39,6.08,137,+137,2.37,0.0,0.0,0.0,0.0,986.6247428928516,False
+93,2026-04-02,2,Regular,CGY at VGK,3-6,skip,home,VGK,,VGK,VGK,SKIP,no_positive_kelly,No Positive Kelly,69.32,68.16,71.35,-2.02,1.17,-249,-249,1.4016064257028114,0.0,0.0,0.0,0.0,986.6247428928516,False
+94,2026-04-03,2,Regular,STL at ANA,6-2,skip,home,ANA,,ANA,STL,SKIP,no_positive_kelly,No Positive Kelly,58.24,56.12,58.68,-0.44,2.11,-142,-142,1.704225352112676,0.0,0.0,0.0,0.0,986.6247428928516,False
+95,2026-04-03,2,Regular,PHI at NYI,4-1,skip,away,PHI,,PHI,PHI,SKIP,below_min_edge,Below Min Edge,46.35,42.19,44.25,2.11,4.16,126,+126,2.26,0.0,0.0,0.0,0.0,986.6247428928516,False
+96,2026-04-04,2,Regular,CGY at ANA,5-3,skip,away,CGY,,CGY,CGY,SKIP,below_min_edge,Below Min Edge,44.42,42.21,44.05,0.36,2.21,127,+127,2.27,0.0,0.0,0.0,0.0,986.6247428928516,False
+97,2026-04-04,2,Regular,NYI at CAR,3-4,skip,home,CAR,,CAR,CAR,SKIP,side_filter_away,Side Filter Away,78.21,69.1,72.38,5.83,9.11,-262,-262,1.381679389312977,0.0,0.0,0.0,0.0,986.6247428928516,False
+98,2026-04-04,2,Regular,WPG at CBJ,2-1,skip,home,CBJ,,CBJ,WPG,SKIP,no_positive_kelly,No Positive Kelly,56.26,57.45,60.0,-3.74,-1.18,-150,-150,1.6666666666666665,0.0,0.0,0.0,0.0,986.6247428928516,False
+99,2026-04-04,2,Regular,COL at DAL,2-0,skip,away,COL,,COL,COL,SKIP,below_min_edge,Below Min Edge,58.01,52.39,54.75,3.26,5.62,-121,-121,1.8264462809917357,0.0,0.0,0.0,0.0,986.6247428928516,False
+100,2026-04-04,2,Regular,VGK at EDM,5-1,skip,home,EDM,,EDM,VGK,SKIP,no_positive_kelly,No Positive Kelly,48.04,50.11,52.61,-4.57,-2.07,-111,-111,1.900900900900901,0.0,0.0,0.0,0.0,986.6247428928516,False
+101,2026-04-04,2,Regular,TOR at LAK,6-7,skip,away,TOR,,TOR,LAK,SKIP,below_min_model_prob,Below Min Model Prob,43.54,35.61,37.17,6.36,7.92,169,+169,2.69,0.0,0.0,0.0,0.0,986.6247428928516,False
+102,2026-04-04,2,Regular,MTL at NJD,4-3,skip,away,MTL,,MTL,MTL,SKIP,below_min_edge,Below Min Edge,55.99,53.25,55.56,0.43,2.74,-125,-125,1.8,0.0,0.0,0.0,0.0,986.6247428928516,False
+103,2026-04-04,2,Regular,DET at NYR,1-4,skip,home,NYR,,NYR,NYR,SKIP,side_filter_away,Side Filter Away,47.01,43.26,45.25,1.76,3.75,121,+121,2.21,0.0,0.0,0.0,0.0,986.6247428928516,False
+104,2026-04-04,2,Regular,MIN at OTT,4-1,skip,away,MIN,,MIN,MIN,SKIP,below_min_edge,Below Min Edge,47.69,45.56,47.62,0.07,2.13,110,+110,2.1,0.0,0.0,0.0,0.0,986.6247428928516,False
+105,2026-04-04,2,Regular,FLA at PIT,4-9,skip,away,FLA,,FLA,PIT,SKIP,below_min_edge,Below Min Edge,39.53,32.06,33.56,5.98,7.47,198,+198,2.98,0.0,0.0,0.0,0.0,986.6247428928516,False
+106,2026-04-04,2,Regular,CHI at SEA,4-2,skip,home,SEA,,SEA,CHI,SKIP,no_positive_kelly,No Positive Kelly,62.09,60.78,63.5,-1.42,1.31,-174,-174,1.5747126436781609,0.0,0.0,0.0,0.0,986.6247428928516,False
+107,2026-04-04,2,Regular,NSH at SJS,6-3,skip,home,SJS,,SJS,NSH,SKIP,no_positive_kelly,No Positive Kelly,52.02,52.05,54.55,-2.52,-0.03,-120,-120,1.8333333333333335,0.0,0.0,0.0,0.0,986.6247428928516,False
+108,2026-04-04,2,Regular,BOS at TBL,1-3,skip,away,BOS,,BOS,TBL,SKIP,below_min_edge,Below Min Edge,40.99,38.79,40.49,0.5,2.2,147,+147,2.47,0.0,0.0,0.0,0.0,986.6247428928516,False
+109,2026-04-04,2,Regular,UTA at VAN,7-4,skip,home,VAN,,VAN,UTA,SKIP,side_filter_away,Side Filter Away,34.55,33.07,34.48,0.06,1.48,190,+190,2.9,0.0,0.0,0.0,0.0,986.6247428928516,False
+110,2026-04-04,2,Regular,BUF at WSH,2-6,skip,away,BUF,,BUF,WSH,SKIP,below_min_edge,Below Min Edge,58.23,51.08,53.49,4.75,7.15,-115,-115,1.869565217391304,0.0,0.0,0.0,0.0,986.6247428928516,False
+111,2026-04-05,2,Regular,STL at COL,3-2,away,away,STL,STL,STL,STL,WIN,,,51.69,36.78,38.31,13.38,14.92,161,+161,2.6100000000000003,21.69,5.0,49.331237144642586,79.42329180287457,1066.048034695726,True
+112,2026-04-05,2,Regular,MIN at DET,5-4,skip,home,DET,,DET,MIN,SKIP,no_positive_kelly,No Positive Kelly,43.86,44.97,46.95,-3.09,-1.12,113,+113,2.13,0.0,0.0,0.0,0.0,1066.048034695726,False
+113,2026-04-05,2,Regular,NJD at MTL,3-0,skip,away,NJD,,NJD,NJD,SKIP,below_min_edge,Below Min Edge,50.35,43.19,45.25,5.1,7.16,121,+121,2.21,0.0,0.0,0.0,0.0,1066.048034695726,False
+114,2026-04-05,2,Regular,CAR at OTT,3-6,skip,away,CAR,,CAR,OTT,SKIP,below_min_edge,Below Min Edge,56.15,52.7,55.16,0.99,3.45,-123,-123,1.8130081300813008,0.0,0.0,0.0,0.0,1066.048034695726,False
+115,2026-04-05,2,Regular,BOS at PHI,1-2,away,away,BOS,BOS,BOS,PHI,LOSS,,,53.13,41.04,42.74,10.4,12.09,134,+134,2.34,18.15,5.0,53.30240173478631,-53.30240173478631,1012.7456329609398,True
+116,2026-04-05,2,Regular,FLA at PIT,2-5,skip,away,FLA,,FLA,PIT,SKIP,below_min_edge,Below Min Edge,39.09,32.26,33.78,5.31,6.83,196,+196,2.96,0.0,0.0,0.0,0.0,1012.7456329609398,False
+117,2026-04-06,2,Regular,TBL at BUF,2-4,skip,home,BUF,,BUF,BUF,SKIP,no_positive_kelly,No Positive Kelly,47.17,48.17,50.5,-3.32,-0.99,-102,-102,1.9803921568627452,0.0,0.0,0.0,0.0,1012.7456329609398,False
+118,2026-04-06,2,Regular,CHI at SJS,2-3,skip,home,SJS,,SJS,SJS,SKIP,no_positive_kelly,No Positive Kelly,57.59,59.18,61.69,-4.09,-1.59,-161,-161,1.62111801242236,0.0,0.0,0.0,0.0,1012.7456329609398,False
+119,2026-04-06,2,Regular,SEA at WPG,2-6,skip,home,WPG,,WPG,WPG,SKIP,no_positive_kelly,No Positive Kelly,60.12,60.43,63.1,-2.98,-0.31,-171,-171,1.5847953216374269,0.0,0.0,0.0,0.0,1012.7456329609398,False
+120,2026-04-07,2,Regular,NSH at ANA,5-0,away,away,NSH,NSH,NSH,NSH,WIN,,,52.13,41.75,43.67,8.46,10.38,129,+129,2.29,15.02,5.0,50.637281648046994,65.32209332598062,1078.0677262869203,True
+121,2026-04-07,2,Regular,BOS at CAR,5-6,skip,home,CAR,,CAR,CAR,SKIP,no_positive_kelly,No Positive Kelly,62.02,62.65,65.52,-3.5,-0.63,-190,-190,1.526315789473684,0.0,0.0,0.0,0.0,1078.0677262869203,False
+122,2026-04-07,2,Regular,CGY at DAL,3-4,skip,home,DAL,,DAL,DAL,SKIP,side_filter_away,Side Filter Away,79.4,68.99,72.22,7.18,10.41,-260,-260,1.3846153846153846,0.0,0.0,0.0,0.0,1078.0677262869203,False
+123,2026-04-07,2,Regular,SEA at MIN,2-5,skip,away,SEA,,SEA,MIN,SKIP,below_min_edge,Below Min Edge,37.19,30.69,32.15,5.03,6.49,211,+211,3.11,0.0,0.0,0.0,0.0,1078.0677262869203,False
+124,2026-04-07,2,Regular,FLA at MTL,3-4,skip,home,MTL,,MTL,MTL,SKIP,no_positive_kelly,No Positive Kelly,72.18,70.97,74.29,-2.11,1.22,-289,-289,1.3460207612456747,0.0,0.0,0.0,0.0,1078.0677262869203,False
+125,2026-04-07,2,Regular,TBL at OTT,2-6,skip,home,OTT,,OTT,OTT,SKIP,no_positive_kelly,No Positive Kelly,54.68,55.94,58.51,-3.83,-1.26,-141,-141,1.7092198581560285,0.0,0.0,0.0,0.0,1078.0677262869203,False
+126,2026-04-07,2,Regular,COL at STL,3-1,skip,home,STL,,STL,COL,SKIP,side_filter_away,Side Filter Away,45.46,41.25,43.1,2.36,4.21,132,+132,2.3200000000000003,0.0,0.0,0.0,0.0,1078.0677262869203,False
+127,2026-04-07,2,Regular,EDM at UTA,5-6,away,away,EDM,EDM,EDM,UTA,LOSS,,,56.5,44.55,46.3,10.2,11.95,116,+116,2.16,19.0,5.0,53.90338631434602,-53.90338631434602,1024.1643399725742,True
+128,2026-04-07,2,Regular,VGK at VAN,2-1,skip,home,VAN,,VAN,VGK,SKIP,side_filter_away,Side Filter Away,34.43,30.81,32.26,2.17,3.62,210,+210,3.1,0.0,0.0,0.0,0.0,1024.1643399725742,False
+129,2026-04-08,2,Regular,BUF at NYR,5-3,skip,home,NYR,,NYR,BUF,SKIP,side_filter_away,Side Filter Away,50.49,44.59,46.51,3.97,5.9,115,+115,2.15,0.0,0.0,0.0,0.0,1024.1643399725742,False
+130,2026-04-08,2,Regular,EDM at SJS,5-2,skip,home,SJS,,SJS,EDM,SKIP,side_filter_away,Side Filter Away,55.08,49.79,52.38,2.7,5.3,-110,-110,1.9090909090909087,0.0,0.0,0.0,0.0,1024.1643399725742,False
+131,2026-04-08,2,Regular,WSH at TOR,4-0,skip,home,TOR,,TOR,WSH,SKIP,side_filter_away,Side Filter Away,43.71,41.37,43.1,0.61,2.35,132,+132,2.3200000000000003,0.0,0.0,0.0,0.0,1024.1643399725742,False
+132,2026-04-09,2,Regular,SJS at ANA,1-6,skip,away,SJS,,SJS,ANA,SKIP,below_min_model_prob,Below Min Model Prob,48.13,39.83,41.49,6.64,8.3,141,+141,2.41,0.0,0.0,0.0,0.0,1024.1643399725742,False
+133,2026-04-09,2,Regular,CGY at COL,1-3,skip,away,CGY,,CGY,COL,SKIP,below_min_model_prob,Below Min Model Prob,40.76,25.81,27.03,13.73,14.94,270,+270,3.7,0.0,0.0,0.0,0.0,1024.1643399725742,False
+134,2026-04-09,2,Regular,VAN at LAK,1-4,skip,home,LAK,,LAK,LAK,SKIP,no_positive_kelly,No Positive Kelly,71.27,71.39,74.49,-3.22,-0.13,-292,-292,1.3424657534246576,0.0,0.0,0.0,0.0,1024.1643399725742,False
+135,2026-04-09,2,Regular,TBL at MTL,1-2,skip,away,TBL,,TBL,MTL,SKIP,below_min_edge,Below Min Edge,56.97,52.17,54.55,2.42,4.79,-120,-120,1.8333333333333333,0.0,0.0,0.0,0.0,1024.1643399725742,False
+136,2026-04-09,2,Regular,TOR at NYI,3-5,skip,away,TOR,,TOR,NYI,SKIP,below_min_edge,Below Min Edge,30.04,28.19,29.41,0.63,1.86,240,+240,3.4,0.0,0.0,0.0,0.0,1024.1643399725742,False
+137,2026-04-09,2,Regular,FLA at OTT,1-5,skip,home,OTT,,OTT,OTT,SKIP,no_positive_kelly,No Positive Kelly,75.59,76.14,79.38,-3.79,-0.55,-385,-385,1.2597402597402598,0.0,0.0,0.0,0.0,1024.1643399725742,False
+138,2026-04-09,2,Regular,VGK at SEA,3-4,skip,away,VGK,,VGK,SEA,SKIP,below_min_edge,Below Min Edge,68.61,63.47,66.33,2.28,5.14,-197,-197,1.5076142131979695,0.0,0.0,0.0,0.0,1024.1643399725742,False
+139,2026-04-09,2,Regular,NSH at UTA,1-4,skip,away,NSH,,NSH,UTA,SKIP,below_min_edge,Below Min Edge,40.34,38.59,40.16,0.18,1.75,149,+149,2.49,0.0,0.0,0.0,0.0,1024.1643399725742,False
+140,2026-04-11,2,Regular,TBL at BOS,2-1,skip,home,BOS,,BOS,TBL,SKIP,no_positive_kelly,No Positive Kelly,47.66,48.82,51.22,-3.56,-1.16,-105,-105,1.9523809523809523,0.0,0.0,0.0,0.0,1024.1643399725742,False
+141,2026-04-11,2,Regular,STL at CHI,5-3,skip,home,CHI,,CHI,STL,SKIP,side_filter_away,Side Filter Away,45.64,42.42,44.44,1.19,3.21,125,+125,2.25,0.0,0.0,0.0,0.0,1024.1643399725742,False
+142,2026-04-11,2,Regular,VGK at COL,3-2,away,away,VGK,VGK,VGK,VGK,WIN,,,58.1,45.17,47.17,10.93,12.93,112,+112,2.12,20.69,5.0,51.208216998628714,57.353203038464166,1081.5175430110385,True
+143,2026-04-11,2,Regular,NYR at DAL,0-2,skip,home,DAL,,DAL,DAL,SKIP,no_positive_kelly,No Positive Kelly,64.71,62.11,65.03,-0.32,2.61,-186,-186,1.5376344086021505,0.0,0.0,0.0,0.0,1081.5175430110385,False
+144,2026-04-11,2,Regular,NJD at DET,5-3,skip,away,NJD,,NJD,NJD,SKIP,below_min_edge,Below Min Edge,47.06,44.63,46.73,0.34,2.44,114,+114,2.14,0.0,0.0,0.0,0.0,1081.5175430110385,False
+145,2026-04-11,2,Regular,EDM at LAK,0-1,skip,away,EDM,,EDM,LAK,SKIP,below_min_edge,Below Min Edge,53.7,47.64,50.0,3.7,6.06,100,+100,2.0,0.0,0.0,0.0,0.0,1081.5175430110385,False
+146,2026-04-11,2,Regular,CBJ at MTL,5-2,skip,away,CBJ,,CBJ,CBJ,SKIP,below_min_edge,Below Min Edge,50.43,45.05,46.95,3.48,5.38,113,+113,2.13,0.0,0.0,0.0,0.0,1081.5175430110385,False
+147,2026-04-11,2,Regular,WSH at PIT,6-3,skip,home,PIT,,PIT,WSH,SKIP,side_filter_away,Side Filter Away,53.43,42.27,44.05,9.38,11.16,127,+127,2.27,0.0,0.0,0.0,0.0,1081.5175430110385,False
+148,2026-04-11,2,Regular,CGY at SEA,1-4,skip,away,CGY,,CGY,SEA,SKIP,below_min_edge,Below Min Edge,49.87,46.13,48.08,1.79,3.74,108,+108,2.08,0.0,0.0,0.0,0.0,1081.5175430110385,False
+149,2026-04-11,2,Regular,VAN at SJS,4-3,skip,home,SJS,,SJS,VAN,SKIP,side_filter_away,Side Filter Away,68.69,64.19,66.89,1.8,4.5,-202,-202,1.495049504950495,0.0,0.0,0.0,0.0,1081.5175430110385,False
+150,2026-04-11,2,Regular,FLA at TOR,6-2,skip,home,TOR,,TOR,FLA,SKIP,no_positive_kelly,No Positive Kelly,53.64,54.74,56.52,-2.89,-1.11,-130,-130,1.7692307692307692,0.0,0.0,0.0,0.0,1081.5175430110385,False
+151,2026-04-11,2,Regular,CAR at UTA,4-1,skip,home,UTA,,UTA,CAR,SKIP,no_positive_kelly,No Positive Kelly,55.79,54.12,56.71,-0.91,1.68,-131,-131,1.7633587786259541,0.0,0.0,0.0,0.0,1081.5175430110385,False
+152,2026-04-12,2,Regular,VAN at ANA,4-3,skip,home,ANA,,ANA,VAN,SKIP,no_positive_kelly,No Positive Kelly,72.74,73.46,76.69,-3.95,-0.73,-329,-329,1.303951367781155,0.0,0.0,0.0,0.0,1081.5175430110385,False
+153,2026-04-12,2,Regular,BOS at CBJ,3-2,skip,home,CBJ,,CBJ,BOS,SKIP,no_positive_kelly,No Positive Kelly,63.15,63.6,66.44,-3.29,-0.45,-198,-198,1.5050505050505052,0.0,0.0,0.0,0.0,1081.5175430110385,False
+154,2026-04-12,2,Regular,UTA at CGY,1-4,skip,home,CGY,,CGY,CGY,SKIP,no_positive_kelly,No Positive Kelly,40.44,40.08,41.84,-1.4,0.36,139,+139,2.3899999999999997,0.0,0.0,0.0,0.0,1081.5175430110385,False
+155,2026-04-12,2,Regular,OTT at NJD,3-4,skip,away,OTT,,OTT,NJD,SKIP,below_min_edge,Below Min Edge,49.51,46.79,49.02,0.49,2.72,104,+104,2.04,0.0,0.0,0.0,0.0,1081.5175430110385,False
+156,2026-04-12,2,Regular,PIT at WSH,0-3,skip,away,PIT,,PIT,WSH,SKIP,below_min_edge,Below Min Edge,49.26,43.08,45.05,4.21,6.18,122,+122,2.22,0.0,0.0,0.0,0.0,1081.5175430110385,False
+157,2026-04-13,2,Regular,BUF at CHI,5-1,skip,home,CHI,,CHI,BUF,SKIP,no_positive_kelly,No Positive Kelly,36.8,35.54,37.17,-0.37,1.27,169,+169,2.69,0.0,0.0,0.0,0.0,1081.5175430110385,False
+158,2026-04-13,2,Regular,COL at EDM,2-1,away,away,COL,COL,COL,COL,WIN,,,68.33,53.13,55.56,12.78,15.21,-125,-125,1.8,28.75,5.0,54.075877150551925,43.260701720441546,1124.77824473148,True
+159,2026-04-13,2,Regular,NYR at FLA,2-3,skip,home,FLA,,FLA,FLA,SKIP,no_positive_kelly,No Positive Kelly,42.13,41.19,43.1,-0.98,0.94,132,+132,2.3200000000000003,0.0,0.0,0.0,0.0,1124.77824473148,False
+160,2026-04-13,2,Regular,SJS at NSH,3-2,skip,away,SJS,,SJS,SJS,SKIP,below_min_edge,Below Min Edge,45.56,42.08,44.05,1.51,3.48,127,+127,2.27,0.0,0.0,0.0,0.0,1124.77824473148,False
+161,2026-04-13,2,Regular,CAR at PHI,2-3,away,away,CAR,CAR,CAR,PHI,LOSS,,,51.78,40.24,42.02,9.77,11.55,138,+138,2.38,16.84,5.0,56.23891223657401,-56.23891223657401,1068.5393324949061,True
+162,2026-04-13,2,Regular,LAK at SEA,5-3,skip,home,SEA,,SEA,LAK,SKIP,side_filter_away,Side Filter Away,45.55,38.83,40.49,5.06,6.72,147,+147,2.47,0.0,0.0,0.0,0.0,1068.5393324949061,False
+163,2026-04-13,2,Regular,MIN at STL,3-6,skip,home,STL,,STL,STL,SKIP,no_positive_kelly,No Positive Kelly,61.91,62.38,65.28,-3.37,-0.47,-188,-188,1.5319148936170213,0.0,0.0,0.0,0.0,1068.5393324949061,False
+164,2026-04-13,2,Regular,DET at TBL,3-4,skip,away,DET,,DET,TBL,SKIP,below_min_edge,Below Min Edge,41.44,36.14,37.74,3.71,5.3,165,+165,2.65,0.0,0.0,0.0,0.0,1068.5393324949061,False
+165,2026-04-13,2,Regular,DAL at TOR,6-5,skip,away,DAL,,DAL,DAL,SKIP,below_min_edge,Below Min Edge,67.06,63.52,66.22,0.85,3.54,-196,-196,1.510204081632653,0.0,0.0,0.0,0.0,1068.5393324949061,False
+166,2026-04-13,2,Regular,WPG at VGK,2-6,skip,away,WPG,,WPG,VGK,SKIP,below_min_edge,Below Min Edge,42.35,38.03,39.68,2.67,4.33,152,+152,2.52,0.0,0.0,0.0,0.0,1068.5393324949061,False
+167,2026-04-14,2,Regular,NJD at BOS,0-4,skip,home,BOS,,BOS,BOS,SKIP,no_positive_kelly,No Positive Kelly,59.13,57.79,60.32,-1.18,1.34,-152,-152,1.6578947368421053,0.0,0.0,0.0,0.0,1068.5393324949061,False
+168,2026-04-14,2,Regular,WSH at CBJ,2-1,away,away,WSH,WSH,WSH,WSH,WIN,,,55.85,42.04,43.86,11.99,13.81,128,+128,2.28,21.36,5.0,53.42696662474531,68.386517279674,1136.9258497745802,True
+169,2026-04-14,2,Regular,ANA at MIN,2-3,skip,home,MIN,,MIN,MIN,SKIP,no_positive_kelly,No Positive Kelly,40.06,39.22,40.98,-0.92,0.84,144,+144,2.44,0.0,0.0,0.0,0.0,1136.9258497745802,False
+170,2026-04-14,2,Regular,CAR at NYI,2-1,skip,home,NYI,,NYI,CAR,SKIP,no_positive_kelly,No Positive Kelly,60.46,61.78,64.41,-3.95,-1.33,-181,-181,1.5524861878453038,0.0,0.0,0.0,0.0,1136.9258497745802,False
+171,2026-04-14,2,Regular,MTL at PHI,2-4,skip,home,PHI,,PHI,PHI,SKIP,side_filter_away,Side Filter Away,32.94,28.19,29.41,3.53,4.76,240,+240,3.4,0.0,0.0,0.0,0.0,1136.9258497745802,False
+172,2026-04-14,2,Regular,PIT at STL,5-7,skip,home,STL,,STL,STL,SKIP,no_positive_kelly,No Positive Kelly,67.34,65.78,68.65,-1.31,1.56,-219,-219,1.45662100456621,0.0,0.0,0.0,0.0,1136.9258497745802,False
+173,2026-04-14,2,Regular,WPG at UTA,3-5,skip,away,WPG,,WPG,UTA,SKIP,below_min_edge,Below Min Edge,40.26,34.01,35.59,4.67,6.25,181,+181,2.81,0.0,0.0,0.0,0.0,1136.9258497745802,False
+174,2026-04-14,2,Regular,LAK at VAN,3-4,skip,home,VAN,,VAN,VAN,SKIP,side_filter_away,Side Filter Away,42.58,40.18,42.02,0.57,2.4,138,+138,2.38,0.0,0.0,0.0,0.0,1136.9258497745802,False
+175,2026-04-15,2,Regular,DAL at BUF,4-3,skip,home,BUF,,BUF,DAL,SKIP,side_filter_away,Side Filter Away,47.09,42.84,44.84,2.25,4.25,123,+123,2.23,0.0,0.0,0.0,0.0,1136.9258497745802,False
+176,2026-04-15,2,Regular,SJS at CHI,2-5,skip,away,SJS,,SJS,CHI,SKIP,below_min_edge,Below Min Edge,55.88,53.0,55.56,0.33,2.88,-125,-125,1.8,0.0,0.0,0.0,0.0,1136.9258497745802,False
+177,2026-04-15,2,Regular,DET at FLA,1-8,skip,home,FLA,,FLA,FLA,SKIP,side_filter_away,Side Filter Away,42.3,39.93,41.67,0.63,2.37,140,+140,2.4,0.0,0.0,0.0,0.0,1136.9258497745802,False
+178,2026-04-15,2,Regular,TOR at OTT,1-3,skip,away,TOR,,TOR,OTT,SKIP,below_min_model_prob,Below Min Model Prob,43.77,35.9,37.45,6.31,7.87,167,+167,2.67,0.0,0.0,0.0,0.0,1136.9258497745802,False
+179,2026-04-15,2,Regular,NYR at TBL,4-2,skip,away,NYR,,NYR,NYR,SKIP,below_min_edge,Below Min Edge,48.8,42.27,44.05,4.74,6.52,127,+127,2.27,0.0,0.0,0.0,0.0,1136.9258497745802,False
+180,2026-04-15,2,Regular,SEA at VGK,1-4,skip,home,VGK,,VGK,VGK,SKIP,no_positive_kelly,No Positive Kelly,73.83,73.57,76.69,-2.86,0.26,-329,-329,1.303951367781155,0.0,0.0,0.0,0.0,1136.9258497745802,False
+181,2026-04-16,2,Regular,LAK at CGY,1-3,skip,home,CGY,,CGY,CGY,SKIP,side_filter_away,Side Filter Away,44.55,39.42,41.15,3.39,5.12,143,+143,2.43,0.0,0.0,0.0,0.0,1136.9258497745802,False
+182,2026-04-16,2,Regular,SEA at COL,0-2,skip,away,SEA,,SEA,COL,SKIP,below_min_edge,Below Min Edge,38.74,34.25,35.71,3.02,4.48,180,+180,2.8,0.0,0.0,0.0,0.0,1136.9258497745802,False
+183,2026-04-16,2,Regular,VAN at EDM,1-6,skip,away,VAN,,VAN,EDM,SKIP,below_min_edge,Below Min Edge,30.78,25.36,26.6,4.18,5.42,276,+276,3.76,0.0,0.0,0.0,0.0,1136.9258497745802,False
+184,2026-04-16,2,Regular,SJS at WPG,6-1,skip,away,SJS,,SJS,SJS,SKIP,below_min_edge,Below Min Edge,42.7,40.82,42.55,0.15,1.88,135,+135,2.35,0.0,0.0,0.0,0.0,1136.9258497745802,False
+185,2026-04-18,3,Playoffs,OTT at CAR,0-2,skip,away,OTT,,OTT,CAR,SKIP,below_min_edge,Below Min Edge,47.23,43.01,45.05,2.19,4.22,122,+122,2.22,0.0,0.0,0.0,0.0,1136.9258497745802,False
+186,2026-04-18,3,Playoffs,PHI at PIT,3-2,away,away,PHI,PHI,PHI,PHI,WIN,,,51.7,43.15,45.05,6.66,8.55,122,+122,2.22,12.12,5.0,56.84629248872901,69.35247683624941,1206.2783266108297,True
+187,2026-04-19,3,Playoffs,BOS at BUF,3-4,skip,away,BOS,,BOS,BUF,SKIP,below_min_edge,Below Min Edge,43.74,39.72,41.49,2.24,4.01,141,+141,2.41,0.0,0.0,0.0,0.0,1206.2783266108297,False
+188,2026-04-19,3,Playoffs,LAK at COL,1-2,skip,home,COL,,COL,COL,SKIP,no_positive_kelly,No Positive Kelly,72.25,71.39,74.49,-2.24,0.86,-292,-292,1.3424657534246576,0.0,0.0,0.0,0.0,1206.2783266108297,False
+189,2026-04-19,3,Playoffs,MTL at TBL,4-3,skip,away,MTL,,MTL,MTL,SKIP,below_min_model_prob,Below Min Model Prob,47.87,38.22,39.84,8.03,9.65,151,+151,2.51,0.0,0.0,0.0,0.0,1206.2783266108297,False
+190,2026-04-19,3,Playoffs,UTA at VGK,2-4,skip,home,VGK,,VGK,VGK,SKIP,no_positive_kelly,No Positive Kelly,61.02,59.29,61.98,-0.96,1.73,-163,-163,1.6134969325153374,0.0,0.0,0.0,0.0,1206.2783266108297,False
+191,2026-04-20,3,Playoffs,OTT at CAR,2-3,skip,away,OTT,,OTT,CAR,SKIP,below_min_edge,Below Min Edge,44.77,41.76,43.48,1.29,3.01,130,+130,2.3,0.0,0.0,0.0,0.0,1206.2783266108297,False
+192,2026-04-20,3,Playoffs,MIN at DAL,2-4,skip,away,MIN,,MIN,DAL,SKIP,below_min_edge,Below Min Edge,45.4,43.11,44.84,0.55,2.29,123,+123,2.23,0.0,0.0,0.0,0.0,1206.2783266108297,False
+193,2026-04-20,3,Playoffs,ANA at EDM,3-4,skip,home,EDM,,EDM,EDM,SKIP,no_positive_kelly,No Positive Kelly,63.54,63.82,66.56,-3.01,-0.28,-199,-199,1.5025125628140703,0.0,0.0,0.0,0.0,1206.2783266108297,False
+194,2026-04-20,3,Playoffs,PHI at PIT,3-0,away,away,PHI,PHI,PHI,PHI,WIN,,,52.18,42.08,44.05,8.12,10.09,127,+127,2.27,14.52,5.0,60.31391633054149,76.59867373978769,1282.8770003506174,True
+195,2026-04-21,3,Playoffs,BOS at BUF,4-2,skip,away,BOS,,BOS,BOS,SKIP,below_min_edge,Below Min Edge,44.35,40.04,41.67,2.68,4.31,140,+140,2.4,0.0,0.0,0.0,0.0,1282.8770003506174,False
+196,2026-04-21,3,Playoffs,LAK at COL,1-2,skip,home,COL,,COL,COL,SKIP,side_filter_away,Side Filter Away,75.1,70.61,73.68,1.41,4.49,-280,-280,1.3571428571428572,0.0,0.0,0.0,0.0,1282.8770003506174,False
+197,2026-04-21,3,Playoffs,MTL at TBL,2-3,skip,away,MTL,,MTL,TBL,SKIP,below_min_model_prob,Below Min Model Prob,48.54,37.39,39.06,9.47,11.14,156,+156,2.56,0.0,0.0,0.0,0.0,1282.8770003506174,False
+198,2026-04-21,3,Playoffs,UTA at VGK,3-2,skip,away,UTA,,UTA,UTA,SKIP,below_min_edge,Below Min Edge,46.51,41.91,43.86,2.65,4.6,128,+128,2.28,0.0,0.0,0.0,0.0,1282.8770003506174,False
+199,2026-04-22,3,Playoffs,ANA at EDM,6-4,skip,home,EDM,,EDM,ANA,SKIP,no_positive_kelly,No Positive Kelly,64.54,63.22,66.1,-1.56,1.33,-195,-195,1.5128205128205128,0.0,0.0,0.0,0.0,1282.8770003506174,False
+200,2026-04-22,3,Playoffs,DAL at MIN,4-3,skip,away,DAL,,DAL,DAL,SKIP,below_min_edge,Below Min Edge,50.27,48.15,49.26,1.01,2.12,103,+103,2.03,0.0,0.0,0.0,0.0,1282.8770003506174,False
+201,2026-04-23,3,Playoffs,BUF at BOS,3-1,skip,home,BOS,,BOS,BUF,SKIP,no_positive_kelly,No Positive Kelly,49.74,51.3,53.7,-3.96,-1.56,-116,-116,1.8620689655172413,0.0,0.0,0.0,0.0,1282.8770003506174,False
+202,2026-04-23,3,Playoffs,COL at LAK,4-2,skip,away,COL,,COL,COL,SKIP,below_min_edge,Below Min Edge,69.56,62.75,64.79,4.77,6.81,-184,-184,1.5434782608695652,0.0,0.0,0.0,0.0,1282.8770003506174,False
+203,2026-04-23,3,Playoffs,CAR at OTT,2-1,skip,away,CAR,,CAR,CAR,SKIP,below_min_edge,Below Min Edge,49.13,46.54,48.54,0.59,2.59,106,+106,2.06,0.0,0.0,0.0,0.0,1282.8770003506174,False
+204,2026-04-24,3,Playoffs,TBL at MTL,2-3,skip,home,MTL,,MTL,MTL,SKIP,no_positive_kelly,No Positive Kelly,46.97,48.17,50.5,-3.53,-1.2,-102,-102,1.9803921568627452,0.0,0.0,0.0,0.0,1282.8770003506174,False
+205,2026-04-24,3,Playoffs,VGK at UTA,2-4,skip,home,UTA,,UTA,UTA,SKIP,no_positive_kelly,No Positive Kelly,45.72,48.07,50.5,-4.77,-2.35,-102,-102,1.9803921568627452,0.0,0.0,0.0,0.0,1282.8770003506174,False
+206,2026-04-25,3,Playoffs,DAL at MIN,2-3,skip,away,DAL,,DAL,MIN,SKIP,below_min_edge,Below Min Edge,50.99,45.96,48.08,2.91,5.03,108,+108,2.08,0.0,0.0,0.0,0.0,1282.8770003506174,False
+207,2026-04-25,3,Playoffs,CAR at OTT,4-2,skip,home,OTT,,OTT,CAR,SKIP,side_filter_away,Side Filter Away,47.78,44.51,46.51,1.27,3.27,115,+115,2.15,0.0,0.0,0.0,0.0,1282.8770003506174,False
+208,2026-04-25,3,Playoffs,PIT at PHI,4-2,skip,away,PIT,,PIT,PIT,SKIP,below_min_edge,Below Min Edge,50.93,46.63,48.54,2.39,4.3,106,+106,2.06,0.0,0.0,0.0,0.0,1282.8770003506174,False
+209,2026-04-26,3,Playoffs,BUF at BOS,6-1,skip,away,BUF,,BUF,BUF,SKIP,below_min_edge,Below Min Edge,53.24,47.83,50.0,3.24,5.42,-100,-100,2.0,0.0,0.0,0.0,0.0,1282.8770003506174,False
+210,2026-04-26,3,Playoffs,COL at LAK,5-1,away,away,COL,COL,COL,COL,WIN,,,72.34,61.88,64.41,7.93,10.46,-181,-181,1.5524861878453038,22.28,5.0,64.14385001753088,35.43859116990656,1318.315591520524,True
+211,2026-04-26,3,Playoffs,TBL at MTL,3-2,skip,home,MTL,,MTL,TBL,SKIP,side_filter_away,Side Filter Away,51.45,47.95,50.25,1.21,3.5,-101,-101,1.99009900990099,0.0,0.0,0.0,0.0,1318.315591520524,False
+212,2026-04-27,3,Playoffs,PHI at PIT,2-3,away,away,PHI,PHI,PHI,PIT,LOSS,,,56.21,45.73,47.62,8.59,10.49,110,+110,2.1,16.41,5.0,65.91577957602621,-65.91577957602621,1252.399811944498,True
+213,2026-04-27,3,Playoffs,VGK at UTA,5-4,skip,home,UTA,,UTA,VGK,SKIP,side_filter_away,Side Filter Away,47.6,40.75,42.02,5.58,6.85,138,+138,2.38,0.0,0.0,0.0,0.0,1252.399811944498,False
+214,2026-04-28,3,Playoffs,BOS at BUF,2-1,skip,home,BUF,,BUF,BOS,SKIP,no_positive_kelly,No Positive Kelly,60.39,60.38,62.96,-2.57,0.02,-170,-170,1.5882352941176472,0.0,0.0,0.0,0.0,1252.399811944498,False
+215,2026-04-28,3,Playoffs,MIN at DAL,4-2,skip,away,MIN,,MIN,MIN,SKIP,below_min_edge,Below Min Edge,51.6,50.12,51.46,0.14,1.48,-106,-106,1.9433962264150944,0.0,0.0,0.0,0.0,1252.399811944498,False
+216,2026-04-28,3,Playoffs,ANA at EDM,1-4,skip,away,ANA,,ANA,EDM,SKIP,below_min_model_prob,Below Min Model Prob,49.71,41.15,42.92,6.79,8.57,133,+133,2.33,0.0,0.0,0.0,0.0,1252.399811944498,False
+217,2026-04-29,3,Playoffs,PIT at PHI,0-1,skip,away,PIT,,PIT,PHI,SKIP,below_min_edge,Below Min Edge,52.61,47.64,50.0,2.61,4.97,100,+100,2.0,0.0,0.0,0.0,0.0,1252.399811944498,False
+218,2026-04-29,3,Playoffs,MTL at TBL,3-2,away,away,MTL,MTL,MTL,MTL,WIN,,,52.04,44.41,45.45,6.59,7.63,120,+120,2.2,12.08,5.0,62.6199905972249,75.1439887166699,1327.5438006611678,True
+219,2026-04-29,3,Playoffs,UTA at VGK,4-5,skip,home,VGK,,VGK,VGK,SKIP,no_positive_kelly,No Positive Kelly,58.94,59.65,62.12,-3.18,-0.72,-164,-164,1.6097560975609757,0.0,0.0,0.0,0.0,1327.5438006611678,False
+220,2026-04-30,3,Playoffs,DAL at MIN,2-5,skip,away,DAL,,DAL,MIN,SKIP,below_min_edge,Below Min Edge,53.77,46.25,48.31,5.46,7.52,107,+107,2.0700000000000003,0.0,0.0,0.0,0.0,1327.5438006611678,False
+221,2026-05-01,3,Playoffs,TBL at MTL,1-0,skip,home,MTL,,MTL,TBL,SKIP,no_positive_kelly,No Positive Kelly,48.43,48.26,50.5,-2.06,0.17,-102,-102,1.9803921568627452,0.0,0.0,0.0,0.0,1327.5438006611678,False
+222,2026-05-01,3,Playoffs,VGK at UTA,5-1,skip,away,VGK,,VGK,VGK,SKIP,below_min_edge,Below Min Edge,55.52,51.86,54.13,1.39,3.66,-118,-118,1.847457627118644,0.0,0.0,0.0,0.0,1327.5438006611678,False
+223,2026-05-02,3,Playoffs,PHI at CAR,0-3,skip,home,CAR,,CAR,CAR,SKIP,side_filter_away,Side Filter Away,77.2,68.8,71.83,5.37,8.4,-255,-255,1.392156862745098,0.0,0.0,0.0,0.0,1327.5438006611678,False
+224,2026-05-03,3,Playoffs,MIN at COL,6-9,skip,home,COL,,COL,COL,SKIP,side_filter_away,Side Filter Away,73.46,64.27,67.11,6.35,9.19,-204,-204,1.4901960784313726,0.0,0.0,0.0,0.0,1327.5438006611678,False
+225,2026-05-03,3,Playoffs,MTL at TBL,2-1,skip,away,MTL,,MTL,MTL,SKIP,below_min_edge,Below Min Edge,46.8,40.55,42.37,4.42,6.25,136,+136,2.3600000000000003,0.0,0.0,0.0,0.0,1327.5438006611678,False
+226,2026-05-04,3,Playoffs,PHI at CAR,2-3,skip,home,CAR,,CAR,CAR,SKIP,side_filter_away,Side Filter Away,77.35,70.48,73.47,3.87,6.87,-277,-277,1.3610108303249098,0.0,0.0,0.0,0.0,1327.5438006611678,False
+227,2026-05-04,3,Playoffs,ANA at VGK,1-3,skip,away,ANA,,ANA,VGK,SKIP,below_min_edge,Below Min Edge,44.16,39.18,40.82,3.34,4.98,145,+145,2.45,0.0,0.0,0.0,0.0,1327.5438006611678,False
+228,2026-05-05,3,Playoffs,MIN at COL,2-5,skip,away,MIN,,MIN,COL,SKIP,below_min_edge,Below Min Edge,42.16,35.93,37.45,4.71,6.23,167,+167,2.67,0.0,0.0,0.0,0.0,1327.5438006611678,False
+229,2026-05-06,3,Playoffs,MTL at BUF,2-4,skip,away,MTL,,MTL,BUF,SKIP,below_min_edge,Below Min Edge,48.96,44.02,45.87,3.09,4.94,118,+118,2.18,0.0,0.0,0.0,0.0,1327.5438006611678,False
+230,2026-05-06,3,Playoffs,ANA at VGK,3-1,skip,away,ANA,,ANA,ANA,SKIP,below_min_edge,Below Min Edge,47.69,41.64,43.48,4.21,6.05,130,+130,2.3,0.0,0.0,0.0,0.0,1327.5438006611678,False
+231,2026-05-07,3,Playoffs,CAR at PHI,4-1,skip,home,PHI,,PHI,CAR,SKIP,side_filter_away,Side Filter Away,48.2,39.83,41.49,6.71,8.37,141,+141,2.41,0.0,0.0,0.0,0.0,1327.5438006611678,False
+232,2026-05-09,3,Playoffs,COL at MIN,1-5,skip,away,COL,,COL,MIN,SKIP,below_min_edge,Below Min Edge,61.67,54.32,56.9,4.77,7.35,-132,-132,1.7575757575757576,0.0,0.0,0.0,0.0,1327.5438006611678,False
+233,2026-05-09,3,Playoffs,CAR at PHI,3-2,skip,home,PHI,,PHI,CAR,SKIP,side_filter_away,Side Filter Away,45.26,35.94,37.59,7.67,9.32,166,+166,2.66,0.0,0.0,0.0,0.0,1327.5438006611678,False
+234,2026-05-10,3,Playoffs,VGK at ANA,3-4,away,away,VGK,VGK,VGK,ANA,LOSS,,,56.08,47.83,50.0,6.08,8.26,100,+100,2.0,12.17,5.0,66.3771900330584,-66.3771900330584,1261.1666106281093,True
+235,2026-05-11,3,Playoffs,COL at MIN,5-2,skip,home,MIN,,MIN,COL,SKIP,side_filter_away,Side Filter Away,47.98,42.04,43.86,4.12,5.94,128,+128,2.28,0.0,0.0,0.0,0.0,1261.1666106281093,False
+236,2026-05-12,3,Playoffs,BUF at MTL,3-2,away,away,BUF,BUF,BUF,BUF,WIN,,,51.3,42.55,44.44,6.86,8.75,125,+125,2.25,12.34,5.0,63.05833053140547,78.82291316425683,1339.989523792366,True
+237,2026-05-12,3,Playoffs,ANA at VGK,2-3,skip,away,ANA,,ANA,VGK,SKIP,below_min_edge,Below Min Edge,44.72,39.72,41.49,3.23,5.0,141,+141,2.41,0.0,0.0,0.0,0.0,1339.989523792366,False
+238,2026-05-13,3,Playoffs,MIN at COL,3-4,skip,home,COL,,COL,COL,SKIP,no_positive_kelly,No Positive Kelly,65.63,66.58,69.42,-3.79,-0.96,-227,-227,1.4405286343612334,0.0,0.0,0.0,0.0,1339.989523792366,False
+239,2026-05-14,3,Playoffs,VGK at ANA,5-1,skip,home,ANA,,ANA,VGK,SKIP,no_positive_kelly,No Positive Kelly,55.35,53.37,55.56,-0.21,1.98,-125,-125,1.8,0.0,0.0,0.0,0.0,1339.989523792366,False
+240,2026-05-16,3,Playoffs,BUF at MTL,8-3,skip,away,BUF,,BUF,BUF,SKIP,below_min_edge,Below Min Edge,45.79,39.13,40.82,4.97,6.66,145,+145,2.45,0.0,0.0,0.0,0.0,1339.989523792366,False
+241,2026-05-20,3,Playoffs,VGK at COL,4-2,skip,away,VGK,,VGK,VGK,SKIP,below_min_edge,Below Min Edge,44.74,39.52,41.32,3.42,5.22,142,+142,2.42,0.0,0.0,0.0,0.0,1339.989523792366,False
+242,2026-05-21,3,Playoffs,MTL at CAR,6-2,skip,home,CAR,,CAR,MTL,SKIP,side_filter_away,Side Filter Away,77.59,65.04,68.15,9.44,12.55,-214,-214,1.4672897196261685,0.0,0.0,0.0,0.0,1339.989523792366,False
+243,2026-05-22,3,Playoffs,VGK at COL,3-1,skip,away,VGK,,VGK,VGK,SKIP,below_min_edge,Below Min Edge,42.01,37.21,38.76,3.25,4.8,158,+158,2.58,0.0,0.0,0.0,0.0,1339.989523792366,False
+244,2026-05-23,3,Playoffs,MTL at CAR,2-3,skip,away,MTL,,MTL,CAR,SKIP,below_min_edge,Below Min Edge,36.56,35.01,36.5,0.06,1.54,174,+174,2.74,0.0,0.0,0.0,0.0,1339.989523792366,False
+245,2026-05-24,3,Playoffs,COL at VGK,3-5,skip,away,COL,,COL,VGK,SKIP,below_min_edge,Below Min Edge,61.03,58.09,60.78,0.25,2.95,-155,-155,1.6451612903225803,0.0,0.0,0.0,0.0,1339.989523792366,False
+246,2026-05-25,3,Playoffs,CAR at MTL,3-2,skip,home,MTL,,MTL,CAR,SKIP,no_positive_kelly,No Positive Kelly,42.92,41.85,43.86,-0.94,1.07,128,+128,2.2800000000000002,0.0,0.0,0.0,0.0,1339.989523792366,False
+247,2026-05-26,3,Playoffs,COL at VGK,1-2,skip,away,COL,,COL,VGK,SKIP,below_min_edge,Below Min Edge,57.14,50.32,52.83,4.31,6.82,-112,-112,1.8928571428571428,0.0,0.0,0.0,0.0,1339.989523792366,False
+248,2026-05-27,3,Playoffs,CAR at MTL,4-0,skip,home,MTL,,MTL,CAR,SKIP,no_positive_kelly,No Positive Kelly,42.01,42.21,44.05,-2.04,-0.2,127,+127,2.27,0.0,0.0,0.0,0.0,1339.989523792366,False
+249,2026-05-29,3,Playoffs,MTL at CAR,1-6,skip,home,CAR,,CAR,CAR,SKIP,side_filter_away,Side Filter Away,76.69,69.08,72.3,4.39,7.61,-261,-261,1.3831417624521074,0.0,0.0,0.0,0.0,1339.989523792366,False
+250,2026-06-02,3,Playoffs,VGK at CAR,5-4,away,away,VGK,VGK,VGK,VGK,WIN,,,52.65,41.7,43.48,9.18,10.95,130,+130,2.3,16.24,5.0,66.9994761896183,87.09931904650378,1427.0888428388698,True

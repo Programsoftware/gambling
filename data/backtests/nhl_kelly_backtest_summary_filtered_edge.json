@@ -1,0 +1,40 @@
+{
+  "created_at": "2026-06-04T23:05:10+00:00",
+  "run_id": "filtered_edge",
+  "label": "Fixed NHL filtered edge strategy",
+  "prediction_source": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_moneyline_walk_forward_predictions_latest.csv",
+  "settings": {
+    "starting_bankroll": 1000.0,
+    "kelly_multiplier": 0.5,
+    "max_bet_fraction": 0.05,
+    "market_blend": 0.2,
+    "min_edge": 0.04,
+    "min_model_prob": 0.48,
+    "max_market_disagreement": null,
+    "side_filter": "all",
+    "prediction_rows": 250
+  },
+  "kelly": {
+    "starting_bankroll": 1000.0,
+    "ending_bankroll": 1455.770560859773,
+    "profit": 455.7705608597731,
+    "roi_on_starting_bankroll": 0.45577056085977313,
+    "bets_placed": 31,
+    "games_evaluated": 250,
+    "win_rate": 0.6129032258064516,
+    "total_staked": 1794.4434594197635,
+    "roi_on_staked": 0.2539899256603757,
+    "kelly_multiplier": 0.5,
+    "max_bet_fraction": 0.05,
+    "min_edge": 0.04,
+    "max_market_disagreement": null,
+    "market_blend": 0.2,
+    "min_model_prob": 0.48,
+    "side_filter": "all",
+    "max_drawdown": 0.09750000000000002
+  },
+  "artifact_paths": {
+    "bets": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_bets_filtered_edge.csv",
+    "summary": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_summary_filtered_edge.json"
+  }
+}

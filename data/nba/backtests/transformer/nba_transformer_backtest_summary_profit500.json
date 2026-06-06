@@ -1,0 +1,64 @@
+{
+  "scenario": "profit500",
+  "source_predictions": "data/nba/backtests/transformer/nba_transformer_backtest_predictions.csv",
+  "settings": {
+    "starting_bankroll": 2000,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0,
+    "max_market_disagreement": 0.25
+  },
+  "kelly": {
+    "starting_bankroll": 2000,
+    "ending_bankroll": 2500.9591644425905,
+    "profit": 500.9591644425917,
+    "roi_on_starting_bankroll": 0.25047958222129585,
+    "bets_placed": 89,
+    "games_evaluated": 100,
+    "win_rate": 0.3707865168539326,
+    "total_staked": 5701.300784542335,
+    "roi_on_staked": 0.0878675206543774,
+    "kelly_multiplier": 0.25,
+    "max_bet_fraction": 0.1,
+    "min_edge": 0,
+    "max_market_disagreement": 0.25,
+    "max_drawdown": 0.3825102852222551
+  },
+  "bet_only_metrics": {
+    "bets": 89,
+    "win_rate": 0.3707865168539326,
+    "avg_model_prob": 0.4249262449781546,
+    "avg_market_prob": 0.3282761803777522,
+    "avg_break_even_prob": 0.34226680525854003,
+    "avg_model_edge_vs_break_even": 0.08265943971961465,
+    "avg_model_edge_vs_market": 0.09665006460040244,
+    "model_brier_on_bets": 0.19858634830691957,
+    "market_brier_on_bets": 0.20124044207085004,
+    "model_log_loss_on_bets": 0.5836460668339367,
+    "market_log_loss_on_bets": 0.5823171944063107,
+    "by_side": {
+      "away": {
+        "bets": 53,
+        "win_rate": 0.32075471698113206,
+        "avg_model_prob": 0.39670912780851686,
+        "avg_market_prob": 0.29464917299841087,
+        "avg_break_even_prob": 0.3071970401517757,
+        "profit": -339.20828716538466,
+        "roi_on_staked": -0.09604757991315174
+      },
+      "home": {
+        "bets": 36,
+        "win_rate": 0.4444444444444444,
+        "avg_model_prob": 0.46646811192234355,
+        "avg_market_prob": 0.3777826079084491,
+        "avg_break_even_prob": 0.39389729277683183,
+        "profit": 840.1674516079765,
+        "roi_on_staked": 0.3872396989593288
+      }
+    }
+  },
+  "skip_reason_counts": {
+    "market_disagreement": 4,
+    "no_positive_kelly": 7
+  }
+}

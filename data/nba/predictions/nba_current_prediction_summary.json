@@ -1,70 +1,337 @@
 {
-  "created_at": "2026-06-03T19:52:12+00:00",
-  "checkpoint_created_at": "2026-06-03T19:51:38+00:00",
-  "checkpoint_retrained_this_run": false,
+  "created_at": "2026-06-05T05:25:36+00:00",
+  "checkpoint_created_at": "2026-06-05T05:25:34+00:00",
+  "checkpoint_retrained_this_run": true,
   "home_team": "San Antonio Spurs",
   "away_team": "New York Knicks",
-  "model_home_win_prob": 0.5518057346343994,
-  "model_away_win_prob": 0.4481942653656006,
-  "feature_count": 359,
+  "model_home_win_prob": 0.5379600524902344,
+  "model_away_win_prob": 0.4620399475097656,
+  "feature_count": 320,
+  "sanity_report": {
+    "home_team": "San Antonio Spurs",
+    "away_team": "New York Knicks",
+    "season_type": 3,
+    "round_type": "FINAL",
+    "is_playoff": 1,
+    "is_finals": 1,
+    "home_prior_games": 267.0,
+    "away_prior_games": 293.0,
+    "home_playoff_prior_games": 19.0,
+    "away_playoff_prior_games": 15.0,
+    "feature_count": 320,
+    "feature_missing_count": 0,
+    "feature_missing_sample": []
+  },
+  "home_away_swap_diagnostic": {
+    "swapped_home_team": "New York Knicks",
+    "swapped_away_team": "San Antonio Spurs",
+    "swapped_home_win_prob": 0.7103113532066345,
+    "swapped_away_win_prob": 0.2896886467933655,
+    "original_home_prob_plus_swapped_home_prob": 1.248271405696869,
+    "interpretation": "Swapped row treats the original away team as home; it is a sanity check, not a neutral-site identity test."
+  },
   "training_diagnostics": {
-    "best_epoch": 6,
-    "best_validation_loss": 0.6116586923599243,
-    "train_rows": 3156,
-    "validation_rows": 746,
-    "positive_rate": 0.5456273555755615,
-    "weighted_train_mean": 0.39608487486839294,
+    "best_epoch": 20,
+    "best_validation_loss": 0.6547991037368774,
+    "train_rows": 2899,
+    "validation_rows": 688,
+    "positive_rate": 0.5460503697395325,
+    "model_type": "transformer",
+    "class_balance": "none",
+    "average_sample_weight": 0.39248642325401306,
+    "weighted_train_mean": 0.5471547245979309,
+    "weighted_train_target_mean": 0.5471547245979309,
+    "raw_train_probability_distribution": {
+      "mean": 0.5455390810966492,
+      "std": 0.10923606157302856,
+      "min": 0.40817710757255554,
+      "q05": 0.40849960744380953,
+      "q25": 0.42390598356723785,
+      "q50": 0.5518476366996765,
+      "q75": 0.6607087254524231,
+      "q95": 0.6846544563770294,
+      "max": 0.6905888915061951
+    },
+    "raw_validation_probability_distribution": {
+      "mean": 0.5447271466255188,
+      "std": 0.1087319403886795,
+      "min": 0.40818455815315247,
+      "q05": 0.4089883670210838,
+      "q25": 0.42379583418369293,
+      "q50": 0.5495757162570953,
+      "q75": 0.659315437078476,
+      "q95": 0.6850425034761429,
+      "max": 0.6896364688873291
+    },
+    "train_probability_distribution": {
+      "mean": 0.5535288453102112,
+      "std": 0.1285891830921173,
+      "min": 0.391496866941452,
+      "q05": 0.39187594652175906,
+      "q25": 0.4100247472524643,
+      "q50": 0.5621172785758972,
+      "q75": 0.6891075670719147,
+      "q95": 0.7161818981170655,
+      "max": 0.7228267192840576
+    },
+    "validation_probability_distribution": {
+      "mean": 0.5525761842727661,
+      "std": 0.12799720466136932,
+      "min": 0.39150556921958923,
+      "q05": 0.3924503415822983,
+      "q25": 0.4098947122693062,
+      "q50": 0.5594219863414764,
+      "q75": 0.6875201165676117,
+      "q95": 0.7166172802448273,
+      "max": 0.7217621207237244
+    },
+    "validation_auc": 0.6517045454545455,
+    "raw_validation_auc": 0.6517045454545455,
+    "validation_brier": 0.2319260537624359,
+    "validation_accuracy_0_50": 0.6133720930232558,
+    "calibration": {
+      "method": "platt",
+      "applied": true,
+      "validation_auc": 0.6517045454545455,
+      "min_auc": 0.52,
+      "scale": 1.1917363405227661,
+      "bias": 0.0017129270127043128,
+      "reason": "validation AUC met threshold"
+    },
     "history_tail": [
       {
-        "epoch": 1,
-        "train_loss": 0.6310022984232221,
-        "validation_loss": 0.6259476542472839
+        "epoch": 11,
+        "train_loss": 0.6716444492340088,
+        "validation_loss": 0.6653514504432678,
+        "validation_prob_mean": 0.5541390776634216,
+        "validation_prob_std": 0.0606694258749485,
+        "validation_prob_min": 0.4881720542907715,
+        "validation_prob_max": 0.6231012344360352
       },
       {
-        "epoch": 2,
-        "train_loss": 0.6302735720361982,
-        "validation_loss": 0.6234501600265503
+        "epoch": 12,
+        "train_loss": 0.6699189941088358,
+        "validation_loss": 0.6630949378013611,
+        "validation_prob_mean": 0.5532194972038269,
+        "validation_prob_std": 0.07091965526342392,
+        "validation_prob_min": 0.4788588881492615,
+        "validation_prob_max": 0.6351292133331299
       },
       {
-        "epoch": 3,
-        "train_loss": 0.627528292792184,
-        "validation_loss": 0.62077397108078
+        "epoch": 13,
+        "train_loss": 0.6685489217440287,
+        "validation_loss": 0.6611724495887756,
+        "validation_prob_mean": 0.5523558259010315,
+        "validation_prob_std": 0.08088652789592743,
+        "validation_prob_min": 0.46828681230545044,
+        "validation_prob_max": 0.6463371515274048
       },
       {
-        "epoch": 4,
-        "train_loss": 0.6225281357765198,
-        "validation_loss": 0.6185160279273987
+        "epoch": 14,
+        "train_loss": 0.6677465438842773,
+        "validation_loss": 0.6601569652557373,
+        "validation_prob_mean": 0.562689483165741,
+        "validation_prob_std": 0.09039021283388138,
+        "validation_prob_min": 0.4578413665294647,
+        "validation_prob_max": 0.6576007008552551
       },
       {
-        "epoch": 5,
-        "train_loss": 0.622792763369424,
-        "validation_loss": 0.6124393939971924
+        "epoch": 15,
+        "train_loss": 0.664943794409434,
+        "validation_loss": 0.658551812171936,
+        "validation_prob_mean": 0.5567067861557007,
+        "validation_prob_std": 0.09796804189682007,
+        "validation_prob_min": 0.44668468832969666,
+        "validation_prob_max": 0.6656114459037781
       },
       {
-        "epoch": 6,
-        "train_loss": 0.6183219126292637,
-        "validation_loss": 0.6116586923599243
+        "epoch": 16,
+        "train_loss": 0.6647311250368754,
+        "validation_loss": 0.6575510501861572,
+        "validation_prob_mean": 0.5555975437164307,
+        "validation_prob_std": 0.10434971749782562,
+        "validation_prob_min": 0.4359114170074463,
+        "validation_prob_max": 0.6733343005180359
       },
       {
-        "epoch": 7,
-        "train_loss": 0.61725366967065,
-        "validation_loss": 0.6118770837783813
+        "epoch": 17,
+        "train_loss": 0.664577861626943,
+        "validation_loss": 0.656577467918396,
+        "validation_prob_mean": 0.5466749668121338,
+        "validation_prob_std": 0.10780451446771622,
+        "validation_prob_min": 0.4266788959503174,
+        "validation_prob_max": 0.6786455512046814
       },
       {
-        "epoch": 8,
-        "train_loss": 0.6161940864154271,
-        "validation_loss": 0.6135280132293701
+        "epoch": 18,
+        "train_loss": 0.6638782024383545,
+        "validation_loss": 0.6558953523635864,
+        "validation_prob_mean": 0.544276237487793,
+        "validation_prob_std": 0.10937801003456116,
+        "validation_prob_min": 0.4184491038322449,
+        "validation_prob_max": 0.6826016902923584
       },
       {
-        "epoch": 9,
-        "train_loss": 0.621169558593205,
-        "validation_loss": 0.6123322248458862
+        "epoch": 19,
+        "train_loss": 0.6612963676452637,
+        "validation_loss": 0.6552972197532654,
+        "validation_prob_mean": 0.5449358224868774,
+        "validation_prob_std": 0.10896474123001099,
+        "validation_prob_min": 0.412987619638443,
+        "validation_prob_max": 0.6857513189315796
       },
       {
-        "epoch": 10,
-        "train_loss": 0.6197260873658317,
-        "validation_loss": 0.614836573600769
+        "epoch": 20,
+        "train_loss": 0.6600851019223531,
+        "validation_loss": 0.6547991037368774,
+        "validation_prob_mean": 0.5447271466255188,
+        "validation_prob_std": 0.1087319403886795,
+        "validation_prob_min": 0.4081844985485077,
+        "validation_prob_max": 0.6896364688873291
       }
-    ]
+    ],
+    "training_row_filter": {
+      "enabled": true,
+      "rule": "drop late regular-season incentive-risk games involving playoff rest or tank risk",
+      "start_month": 4,
+      "start_day": 1,
+      "playoff_teams_only": true,
+      "include_tank_risk": true,
+      "tank_win_pct_threshold": 0.4,
+      "rows_before": 3903,
+      "rows_removed": 316,
+      "rows_after": 3587,
+      "removed_date_range": {
+        "start": "2024-04-01",
+        "end": "2026-04-13"
+      },
+      "removed_by_season": {
+        "2024": 114,
+        "2025": 102,
+        "2026": 100
+      }
+    },
+    "feature_selection": {
+      "enabled": true,
+      "mode": "grouped",
+      "base_feature_count": 530,
+      "selected_feature_count": 320,
+      "max_features": 320,
+      "max_missing_fraction": 0.45,
+      "group_quota": 40,
+      "selected_by_group": {
+        "h2h": 30,
+        "players": 82,
+        "recent_team": 71,
+        "schedule": 9,
+        "series": 2,
+        "strength": 36,
+        "style_matchup": 40,
+        "team_profile": 46
+      },
+      "top_scores": [
+        {
+          "column": "edge_strength_power_rating_over_1500",
+          "group": "strength",
+          "score": 0.357284569333647
+        },
+        {
+          "column": "edge_strength_power_rating",
+          "group": "strength",
+          "score": 0.357284569333647
+        },
+        {
+          "column": "edge_strength_elo_rating_over_1500",
+          "group": "strength",
+          "score": 0.3501756975239791
+        },
+        {
+          "column": "edge_strength_elo",
+          "group": "strength",
+          "score": 0.3501756975239791
+        },
+        {
+          "column": "edge_style_regular_net_rating",
+          "group": "style_matchup",
+          "score": 0.34664733211279
+        },
+        {
+          "column": "edge_regular_avg_net_rating_est",
+          "group": "team_profile",
+          "score": 0.34664733211279
+        },
+        {
+          "column": "edge_strength_power_rating_percentile",
+          "group": "strength",
+          "score": 0.34639794160641413
+        },
+        {
+          "column": "edge_strength_power_rating_rank",
+          "group": "strength",
+          "score": 0.3463979416064138
+        },
+        {
+          "column": "edge_regular_avg_margin",
+          "group": "team_profile",
+          "score": 0.34612367400020616
+        },
+        {
+          "column": "edge_strength_current_season_net_rating",
+          "group": "strength",
+          "score": 0.34532334658628316
+        },
+        {
+          "column": "edge_strength_elo_rank",
+          "group": "strength",
+          "score": 0.34292008253714484
+        },
+        {
+          "column": "edge_strength_elo_percentile",
+          "group": "strength",
+          "score": 0.34292008253714473
+        },
+        {
+          "column": "edge_style_last20_net_rating",
+          "group": "style_matchup",
+          "score": 0.3395854411224239
+        },
+        {
+          "column": "edge_last20_avg_net_rating_est",
+          "group": "recent_team",
+          "score": 0.3395854411224239
+        },
+        {
+          "column": "edge_last20_avg_margin",
+          "group": "recent_team",
+          "score": 0.3394754401594248
+        },
+        {
+          "column": "edge_strength_last20_net_rating",
+          "group": "strength",
+          "score": 0.338706766084747
+        },
+        {
+          "column": "edge_strength_sos_adjusted_net_rating",
+          "group": "strength",
+          "score": 0.3368560517581798
+        },
+        {
+          "column": "edge_strength_win_pct_rank",
+          "group": "strength",
+          "score": 0.3328499725266093
+        },
+        {
+          "column": "edge_strength_overall_seed",
+          "group": "strength",
+          "score": 0.3328499725266093
+        },
+        {
+          "column": "edge_strength_win_pct_percentile",
+          "group": "strength",
+          "score": 0.33284997252660925
+        }
+      ]
+    },
+    "feature_count": 320
   }
 }

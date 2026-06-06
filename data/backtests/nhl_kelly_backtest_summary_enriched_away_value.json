@@ -1,0 +1,110 @@
+{
+  "created_at": "2026-06-05T00:49:13+00:00",
+  "run_id": "enriched_away_value",
+  "label": "Enriched NHL away value strategy",
+  "description": "Away-only value variant from the enriched feature grid.",
+  "prediction_source": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_moneyline_walk_forward_predictions_latest.csv",
+  "feature_count": 115,
+  "model_type": "HistGradientBoostingClassifier",
+  "tonight_prediction": {
+    "home_win_probability": 0.46705310072585415,
+    "away_win_probability": 0.5329468992741458,
+    "predicted_winner": "VGK",
+    "recommended_bet_side": "away",
+    "recommended_bet_team": "VGK",
+    "recommended_bet_edge": 0.10559647192371852,
+    "home_kelly_fraction": 0.0,
+    "away_kelly_fraction": 0.18439980918022478
+  },
+  "model_backtest_metrics": {
+    "rows": 250,
+    "home_win_rate": 0.508,
+    "avg_probability": 0.5375342115412488,
+    "brier": 0.23674913045605495,
+    "log_loss": 0.6651786321741927,
+    "accuracy_0_50": 0.556
+  },
+  "settings": {
+    "starting_bankroll": 1000.0,
+    "kelly_multiplier": 0.5,
+    "max_bet_fraction": 0.03,
+    "market_blend": 0.0,
+    "min_edge": 0.0,
+    "min_model_prob": 0.45,
+    "max_market_disagreement": 0.08,
+    "side_filter": "away",
+    "prediction_rows": 250
+  },
+  "kelly": {
+    "starting_bankroll": 1000.0,
+    "ending_bankroll": 1390.9371866648269,
+    "profit": 390.93718666482687,
+    "roi_on_starting_bankroll": 0.39093718666482685,
+    "bets_placed": 41,
+    "games_evaluated": 250,
+    "win_rate": 0.6829268292682927,
+    "total_staked": 1224.5584257803782,
+    "roi_on_staked": 0.31924747601625714,
+    "kelly_multiplier": 0.5,
+    "max_bet_fraction": 0.03,
+    "min_edge": 0.0,
+    "max_market_disagreement": 0.08,
+    "market_blend": 0.0,
+    "min_model_prob": 0.45,
+    "side_filter": "away",
+    "max_drawdown": 0.10397043698537138
+  },
+  "split_results": {
+    "first_half": {
+      "starting_bankroll": 1000.0,
+      "ending_bankroll": 1119.7735060334085,
+      "profit": 119.77350603340841,
+      "bets_placed": 17,
+      "games_evaluated": 125,
+      "win_rate": 0.6470588235294118,
+      "total_staked": 500.49407159398044,
+      "roi_on_staked": 0.23931053898790866,
+      "max_drawdown": 0.10397043698537138
+    },
+    "second_half": {
+      "starting_bankroll": 1000.0,
+      "ending_bankroll": 1242.1594002451134,
+      "profit": 242.15940024511374,
+      "bets_placed": 24,
+      "games_evaluated": 125,
+      "win_rate": 0.7083333333333334,
+      "total_staked": 646.6167937400683,
+      "roi_on_staked": 0.3745021821107522,
+      "max_drawdown": 0.03000000000000002
+    },
+    "full": {
+      "starting_bankroll": 1000.0,
+      "ending_bankroll": 1390.9371866648269,
+      "profit": 390.93718666482687,
+      "bets_placed": 41,
+      "games_evaluated": 250,
+      "win_rate": 0.6829268292682927,
+      "total_staked": 1224.5584257803782,
+      "roi_on_staked": 0.31924747601625714,
+      "max_drawdown": 0.10397043698537138
+    }
+  },
+  "bootstrap": {
+    "trials": 1000,
+    "sampled_games_per_trial": 41,
+    "mean_final_bankroll": 1419.9144729378836,
+    "median_final_bankroll": 1404.344524801612,
+    "p05_final_bankroll": 1052.4703074699617,
+    "p95_final_bankroll": 1858.9281168749576,
+    "probability_profit": 0.977
+  },
+  "artifact_paths": {
+    "bets": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_bets_enriched_away_value.csv",
+    "summary": "C:\\Users\\LouisWei\\vegas\\data\\backtests\\nhl_kelly_backtest_summary_enriched_away_value.json"
+  },
+  "notes": [
+    "Generated from the enriched NHL rolling feature table.",
+    "Features are pregame-safe and calculated only from games before the target date.",
+    "This strategy was selected from the 250-game walk-forward grid, so treat it as research until validated on more seasons."
+  ]
+}
